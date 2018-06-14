@@ -1,0 +1,2209 @@
+Rank, Name, Company, Worth
+1, Jeff Bezos, None, 112000.0
+2, Bill Gates, None, 90000.0
+3, Warren Buffett, None, 84000.0
+4, Bernard Arnault, None, 72000.0
+5, Mark Zuckerberg, None, 71000.0
+6, Amancio Ortega, None, 70000.0
+7, Carlos Slim Helu, None, 67100.0
+8, Charles Koch, None, 60000.0
+8, David Koch, None, 60000.0
+10, Larry Ellison, None, 58500.0
+11, Michael Bloomberg, None, 50000.0
+12, Larry Page, None, 48800.0
+13, Sergey Brin, None, 47500.0
+14, Jim Walton, None, 46400.0
+15, S. Robson Walton, None, 46200.0
+16, Alice Walton, None, 46000.0
+17, Ma Huateng, None, 45300.0
+18, Francoise Bettencourt Meyers, None, 42200.0
+19, Mukesh Ambani, None, 40100.0
+20, Jack Ma, None, 39000.0
+21, Sheldon Adelson, None, 38500.0
+22, Steve Ballmer, None, 38400.0
+23, Li Ka-shing, None, 34900.0
+24, Hui Ka Yan, None, 30300.0
+24, Lee Shau Kee, None, 30300.0
+26, Wang Jianlin, None, 30000.0
+27, Beate Heister & Karl Albrecht Jr., None, 29800.0
+28, Phil Knight, None, 29600.0
+29, Jorge Paulo Lemann, None, 27400.0
+30, Francois Pinault, None, 27000.0
+31, Georg Schaeffler, None, 25300.0
+32, Susanne Klatten, None, 25000.0
+32, David Thomson, None, 25000.0
+34, Jacqueline Mars, None, 23600.0
+34, John Mars, None, 23600.0
+36, Joseph Safra, None, 23500.0
+37, Giovanni Ferrero, None, 23000.0
+37, Dietrich Mateschitz, None, 23000.0
+39, Michael Dell, None, 22700.0
+39, Masayoshi Son, None, 22700.0
+41, Serge Dassault, None, 22600.0
+42, Stefan Quandt, None, 22000.0
+43, Yang Huiyan, None, 21900.0
+44, Paul Allen, None, 21700.0
+45, Leonardo Del Vecchio, None, 21200.0
+46, Dieter Schwarz, None, 20900.0
+47, Thomas Peterffy, None, 20300.0
+48, Theo Albrecht, Jr., None, 20200.0
+48, Len Blavatnik, None, 20200.0
+50, He Xiangjian, None, 20100.0
+50, Lui Che Woo, None, 20100.0
+52, James Simons, None, 20000.0
+52, Henry Sy, None, 20000.0
+54, Elon Musk, None, 19900.0
+55, Hinduja family, None, 19500.0
+55, Tadashi Yanai, None, 19500.0
+57, Vladimir Lisin, None, 19100.0
+58, Laurene Powell Jobs, None, 18800.0
+58, Azim Premji, None, 18800.0
+60, Alexey Mordashov, None, 18700.0
+61, Lee Kun-Hee, None, 18600.0
+62, Lakshmi Mittal, None, 18500.0
+63, Wang Wei, None, 18200.0
+64, Leonid Mikhelson, None, 18000.0
+65, Charoen Sirivadhanabhakdi, None, 17900.0
+66, Pallonji Mistry, None, 17800.0
+67, Ray Dalio, None, 17700.0
+68, Takemitsu Takizaki, None, 17500.0
+69, William Ding, None, 17400.0
+69, R. Budi Hartono, None, 17400.0
+69, Gina Rinehart, None, 17400.0
+72, German Larrea Mota Velasco, None, 17300.0
+73, Carl Icahn, None, 16800.0
+73, Stefan Persson, None, 16800.0
+75, Michael Hartono, None, 16700.0
+75, Joseph Lau, None, 16700.0
+77, Thomas & Raymond Kwok, None, 16500.0
+78, Vagit Alekperov, None, 16400.0
+78, James Ratcliffe, None, 16400.0
+80, Donald Bren, None, 16300.0
+80, Iris Fontbona, None, 16300.0
+82, Gennady Timchenko, None, 16000.0
+83, Abigail Johnson, None, 15900.0
+83, Vladimir Potanin, None, 15900.0
+83, Lukas Walton, None, 15900.0
+86, Charlene de Carvalho-Heineken, None, 15800.0
+87, Zhang Zhidong, None, 15600.0
+88, Petr Kellner, None, 15500.0
+88, Andrey Melnichenko, None, 15500.0
+88, David & Simon Reuben, None, 15500.0
+91, Klaus-Michael Kuehne, None, 15300.0
+91, Li Shufu, None, 15300.0
+93, Mikhail Fridman, None, 15100.0
+94, Rupert Murdoch, None, 15000.0
+95, Dhanin Chearavanont, None, 14900.0
+96, Robert Kuok, None, 14800.0
+97, Emmanuel Besnier, None, 14700.0
+98, Shiv Nadar, None, 14600.0
+99, Viktor Vekselberg, None, 14400.0
+100, Aliko Dangote, None, 14100.0
+100, Harold Hamm, None, 14100.0
+102, Steve Cohen, None, 14000.0
+102, Dustin Moskovitz, None, 14000.0
+102, Marcel Herrmann Telles, None, 14000.0
+105, Reinhold Wuerth, None, 13600.0
+106, Charles Ergen, None, 13400.0
+106, Eric Schmidt, None, 13400.0
+108, Philip Anschutz, None, 13000.0
+108, Jim Kennedy, None, 13000.0
+108, Blair Parry-Okeden, None, 13000.0
+108, Alain Wertheimer, None, 13000.0
+108, Gerard Wertheimer, None, 13000.0
+113, Leonard Lauder, None, 12900.0
+113, Heinz Hermann Thiele, None, 12900.0
+115, Dilip Shanghvi, None, 12800.0
+116, Hasso Plattner, None, 12700.0
+117, Stephen Schwarzman, None, 12600.0
+118, Lei Jun, None, 12500.0
+118, Hans Rausing, None, 12500.0
+118, Alisher Usmanov, None, 12500.0
+121, Donald Newhouse, None, 12300.0
+122, Peter Woo, None, 12200.0
+123, Luis Carlos Sarmiento, None, 12100.0
+124, Robin Li, None, 12000.0
+124, Carlos Alberto Sicupira, None, 12000.0
+126, Seo Jung-Jin, None, 11900.0
+127, Kumar Birla, None, 11800.0
+127, Alexander Otto, None, 11800.0
+127, Stefano Pessina, None, 11800.0
+130, Udo & Harald Tschira, None, 11700.0
+130, Wang Wenyin, None, 11700.0
+132, Andrew Beal, None, 11600.0
+132, Lee Man Tat, None, 11600.0
+134, John Menard, Jr., None, 11500.0
+135, Xu Shihui, None, 11300.0
+135, Zhou Hongyi, None, 11300.0
+137, Gong Hongjia, None, 11200.0
+138, Michael Otto, None, 11000.0
+138, David Tepper, None, 11000.0
+140, Roman Abramovich, None, 10800.0
+140, Liu Qiangdong, None, 10800.0
+140, Robert & Philip Ng, None, 10800.0
+143, Alberto Bailleres Gonzalez, None, 10700.0
+143, Uday Kotak, None, 10700.0
+145, Pierre Omidyar, None, 10500.0
+146, Walter P.J. Droege, None, 10300.0
+147, Dietmar Hopp, None, 10200.0
+148, Graeme Hart, None, 10100.0
+148, Eduardo Saverin, None, 10100.0
+148, Yan Zhi, None, 10100.0
+151, Radhakishan Damani, None, 10000.0
+152, German Khan, None, 9800.0
+152, Ronald Perelman, None, 9800.0
+154, Gautam Adani, None, 9700.0
+154, Micky Arison, None, 9700.0
+154, Pan Zhengmin, None, 9700.0
+154, Joseph Tsai, None, 9700.0
+158, Thomas Frist, Jr., None, 9600.0
+158, Mikhail Prokhorov, None, 9600.0
+160, Galen Weston, None, 9500.0
+160, Zong Qinghou, None, 9500.0
+162, Eyal Ofer, None, 9400.0
+162, Charles Schwab, None, 9400.0
+164, Gianluigi & Rafaela Aponte, None, 9300.0
+164, Herbert Kohler, Jr., None, 9300.0
+164, Viktor Rashnikov, None, 9300.0
+167, Harry Triguboff, None, 9200.0
+167, August von Finck, None, 9200.0
+167, Yao Zhenhua, None, 9200.0
+170, Jan Koum, None, 9100.0
+170, Cyrus Poonawalla, None, 9100.0
+172, James Goodnight, None, 9000.0
+172, Ken Griffin, None, 9000.0
+174, Giorgio Armani, None, 8900.0
+174, Ernesto Bertarelli, None, 8900.0
+176, Savitri Jindal, None, 8800.0
+176, Sunil Mittal, None, 8800.0
+178, James Chambers, None, 8700.0
+178, Katharine Rayner, None, 8700.0
+178, Margaretta Taylor, None, 8700.0
+181, Terry Gou, None, 8500.0
+181, Gordon Moore, None, 8500.0
+183, James Irving, None, 8300.0
+183, Stanley Kroenke, None, 8300.0
+185, Melker Schorling, None, 8200.0
+186, Johann Graf, None, 8100.0
+186, Guo Guangchang, None, 8100.0
+186, John Malone, None, 8100.0
+186, Xavier Niel, None, 8100.0
+190, Silvio Berlusconi, None, 8000.0
+190, Carl Cook, None, 8000.0
+190, David Geffen, None, 8000.0
+190, Hui Wing Mau, None, 8000.0
+190, Walter Kwok, None, 8000.0
+190, George Soros, None, 8000.0
+196, Edward Johnson, III., None, 7900.0
+196, Massimiliana Landini Aleotti, None, 7900.0
+198, David Duffield, None, 7800.0
+198, George Kaiser, None, 7800.0
+198, Patrick Soon-Shiong, None, 7800.0
+198, Zhou Qunfei, None, 7800.0
+202, Nicky Oppenheimer, None, 7700.0
+202, Sun Piaoyang, None, 7700.0
+202, Wu Yajun, None, 7700.0
+205, Alexei Kuzmichev, None, 7600.0
+205, Stephen Ross, None, 7600.0
+207, Vincent Bollore, None, 7400.0
+207, Pauline MacMillan Keinath, None, 7400.0
+207, Jay Y. Lee, None, 7400.0
+207, Anders Holch Povlsen, None, 7400.0
+211, Eli Broad, None, 7300.0
+211, Michael Kadoorie, None, 7300.0
+211, Iskander Makhmudov, None, 7300.0
+211, Frederik Paulsen, None, 7300.0
+211, Sun Hongbin, None, 7300.0
+211, Christy Walton, None, 7300.0
+217, Shahid Khan, None, 7200.0
+217, Ananda Krishnan, None, 7200.0
+217, Carrie Perrodo, None, 7200.0
+217, Quek Leng Chan, None, 7200.0
+217, Wang Wenxue, None, 7200.0
+222, John Doerr, None, 7100.0
+222, Patrick Drahi, None, 7100.0
+222, Eva Gonda de Rivera, None, 7100.0
+222, Willi & Isolde Liebherr, None, 7100.0
+222, Ricardo Salinas Pliego, None, 7100.0
+222, Suh Kyung-Bae, None, 7100.0
+228, Pollyanna Chu, None, 7000.0
+228, John Fredriksen, None, 7000.0
+228, Goh Cheng Liang, None, 7000.0
+228, Sri Prakash Lohia, None, 7000.0
+228, Lu Zhiqiang, None, 7000.0
+228, Jorn Rausing, None, 7000.0
+228, Johann Rupert, None, 7000.0
+228, Jacques Saade, None, 7000.0
+228, Wu Shaoxun, None, 7000.0
+237, Leonid Fedun, None, 6900.0
+237, Kim Jung-Ju, None, 6900.0
+237, Sandra Ortega Mera, None, 6900.0
+237, Jim Pattison, None, 6900.0
+237, Michael Platt, None, 6900.0
+242, Chan Laiwa, None, 6800.0
+242, David Green, None, 6800.0
+242, Hank & Doug Meijer, None, 6800.0
+242, Dmitry Rybolovlev, None, 6800.0
+242, Tsai Eng-Meng, None, 6800.0
+242, Andreas von Bechtolsheim, None, 6800.0
+248, Oleg Deripaska, None, 6700.0
+248, Liu Yongxing, None, 6700.0
+248, Ludwig Merckle, None, 6700.0
+251, Brian Acton, None, 6600.0
+251, John Grayken, None, 6600.0
+251, Ann Walton Kroenke, None, 6600.0
+251, Augusto & Giorgio Perfetti, None, 6600.0
+251, Finn Rausing, None, 6600.0
+251, Kirsten Rausing, None, 6600.0
+251, Odd Reitan, None, 6600.0
+251, Nassef Sawiris, None, 6600.0
+251, Wee Cho Yaw, None, 6600.0
+251, Aloys Wobben, None, 6600.0
+261, Leon Black, None, 6500.0
+261, Ivan Glasenberg, None, 6500.0
+261, John Paulson, None, 6500.0
+261, Wei Jianjun, None, 6500.0
+265, Francis Choi, None, 6400.0
+265, Erivan Haub, None, 6400.0
+265, Jason Jiang, None, 6400.0
+265, Suleiman Kerimov, None, 6400.0
+265, Ian & Richard Livingstone, None, 6400.0
+265, Pang Kang, None, 6400.0
+265, David Shaw, None, 6400.0
+265, Kushal Pal Singh, None, 6400.0
+265, John A. Sobrato, None, 6400.0
+274, Acharya Balkrishna, None, 6300.0
+274, Guenther Fielmann, None, 6300.0
+274, Daniel Gilbert, None, 6300.0
+274, Antonia Johnson, None, 6300.0
+274, Vikram Lal, None, 6300.0
+274, Akira Mori, None, 6300.0
+274, Maria-Elisabeth Schaeffler-Thumann, None, 6300.0
+281, Albert Frere, None, 6200.0
+281, Richard Kinder, None, 6200.0
+281, Robert Kraft, None, 6200.0
+281, Ralph Lauren, None, 6200.0
+281, Bruno Schroder, None, 6200.0
+281, Nusli Wadia, None, 6200.0
+287, Pierre Bellon, None, 6100.0
+287, Les Wexner, None, 6100.0
+289, Benu Gopal Bangur, None, 6000.0
+289, David Cheriton, None, 6000.0
+289, Ma Jianrong, None, 6000.0
+289, Whitney MacMillan, None, 6000.0
+289, Dan Olsson, None, 6000.0
+289, Vivek Chaand Sehgal, None, 6000.0
+289, Teh Hong Piow, None, 6000.0
+296, Abdulla bin Ahmad Al Ghurair, None, 5900.0
+296, Maria Asuncion Aramburuzabala, None, 5900.0
+296, Ralph Dommermuth, None, 5900.0
+296, Frank Lowy, None, 5900.0
+296, Wolfgang Marguerre, None, 5900.0
+296, Marijke Mars, None, 5900.0
+296, Pamela Mars, None, 5900.0
+296, Valerie Mars, None, 5900.0
+296, Victoria Mars, None, 5900.0
+305, David & Frederick Barclay, None, 5800.0
+305, John Gokongwei, Jr., None, 5800.0
+305, Kwon Hyuk-Bin, None, 5800.0
+305, Nancy Walton Laurie, None, 5800.0
+305, Lin Yu-Ling, None, 5800.0
+305, Tom & Judy Love, None, 5800.0
+305, Robert Rowling, None, 5800.0
+305, Dennis Washington, None, 5800.0
+305, Yao Liangsong, None, 5800.0
+305, Zhang Jindong, None, 5800.0
+315, Juan Francisco Beckmann Vidal, None, 5700.0
+315, David Sun, None, 5700.0
+315, John Tu, None, 5700.0
+315, Martin Viessmann, None, 5700.0
+315, Stef Wertheimer, None, 5700.0
+315, Hansjoerg Wyss, None, 5700.0
+321, James Dyson, None, 5600.0
+321, Laurence Graff, None, 5600.0
+321, Jen-Hsun Huang, None, 5600.0
+321, Charles Johnson, None, 5600.0
+321, Jerry Jones, None, 5600.0
+321, Kei Hoi Pang, None, 5600.0
+321, Kwee family, None, 5600.0
+321, Lee Shin Cheng, None, 5600.0
+321, Richard LeFrak, None, 5600.0
+321, Shigenobu Nagamori, None, 5600.0
+321, Steven Rales, None, 5600.0
+321, Friede Springer, None, 5600.0
+321, Yeung Kin-man, None, 5600.0
+334, Rinat Akhmetov, None, 5500.0
+334, Shari Arison, None, 5500.0
+334, Dannine Avara, None, 5500.0
+334, Rahel Blocher, None, 5500.0
+334, Andrew Currie, None, 5500.0
+334, Scott Duncan, None, 5500.0
+334, Milane Frantz, None, 5500.0
+334, Diane Hendricks, None, 5500.0
+334, Magdalena Martullo-Blocher, None, 5500.0
+334, Hiroshi Mikitani, None, 5500.0
+334, Gabe Newell, None, 5500.0
+334, Pan Sutong, None, 5500.0
+334, Anthony Pratt, None, 5500.0
+334, John Reece, None, 5500.0
+334, Randa Williams, None, 5500.0
+334, Zhang Bangxin, None, 5500.0
+334, Zhang Shiping, None, 5500.0
+351, Jean-Michel Besnier, None, 5400.0
+351, Marie Besnier Beauvalot, None, 5400.0
+351, Richard DeVos, None, 5400.0
+351, Michael Herz, None, 5400.0
+351, Wolfgang Herz, None, 5400.0
+351, Kjeld Kirk Kristiansen, None, 5400.0
+351, Sofie Kirk Kristiansen, None, 5400.0
+351, Thomas Kirk Kristiansen, None, 5400.0
+351, Lam Wai Ying, None, 5400.0
+351, Lin Xiucheng, None, 5400.0
+351, Margarita Louis-Dreyfus, None, 5400.0
+351, George Roberts, None, 5400.0
+351, Edward Roski, Jr., None, 5400.0
+351, Agnete Kirk Thinggaard, None, 5400.0
+365, Mike Adenuga, None, 5300.0
+365, Jim Davis, None, 5300.0
+365, David Filo, None, 5300.0
+365, Pansy Ho, None, 5300.0
+365, Henry Kravis, None, 5300.0
+365, Emanuele (Lino) Saputo, None, 5300.0
+365, Xu Chuanhua, None, 5300.0
+372, Alexander Abramov, None, 5200.0
+372, Israel Englander, None, 5200.0
+372, Frits Goldschmeding, None, 5200.0
+372, Marian Ilitch, None, 5200.0
+372, Bruce Kovner, None, 5200.0
+372, George Lucas, None, 5200.0
+372, Kalanithi Maran, None, 5200.0
+372, Elisabeth Mohn, None, 5200.0
+372, Robert Rich, Jr., None, 5200.0
+372, Wang Chuanfu, None, 5200.0
+382, Maria Fernanda Amorim, None, 5100.0
+382, Pyotr Aven, None, 5100.0
+382, Bernard Marcus, None, 5100.0
+382, Pedro Moreira Salles, None, 5100.0
+382, Frederick Smith, None, 5100.0
+382, Ronda Stryker, None, 5100.0
+388, Richard Branson, None, 5000.0
+388, Subhash Chandra, None, 5000.0
+388, Denise Coates, None, 5000.0
+388, Martha Ingram, None, 5000.0
+388, Law Kar Po, None, 5000.0
+388, Joe Lewis, None, 5000.0
+388, Gabriella Meister, None, 5000.0
+388, Fernando Roberto Moreira Salles, None, 5000.0
+388, Joao Moreira Salles, None, 5000.0
+388, Walther Moreira Salles Junior, None, 5000.0
+388, Pankaj Patel, None, 5000.0
+388, Karen Pritzker, None, 5000.0
+388, Thomas Schmidheiny, None, 5000.0
+388, Vichai Srivaddhanaprabha, None, 5000.0
+388, Keiichiro Takahara, None, 5000.0
+388, M.A. Yusuff Ali, None, 5000.0
+404, Robert Bass, None, 4900.0
+404, Marc Benioff, None, 4900.0
+404, Martin & Olivier Bouygues, None, 4900.0
+404, Chung Mong-Koo, None, 4900.0
+404, Charles Dolan, None, 4900.0
+404, Ray Lee Hunt, None, 4900.0
+404, Liu Yonghao, None, 4900.0
+404, John Overdeck, None, 4900.0
+404, Ajay Piramal, None, 4900.0
+404, Enrique Razon, Jr., None, 4900.0
+404, Sumner Redstone, None, 4900.0
+404, Paolo & Gianfelice Mario Rocca, None, 4900.0
+404, Reinhold Schmieding, None, 4900.0
+404, David Siegel, None, 4900.0
+404, Andrei Skoch, None, 4900.0
+404, Yu Yong, None, 4900.0
+404, Sam Zell, None, 4900.0
+404, Zhou Jianping, None, 4900.0
+422, Bajaj brothers, None, 4800.0
+422, Garrett Camp, None, 4800.0
+422, Bubba Cathy, None, 4800.0
+422, Dan Cathy, None, 4800.0
+422, Fu Liquan, None, 4800.0
+422, Philip & Cristina Green, None, 4800.0
+422, Mikhail Gutseriev, None, 4800.0
+422, Rupert Johnson, Jr., None, 4800.0
+422, Travis Kalanick, None, 4800.0
+422, Andrei Kozitsyn, None, 4800.0
+422, Horst Paulmann, None, 4800.0
+422, Julio Ponce Lerou, None, 4800.0
+422, Trevor Rees-Jones, None, 4800.0
+422, Mark Scheinberg, None, 4800.0
+422, Jeffrey Skoll, None, 4800.0
+422, Murat Ulker, None, 4800.0
+422, Daniel Ziff, None, 4800.0
+422, Dirk Ziff, None, 4800.0
+422, Robert Ziff, None, 4800.0
+441, Juergen Blickle, None, 4700.0
+441, Bernard Broermann, None, 4700.0
+441, Clive Calder, None, 4700.0
+441, Stanley Druckenmiller, None, 4700.0
+441, Ted Lerner, None, 4700.0
+441, Li Shuirong, None, 4700.0
+441, Lim Kok Thay, None, 4700.0
+441, Niels Peter Louis-Hansen, None, 4700.0
+441, Fredrik Lundberg, None, 4700.0
+441, Gwendolyn Sontheim Meyer, None, 4700.0
+441, J. Christopher Reyes, None, 4700.0
+441, Jude Reyes, None, 4700.0
+441, Alexandra Schoerghuber, None, 4700.0
+441, Sheldon Solow, None, 4700.0
+441, Lucio Tan, None, 4700.0
+456, Majid Al Futtaim, None, 4600.0
+456, Andrej Babis, None, 4600.0
+456, Dona Bertarelli, None, 4600.0
+456, Cai Kui, None, 4600.0
+456, Bidzina Ivanishvili, None, 4600.0
+456, Jeremy Jacobs, Sr., None, 4600.0
+456, Chris Larsen, None, 4600.0
+456, Patrick Lee, None, 4600.0
+456, Liang Wengen, None, 4600.0
+456, Denis O'Brien, None, 4600.0
+466, Kapil & Rahul Bhatia, None, 4500.0
+466, Jean-Pierre Cayard, None, 4500.0
+466, Chey Tae-Won, None, 4500.0
+466, Fang Wei, None, 4500.0
+466, Andrei Guriev, None, 4500.0
+466, Bertil Hult, None, 4500.0
+466, Ji Changqun, None, 4500.0
+466, Paul Tudor Jones, II., None, 4500.0
+466, Robert Miller, None, 4500.0
+466, Sergei Popov, None, 4500.0
+466, Juan Roig, None, 4500.0
+466, John Sall, None, 4500.0
+466, Leonard Stern, None, 4500.0
+466, Ye Chenghai, None, 4500.0
+480, Anthony Bamford, None, 4400.0
+480, Chu Mang Yee, None, 4400.0
+480, Juan Carlos Escotet, None, 4400.0
+480, Miguel Fluxa Rossello, None, 4400.0
+480, Andrew Forrest, None, 4400.0
+480, Paul Gauselmann, None, 4400.0
+480, Tamara Gustavson, None, 4400.0
+480, Micky Jagtiani, None, 4400.0
+480, Johan Johannson, None, 4400.0
+480, Richard Li, None, 4400.0
+480, John Morris, None, 4400.0
+480, Theo Mueller, None, 4400.0
+480, Akio Nitori, None, 4400.0
+480, Wolfgang Reimann, None, 4400.0
+480, Matthias Reimann-Andersen, None, 4400.0
+480, Stefan Reimann-Andersen, None, 4400.0
+480, Renate Reimann-Haas, None, 4400.0
+480, Robert Smith, None, 4400.0
+480, Russ Weiner, None, 4400.0
+499, Jeronimo Arango, None, 4300.0
+499, Rahul Bajaj, None, 4300.0
+499, Rainer Blickle, None, 4300.0
+499, Rocco Commisso, None, 4300.0
+499, Giuseppe De'Longhi, None, 4300.0
+499, Tilman Fertitta, None, 4300.0
+499, Nathan Kirsh, None, 4300.0
+499, Terrence Pegula, None, 4300.0
+499, Robert Pera, None, 4300.0
+499, Gary Rollins, None, 4300.0
+499, Randall Rollins, None, 4300.0
+499, Alejandro Santo Domingo, None, 4300.0
+499, Andres Santo Domingo, None, 4300.0
+499, Pham Nhat Vuong, None, 4300.0
+499, Roger Wang, None, 4300.0
+514, Stephen Bisciotti, None, 4200.0
+514, Austen Cargill, II., None, 4200.0
+514, James Cargill, II., None, 4200.0
+514, Archie Aldis Emmerson, None, 4200.0
+514, Antti Herlin, None, 4200.0
+514, Sumet Jiaravanon, None, 4200.0
+514, Lars Larsen, None, 4200.0
+514, Marianne Liebmann, None, 4200.0
+514, Bobby Murphy, None, 4200.0
+514, Igor Olenicoff, None, 4200.0
+514, Walter Scott, Jr., None, 4200.0
+514, Clemmie Spangler, Jr., None, 4200.0
+514, Wang Yusuo, None, 4200.0
+527, Carl Bennet, None, 4100.0
+527, Arthur Blank, None, 4100.0
+527, Jaran Chiaravanont, None, 4100.0
+527, Jack & Laura Dangermond, None, 4100.0
+527, Fan Hongwei, None, 4100.0
+527, John Gandel, None, 4100.0
+527, James Jannard, None, 4100.0
+527, Montri Jiaravanont, None, 4100.0
+527, Samuel Tak Lee, None, 4100.0
+527, Pawan Munjal, None, 4100.0
+527, Axel Oberwelland, None, 4100.0
+527, James Packer, None, 4100.0
+527, Isaac Perlmutter, None, 4100.0
+527, H. Ross Perot, Sr., None, 4100.0
+527, Michael Pieper, None, 4100.0
+527, Thomas Pritzker, None, 4100.0
+527, Julian Robertson, Jr., None, 4100.0
+527, Renzo Rosso, None, 4100.0
+527, Hussain Sajwani, None, 4100.0
+527, Yasumitsu Shigeta, None, 4100.0
+527, Evan Spiegel, None, 4100.0
+527, Wang Xing, None, 4100.0
+527, Kelcy Warren, None, 4100.0
+550, Ben Ashkenazy, None, 4000.0
+550, Ursula Bechtolsheimer-Kipp, None, 4000.0
+550, Otto Philipp Braun, None, 4000.0
+550, Che Jianxing, None, 4000.0
+550, Dagmar Dolby, None, 4000.0
+550, Traudl Engelhorn, None, 4000.0
+550, Dan Friedkin, None, 4000.0
+550, Sergei Galitsky, None, 4000.0
+550, Huang Rulun, None, 4000.0
+550, Erman Ilicak, None, 4000.0
+550, Ronald Lauder, None, 4000.0
+550, Michel Leclercq, None, 4000.0
+550, Michael Moritz, None, 4000.0
+550, Issad Rebrab, None, 4000.0
+550, Naguib Sawiris, None, 4000.0
+550, Richard Schulze, None, 4000.0
+550, B.R. Shetty, None, 4000.0
+550, Jeff Sutton, None, 4000.0
+550, Tony Tan Caktiong, None, 4000.0
+550, Yu Huijiao, None, 4000.0
+550, Zhang Xuexin, None, 4000.0
+550, Zhang Yiming, None, 4000.0
+572, Suhail Bahwan, None, 3900.0
+572, Rick Caruso, None, 3900.0
+572, Tom Gores, None, 3900.0
+572, Peter Hargreaves, None, 3900.0
+572, Daniela Herz, None, 3900.0
+572, Guenter Herz, None, 3900.0
+572, Masatoshi Ito, None, 3900.0
+572, Barry Lam, None, 3900.0
+572, Sudhir & Samir Mehta, None, 3900.0
+572, Ravi Pillai, None, 3900.0
+572, Stewart and Lynda Resnick, None, 3900.0
+572, Jerry Speyer, None, 3900.0
+572, Harry Stine, None, 3900.0
+572, George Ty, None, 3900.0
+572, Steven Udvar-Hazy, None, 3900.0
+572, Christoph Zeller, None, 3900.0
+588, Nathan Blecharczyk, None, 3800.0
+588, Hubert Burda, None, 3800.0
+588, Chen Dongsheng, None, 3800.0
+588, Brian Chesky, None, 3800.0
+588, Gustaf Douglas, None, 3800.0
+588, Joe Gebbia, None, 3800.0
+588, Peter Gilgan, None, 3800.0
+588, Jeff Greene, None, 3800.0
+588, Jiang Weiping, None, 3800.0
+588, Dominika & Sebastian Kulczyk, None, 3800.0
+588, Li Wa, None, 3800.0
+588, Robert McNair, None, 3800.0
+588, Masahiro Miki, None, 3800.0
+588, Katharina Otto-Bernstein, None, 3800.0
+588, Ira Rennert, None, 3800.0
+588, Henry Samueli, None, 3800.0
+588, Zeng Fangqin, None, 3800.0
+588, Zhang Jin, None, 3800.0
+606, Nick Caporella, None, 3700.0
+606, Mark Cuban, None, 3700.0
+606, Ken Fisher, None, 3700.0
+606, Jaime Gilinski Bacal, None, 3700.0
+606, Andreas Halvorsen, None, 3700.0
+606, H. Fisk Johnson, None, 3700.0
+606, Imogene Powers Johnson, None, 3700.0
+606, S. Curtis Johnson, None, 3700.0
+606, Helen Johnson-Leipold, None, 3700.0
+606, Winifred Johnson-Marquart, None, 3700.0
+606, Viatcheslav Kantor, None, 3700.0
+606, Samvel Karapetyan, None, 3700.0
+606, Marc Ladreit de Lacharriere, None, 3700.0
+606, Angela Leong, None, 3700.0
+606, Li Gaiteng, None, 3700.0
+606, Mangal Prabhat Lodha, None, 3700.0
+606, Michael Milken, None, 3700.0
+606, Yuri Milner, None, 3700.0
+606, Andreas Struengmann, None, 3700.0
+606, Thomas Struengmann, None, 3700.0
+606, Tse Ping, None, 3700.0
+606, Yitzhak Tshuva, None, 3700.0
+606, Samuel Yin, None, 3700.0
+629, Michael Ashley, None, 3600.0
+629, Cao Longxiang, None, 3600.0
+629, Jeffery Hildebrand, None, 3600.0
+629, Jiang Rensheng, None, 3600.0
+629, Edward Johnson, IV., None, 3600.0
+629, Elizabeth Johnson, None, 3600.0
+629, Peter Kellogg, None, 3600.0
+629, Lim Sung-Ki, None, 3600.0
+629, Friedhelm Loh, None, 3600.0
+629, Kiran Mazumdar-Shaw, None, 3600.0
+629, Idan Ofer, None, 3600.0
+629, Karsanbhai Patel, None, 3600.0
+629, Qin Yinglin, None, 3600.0
+629, Qiu Guanghe, None, 3600.0
+629, Sarath Ratanavadi, None, 3600.0
+629, Rodger Riney, None, 3600.0
+629, Steven Spielberg, None, 3600.0
+629, Gabriele Volkmann, None, 3600.0
+629, Arne Wilhelmsen, None, 3600.0
+629, Xu Jingren, None, 3600.0
+629, Zhang Li, None, 3600.0
+629, Zhang Xin, None, 3600.0
+629, Anita Zucker, None, 3600.0
+652, Carlo Benetton, None, 3500.0
+652, Gilberto Benetton, None, 3500.0
+652, Giuliana Benetton, None, 3500.0
+652, Luciano Benetton, None, 3500.0
+652, Chen Bang, None, 3500.0
+652, Kuldip Singh & Gurbachan Singh Dhingra, None, 3500.0
+652, Abilio dos Santos Diniz, None, 3500.0
+652, Bernard Ecclestone, None, 3500.0
+652, Judy Faulkner, None, 3500.0
+652, Gao Tianguo, None, 3500.0
+652, Joshua Harris, None, 3500.0
+652, Arthur Irving, None, 3500.0
+652, Baba Kalyani, None, 3500.0
+652, Dmitry Kamenshchik, None, 3500.0
+652, Douglas Leone, None, 3500.0
+652, Edwin Leong, None, 3500.0
+652, Arnon Milchan, None, 3500.0
+652, Maren Otto, None, 3500.0
+652, Anthony Pritzker, None, 3500.0
+652, Jay Robert (J.B.) Pritzker, None, 3500.0
+652, Mitchell Rales, None, 3500.0
+652, Kjell Inge Rokke, None, 3500.0
+652, Bernard Saul, II., None, 3500.0
+652, Donald Sterling, None, 3500.0
+652, Tahir, None, 3500.0
+652, Chairul Tanjung, None, 3500.0
+652, Clemens Toennies, None, 3500.0
+679, Somphote Ahunai, None, 3400.0
+679, Igor Altushkin, None, 3400.0
+679, Riley Bechtel, None, 3400.0
+679, Stephen Bechtel, Jr., None, 3400.0
+679, Mike Cannon-Brookes, None, 3400.0
+679, Rafael Del Pino y Calvo-Sotelo, None, 3400.0
+679, Antonio Del Valle Ruiz, None, 3400.0
+679, Scott Farquhar, None, 3400.0
+679, Lindsay Fox, None, 3400.0
+679, Jimmy Haslam, None, 3400.0
+679, Heidi Horten, None, 3400.0
+679, Min Kao, None, 3400.0
+679, Melissa Ma, None, 3400.0
+679, Rudolf Maag, None, 3400.0
+679, Alexander Ponomarenko, None, 3400.0
+679, Carlos Rodriguez-Pastor, None, 3400.0
+679, Shashi & Ravi Ruia, None, 3400.0
+679, Teddy Sagi, None, 3400.0
+679, Shaul Shani, None, 3400.0
+679, Alexander Skorobogatko, None, 3400.0
+679, Sun Guangxin, None, 3400.0
+679, Rita Tong Liu, None, 3400.0
+679, Juan-Miguel Villar Mir, None, 3400.0
+679, Steve Wynn, None, 3400.0
+703, Anil Agarwal, None, 3300.0
+703, Abdulla Al Futtaim, None, 3300.0
+703, John Arnold, None, 3300.0
+703, Sid Bass, None, 3300.0
+703, Alain Bouchard, None, 3300.0
+703, John Brown, None, 3300.0
+703, Vanich Chaiyawan, None, 3300.0
+703, Chen Lip Keong, None, 3300.0
+703, Charles Cohen, None, 3300.0
+703, Ashwin Dani, None, 3300.0
+703, Rakesh Gangwal, None, 3300.0
+703, Reid Hoffman, None, 3300.0
+703, Amos Hostetter, Jr., None, 3300.0
+703, Zarakh Iliev, None, 3300.0
+703, Ji Qi, None, 3300.0
+703, Kenneth Langone, None, 3300.0
+703, Li Sze Lim, None, 3300.0
+703, George Lindemann, None, 3300.0
+703, Liu Zhongtian, None, 3300.0
+703, Luo Liguo, None, 3300.0
+703, Mary Alice Dorrance Malone, None, 3300.0
+703, Henry Nicholas, III., None, 3300.0
+703, God Nisanov, None, 3300.0
+703, Pat Stryker, None, 3300.0
+703, Alexander Svetakov, None, 3300.0
+703, Hans Peter Wild, None, 3300.0
+729, Yvonne Bauer, None, 3200.0
+729, Patrizio Bertelli, None, 3200.0
+729, Neil Bluhm, None, 3200.0
+729, Andrew & Peggy Cherng, None, 3200.0
+729, Scott Cook, None, 3200.0
+729, Leon G. Cooperman, None, 3200.0
+729, John Paul DeJoria, None, 3200.0
+729, Martin Ebner, None, 3200.0
+729, Walter Faria, None, 3200.0
+729, Sameer Gehlaut, None, 3200.0
+729, Tom Golisano, None, 3200.0
+729, Otto Happel, None, 3200.0
+729, Jiang Bin, None, 3200.0
+729, Karel Komarek, None, 3200.0
+729, Kurt Krieger, None, 3200.0
+729, Timur Kulibaev, None, 3200.0
+729, Dinara Kulibaeva, None, 3200.0
+729, Spiro Latsis, None, 3200.0
+729, Daniel Loeb, None, 3200.0
+729, Luo Jye, None, 3200.0
+729, Ronald McAulay, None, 3200.0
+729, Alain Merieux, None, 3200.0
+729, Hans Georg Naeder, None, 3200.0
+729, Nie Tengyun, None, 3200.0
+729, Daniel Och, None, 3200.0
+729, Miuccia Prada, None, 3200.0
+729, Marc Rowan, None, 3200.0
+729, Haim Saban, None, 3200.0
+729, Alvaro Saieh Bendeck, None, 3200.0
+729, Michael & Reiner Schmidt-Ruthenbeck, None, 3200.0
+729, Lynn Schusterman, None, 3200.0
+729, Mark Shoen, None, 3200.0
+729, Michal Solowow, None, 3200.0
+729, Daniel Tsai, None, 3200.0
+729, Richard Tsai, None, 3200.0
+729, Frank Wang, None, 3200.0
+729, Meg Whitman, None, 3200.0
+766, John Catsimatidis, None, 3100.0
+766, Do Won & Jin Sook Chang, None, 3100.0
+766, Cheng Cheung Ling, None, 3100.0
+766, Barry Diller, None, 3100.0
+766, Jack Dorsey, None, 3100.0
+766, Yakir Gabay, None, 3100.0
+766, Allan Goldman, None, 3100.0
+766, Jane Goldman, None, 3100.0
+766, Amy Goldman Fowler, None, 3100.0
+766, Daryl Katz, None, 3100.0
+766, Diane Kemper, None, 3100.0
+766, Vladimir Kim, None, 3100.0
+766, Lai Meisong, None, 3100.0
+766, Manuel Lao Hernandez, None, 3100.0
+766, James Leprino, None, 3100.0
+766, Liang Xinjun, None, 3100.0
+766, Tom Morris, None, 3100.0
+766, Thi Phuong Thao Nguyen, None, 3100.0
+766, Rajan Raheja, None, 3100.0
+766, Ren Jianhua, None, 3100.0
+766, Richard Sands, None, 3100.0
+766, Kerry Stokes, None, 3100.0
+766, Donald Trump, None, 3100.0
+766, Romesh T. Wadhwani, None, 3100.0
+766, Wang Jian, None, 3100.0
+791, Clifford Asness, None, 3000.0
+791, Anne Beaufour, None, 3000.0
+791, Henri Beaufour, None, 3000.0
+791, Tom Benson, None, 3000.0
+791, Jim Breyer, None, 3000.0
+791, Alejandro Bulgheroni, None, 3000.0
+791, Hasmukh Chudgar, None, 3000.0
+791, Ennio Doris, None, 3000.0
+791, Luis Frias, None, 3000.0
+791, Valentin Gapontsev, None, 3000.0
+791, Martin Haefner, None, 3000.0
+791, Christopher Hohn, None, 3000.0
+791, Johnelle Hunt, None, 3000.0
+791, Rakesh Jhunjhunwala, None, 3000.0
+791, Lu Xiangyang, None, 3000.0
+791, John Middleton, None, 3000.0
+791, Kazuo Okada, None, 3000.0
+791, Jorge Perez, None, 3000.0
+791, Prasert Prasarttong-Osoth, None, 3000.0
+791, Jean (Gigi) Pritzker, None, 3000.0
+791, Mochtar Riady, None, 3000.0
+791, Arkady Rotenberg, None, 3000.0
+791, Michael Rubin, None, 3000.0
+791, Robert Sands, None, 3000.0
+791, Herbert Simon, None, 3000.0
+791, Robert Toennies, None, 3000.0
+791, Manuel Villar, None, 3000.0
+791, Don Vultaggio, None, 3000.0
+791, Wang Zhenhua, None, 3000.0
+791, Wu Kaiting, None, 3000.0
+791, Simon Xie, None, 3000.0
+822, Chuck Bundrant, None, 2900.0
+822, Cai Dongchen, None, 2900.0
+822, Jose and Francisco Jose Calderon Rojas, None, 2900.0
+822, Jason Chang, None, 2900.0
+822, Smita Crishna-Godrej, None, 2900.0
+822, Ding Shizhong, None, 2900.0
+822, Feng Hailiang, None, 2900.0
+822, Gerald Ford, None, 2900.0
+822, Philippe Foriel-Destezet, None, 2900.0
+822, Adi Godrej, None, 2900.0
+822, Jamshyd Godrej, None, 2900.0
+822, Nadir Godrej, None, 2900.0
+822, Joseph Grendys, None, 2900.0
+822, Hedda im Brahm-Droege, None, 2900.0
+822, Ke Zunhong, None, 2900.0
+822, Randal Kirk, None, 2900.0
+822, Alicia Koplowitz, None, 2900.0
+822, Kwek Leng Beng, None, 2900.0
+822, Louis Le Duff, None, 2900.0
+822, Yusaku Maezawa, None, 2900.0
+822, Sergio Mantegazza, None, 2900.0
+822, Hans Melchers, None, 2900.0
+822, Erwin Franz Mueller, None, 2900.0
+822, Rishad Naoroji, None, 2900.0
+822, Husnu Ozyegin, None, 2900.0
+822, Prajogo Pangestu, None, 2900.0
+822, Jeff Rothschild, None, 2900.0
+822, Thomas Siebel, None, 2900.0
+822, Paul Singer, None, 2900.0
+822, Ralph Sonnenberg, None, 2900.0
+822, Jon Stryker, None, 2900.0
+822, Georg Stumpf, None, 2900.0
+822, Tsai Hong-tu, None, 2900.0
+822, Vincent Viola, None, 2900.0
+822, Radovan Vitek, None, 2900.0
+822, Wang Laichun, None, 2900.0
+822, Wang Laisheng, None, 2900.0
+859, Carlos Ardila Lülle, None, 2800.0
+859, William Conway, Jr., None, 2800.0
+859, Daniel D'Aniello, None, 2800.0
+859, Jim Davis, None, 2800.0
+859, Ding Shijia, None, 2800.0
+859, John Dorrance, III., None, 2800.0
+859, Doris Fisher, None, 2800.0
+859, John Fisher, None, 2800.0
+859, Caroline Hagen Kjos, None, 2800.0
+859, Kieu Hoang, None, 2800.0
+859, Huang Shih Tsai, None, 2800.0
+859, H. Wayne Huizenga, None, 2800.0
+859, Osman Kibar, None, 2800.0
+859, Aloke Lohia, None, 2800.0
+859, Taha Mikati, None, 2800.0
+859, Philip Niarchos, None, 2800.0
+859, Stefan Olsson, None, 2800.0
+859, Sebastian Piñera, None, 2800.0
+859, Penny Pritzker, None, 2800.0
+859, Nicolas Puech, None, 2800.0
+859, Chandru Raheja, None, 2800.0
+859, David Rubenstein, None, 2800.0
+859, Shi Yuzhu, None, 2800.0
+859, Zygmunt Solorz-Zak, None, 2800.0
+859, Tung Chee Chen, None, 2800.0
+859, Mark Walter, None, 2800.0
+859, William Wrigley, Jr., None, 2800.0
+859, Mortimer Zuckerman, None, 2800.0
+887, Mohed Altrad, None, 2700.0
+887, Anil Ambani, None, 2700.0
+887, Roberto Angelini Rossi, None, 2700.0
+887, Saeed Bin Butti Al Qebaisi, None, 2700.0
+887, Pierre Chen, None, 2700.0
+887, Ray Davis, None, 2700.0
+887, Edward DeBartolo, Jr., None, 2700.0
+887, Bennett Dorrance, None, 2700.0
+887, Eduardo Eurnekian, None, 2700.0
+887, Piero Ferrari, None, 2700.0
+887, Fiona Geminder, None, 2700.0
+887, Gu Yuhua, None, 2700.0
+887, Don Hankey, None, 2700.0
+887, Reed Hastings, None, 2700.0
+887, Huang Wei, None, 2700.0
+887, James Irsay, None, 2700.0
+887, Kim Beom-Su, None, 2700.0
+887, Mustafa Kucuk, None, 2700.0
+887, Mohamed Mansour, None, 2700.0
+887, Najib Mikati, None, 2700.0
+887, Ermirio Pereira de Moraes, None, 2700.0
+887, Bob Parsons, None, 2700.0
+887, Krit Ratanarak, None, 2700.0
+887, Helena Revoredo, None, 2700.0
+887, Phillip Ruffin, None, 2700.0
+887, Howard Schultz, None, 2700.0
+887, E. Joe Shoen, None, 2700.0
+887, Thomas Straumann, None, 2700.0
+887, Lawrence Stroll, None, 2700.0
+887, Andrew Tan, None, 2700.0
+887, Tsai Cheng-da, None, 2700.0
+887, Frank VanderSloot, None, 2700.0
+887, Sandro Veronesi, None, 2700.0
+887, Ty Warner, None, 2700.0
+887, Oprah Winfrey, None, 2700.0
+887, Zhang Wenzhong, None, 2700.0
+887, Zuo Hui, None, 2700.0
+924, Juan Abello, None, 2600.0
+924, Semahat Sevim Arsel, None, 2600.0
+924, Bang Jun-Hyuk, None, 2600.0
+924, Koos Bekker, None, 2600.0
+924, David Bonderman, None, 2600.0
+924, Francesco Gaetano Caltagirone, None, 2600.0
+924, John Caudwell, None, 2600.0
+924, Chen Fashu, None, 2600.0
+924, Chung Eui-Sun, None, 2600.0
+924, Isabel dos Santos, None, 2600.0
+924, Fong Yun Wah, None, 2600.0
+924, Phillip Frost, None, 2600.0
+924, Lutz Mario Helmig, None, 2600.0
+924, B. Wayne Hughes, None, 2600.0
+924, Daniel Kretinsky, None, 2600.0
+924, Raj Kumar & Kishin RK, None, 2600.0
+924, Lam Kong, None, 2600.0
+924, Lau Cho Kun, None, 2600.0
+924, Stephen Mandel, Jr., None, 2600.0
+924, Gilles Martin, None, 2600.0
+924, Daniel Mate, None, 2600.0
+924, Robert Miller, None, 2600.0
+924, Jorge Moll Filho, None, 2600.0
+924, Maria Helena Moraes Scripilliti, None, 2600.0
+924, Sean Parker, None, 2600.0
+924, Jay Paul, None, 2600.0
+924, Patrick Ryan, None, 2600.0
+924, Thomas Secunda, None, 2600.0
+924, Shen Wenrong, None, 2600.0
+924, Shen Yuxing, None, 2600.0
+924, Gil Shwed, None, 2600.0
+924, Song Zuowen, None, 2600.0
+924, Warren Stephens, None, 2600.0
+924, Glen Taylor, None, 2600.0
+924, Hanni Toosbuy Kasprzak, None, 2600.0
+924, Torbjorn Tornqvist, None, 2600.0
+924, Bulat Utemuratov, None, 2600.0
+924, Chip Wilson, None, 2600.0
+924, Jerry Yang, None, 2600.0
+924, Zhang Fan, None, 2600.0
+924, Zhu Xingliang, None, 2600.0
+965, Ramon Ang, None, 2500.0
+965, Edward Bass, None, 2500.0
+965, Lee Bass, None, 2500.0
+965, Bert Beveridge, None, 2500.0
+965, George Bishop, None, 2500.0
+965, Jaime Botin, None, 2500.0
+965, Norman Braman, None, 2500.0
+965, Chin Jong Hwa, None, 2500.0
+965, Cho Tak Wong, None, 2500.0
+965, John Coates, None, 2500.0
+965, Du Jiangtao, None, 2500.0
+965, Aloysio de Andrade Faria, None, 2500.0
+965, Kenneth Feld, None, 2500.0
+965, Luca Garavoglia, None, 2500.0
+965, Noam Gottesman, None, 2500.0
+965, Jonathan Gray, None, 2500.0
+965, Stein Erik Hagen, None, 2500.0
+965, Chang-Woo Han, None, 2500.0
+965, John Henry, None, 2500.0
+965, Lawrence Ho, None, 2500.0
+965, Hui Lin Chit, None, 2500.0
+965, Mustafa Rahmi Koc, None, 2500.0
+965, Kuan Kam Hon, None, 2500.0
+965, Jane Lauder, None, 2500.0
+965, Aerin Lauder Zinterhofer, None, 2500.0
+965, Maritsa Lazari, None, 2500.0
+965, Bernard Lewis, None, 2500.0
+965, Vincent Lo, None, 2500.0
+965, Jeffrey Lorberbaum, None, 2500.0
+965, Joe Mansueto, None, 2500.0
+965, Jose Roberto Marinho, None, 2500.0
+965, Roberto Irineu Marinho, None, 2500.0
+965, C. Dean Metropoulos, None, 2500.0
+965, Aristotelis Mistakidis, None, 2500.0
+965, Arturo Moreno, None, 2500.0
+965, Yoshiko Mori, None, 2500.0
+965, Adam Neumann, None, 2500.0
+965, Or Wai Sheun, None, 2500.0
+965, Richard Peery, None, 2500.0
+965, Horst Julius Pudwill, None, 2500.0
+965, P.V. Ramprasad Reddy, None, 2500.0
+965, Larry Robbins, None, 2500.0
+965, Carlos Sanchez, None, 2500.0
+965, Stephan Schmidheiny, None, 2500.0
+965, Klaus-Peter Schulenberg, None, 2500.0
+965, Charles Simonyi, None, 2500.0
+965, Mark Stevens, None, 2500.0
+965, Sze Man Bok, None, 2500.0
+965, Sarik Tara, None, 2500.0
+965, Lottie Tham, None, 2500.0
+965, Peter Thiel, None, 2500.0
+965, Elaine Wynn, None, 2500.0
+965, Denise York, None, 2500.0
+965, David Zalik, None, 2500.0
+965, Zhao Tao, None, 2500.0
+1020, George Argyros, None, 2400.0
+1020, John Arrillaga, None, 2400.0
+1020, Charles Bronfman, None, 2400.0
+1020, Peter Buck, None, 2400.0
+1020, Chen Jinxia, None, 2400.0
+1020, Vivien Chen, None, 2400.0
+1020, Chu Lam Yiu, None, 2400.0
+1020, Jean Coutu, None, 2400.0
+1020, Jose Luis Cutrale, None, 2400.0
+1020, Jai Hari & Yadu Hari Dalmia, None, 2400.0
+1020, Bergit Douglas, None, 2400.0
+1020, Alfredo Egydio Arruda Villela Filho, None, 2400.0
+1020, Marcel Erni, None, 2400.0
+1020, Andre Esteves, None, 2400.0
+1020, Carlo Fidani, None, 2400.0
+1020, Abhay Firodia, None, 2400.0
+1020, Alfred Gantner, None, 2400.0
+1020, Geng Jianming, None, 2400.0
+1020, Mitchell Goldhar, None, 2400.0
+1020, Hortensia Herrero, None, 2400.0
+1020, Michael Hintze, None, 2400.0
+1020, Igor Kesaev, None, 2400.0
+1020, Koon Poh Keong, None, 2400.0
+1020, Hermann Langness, None, 2400.0
+1020, Li Zhongchu, None, 2400.0
+1020, Alexander Mamut, None, 2400.0
+1020, Joao Roberto Marinho, None, 2400.0
+1020, Drayton McLane, Jr., None, 2400.0
+1020, Patrice Motsepe, None, 2400.0
+1020, Alfred Oetker, None, 2400.0
+1020, August Oetker, None, 2400.0
+1020, Carl Ferdinand Oetker, None, 2400.0
+1020, Christian Oetker, None, 2400.0
+1020, Julia Oetker, None, 2400.0
+1020, Richard Oetker, None, 2400.0
+1020, Daniel Pritzker, None, 2400.0
+1020, John Pritzker, None, 2400.0
+1020, Nevaldo Rocha, None, 2400.0
+1020, Luigi Rovati, None, 2400.0
+1020, Ferit Faik Sahenk, None, 2400.0
+1020, Rosely Schweizer, None, 2400.0
+1020, Eric Smidt, None, 2400.0
+1020, Alexander Spanos, None, 2400.0
+1020, Leena Tewari, None, 2400.0
+1020, Tong Jinquan, None, 2400.0
+1020, Peter Unger, None, 2400.0
+1020, Sunny Varkey, None, 2400.0
+1020, Urs Wietlisbach, None, 2400.0
+1020, Michael Ying, None, 2400.0
+1020, Yu Minhong, None, 2400.0
+1070, Eva Maria Bucher-Haefner, None, 2300.0
+1070, Chen Hua, None, 2300.0
+1070, Gustavo Denegri, None, 2300.0
+1070, Dermot Desmond, None, 2300.0
+1070, Murali Divi, None, 2300.0
+1070, Thomas Flohr, None, 2300.0
+1070, Bernard Fraisse, None, 2300.0
+1070, Harsh Goenka, None, 2300.0
+1070, David Gottesman, None, 2300.0
+1070, Murli Dhar & Bimal Kumar Gyanchandani, None, 2300.0
+1070, Bill Haslam, None, 2300.0
+1070, Hu Baifan, None, 2300.0
+1070, W. Herbert Hunt, None, 2300.0
+1070, Alijan Ibragimov, None, 2300.0
+1070, Bradley Jacobs, None, 2300.0
+1070, Brad Kelley, None, 2300.0
+1070, Vinod Khosla, None, 2300.0
+1070, Stephen Lansdown, None, 2300.0
+1070, Martin Lau, None, 2300.0
+1070, Lee Joong-Keun, None, 2300.0
+1070, Lin Li, None, 2300.0
+1070, Kenneth Lo, None, 2300.0
+1070, Alexander Machkevich, None, 2300.0
+1070, Clayton Mathile, None, 2300.0
+1070, Stanley Perron, None, 2300.0
+1070, J. Joe Ricketts, None, 2300.0
+1070, Dirk Rossmann, None, 2300.0
+1070, Filiz Sahenk, None, 2300.0
+1070, Dan Snyder, None, 2300.0
+1070, Peter Spuhler, None, 2300.0
+1070, Tang Yiu, None, 2300.0
+1070, John Tyson, None, 2300.0
+1070, Wong Man Li, None, 2300.0
+1103, Lia Maria Aguiar, None, 2200.0
+1103, Aziz Akhannouch, None, 2200.0
+1103, Ron Baron, None, 2200.0
+1103, Shyam & Hari Bhartia, None, 2200.0
+1103, Timothy Boyle, None, 2200.0
+1103, Tatiana Casiraghi, None, 2200.0
+1103, Chan Tan Ching-fen, None, 2200.0
+1103, Chase Coleman, III., None, 2200.0
+1103, Mark Coombs, None, 2200.0
+1103, James Coulter, None, 2200.0
+1103, Dulce Pugliese de Godoy Bueno, None, 2200.0
+1103, Ana Lucia de Mattos Barretto Villela, None, 2200.0
+1103, Frank Fertitta, III., None, 2200.0
+1103, Lorenzo Fertitta, None, 2200.0
+1103, Maria Franca Fissolo, None, 2200.0
+1103, Alexander Frolov, None, 2200.0
+1103, Ernest Garcia, II., None, 2200.0
+1103, Alexandre Grendene Bartelle, None, 2200.0
+1103, Vinod & Anil Rai Gupta, None, 2200.0
+1103, Torstein Hagen, None, 2200.0
+1103, He Qiaonv, None, 2200.0
+1103, Hans-Werner Hector, None, 2200.0
+1103, Stanley Hubbard, None, 2200.0
+1103, Ke Xiping, None, 2200.0
+1103, Suna Kirac, None, 2200.0
+1103, Kong Jian Min, None, 2200.0
+1103, Koo Bon-Moo, None, 2200.0
+1103, Heikki Kyostila, None, 2200.0
+1103, Thomas Lee, None, 2200.0
+1103, Eric Lefkofsky, None, 2200.0
+1103, Peter Lim, None, 2200.0
+1103, Scott Lin, None, 2200.0
+1103, Tomas Olivo Lopez, None, 2200.0
+1103, Phillip T. (Terry) Ragon, None, 2200.0
+1103, Stewart Rahr, None, 2200.0
+1103, T. Denny Sanford, None, 2200.0
+1103, Julio Mario Santo Domingo, III., None, 2200.0
+1103, Karl Scheufele, III., None, 2200.0
+1103, Shen Guojun, None, 2200.0
+1103, Alain Taravella, None, 2200.0
+1103, Oleg Tinkov, None, 2200.0
+1103, T.Y. Tsai, None, 2200.0
+1103, Tung Chee Hwa, None, 2200.0
+1103, Ted Turner, None, 2200.0
+1103, Sunil Vaswani, None, 2200.0
+1103, Jitendra Virwani, None, 2200.0
+1103, Lang Walker, None, 2200.0
+1103, Wu Zhigang, None, 2200.0
+1103, Xiao Wenge, None, 2200.0
+1103, Xiong Xuqiang, None, 2200.0
+1103, Takao Yasuda, None, 2200.0
+1103, William Young, None, 2200.0
+1103, Eddie & Sol Zakay, None, 2200.0
+1103, Zhang Xiugen, None, 2200.0
+1157, Leslie Alexander, None, 2100.0
+1157, Patricia Angelini Rossi, None, 2100.0
+1157, Josef Boquoi, None, 2100.0
+1157, Nikolai Buinov, None, 2100.0
+1157, Richard Chandler, None, 2100.0
+1157, Cheng Xue, None, 2100.0
+1157, Patokh Chodiev, None, 2100.0
+1157, Choo Chong Ngen, None, 2100.0
+1157, Todd Christopher, None, 2100.0
+1157, John de Mol, None, 2100.0
+1157, Bob Gaglardi, None, 2100.0
+1157, Gordon Getty, None, 2100.0
+1157, Philippe Ginestet, None, 2100.0
+1157, Sanjiv Goenka, None, 2100.0
+1157, Alec Gores, None, 2100.0
+1157, David Hains, None, 2100.0
+1157, Bahaa Hariri, None, 2100.0
+1157, William Heinecke, None, 2100.0
+1157, Huang Hongyun, None, 2100.0
+1157, Huang Zhenda, None, 2100.0
+1157, Ravi Jaipuria, None, 2100.0
+1157, Jiang Yehua, None, 2100.0
+1157, Manuel Jove, None, 2100.0
+1157, Willibert Krueger, None, 2100.0
+1157, Kuok Khoon Hong, None, 2100.0
+1157, Christian Latouche, None, 2100.0
+1157, Guenther Lehmann, None, 2100.0
+1157, Li Hongxin, None, 2100.0
+1157, Li Xiting, None, 2100.0
+1157, Liang Yunchao, None, 2100.0
+1157, Brandt Louie, None, 2100.0
+1157, Catherine Lozick, None, 2100.0
+1157, Igor Makarov, None, 2100.0
+1157, Mao Lixiang, None, 2100.0
+1157, Harsh Mariwala, None, 2100.0
+1157, Martin Moller Nielsen, None, 2100.0
+1157, David Murdock, None, 2100.0
+1157, N.R. Narayana Murthy, None, 2100.0
+1157, Georg Nemetschek, None, 2100.0
+1157, Vikas Oberoi, None, 2100.0
+1157, Maja Oeri, None, 2100.0
+1157, Ong Beng Seng and Christina Ong, None, 2100.0
+1157, H. Ross Perot, Jr., None, 2100.0
+1157, Tor Peterson, None, 2100.0
+1157, Heloise Pratt, None, 2100.0
+1157, Alexey Repik, None, 2100.0
+1157, Shin Chang-Jae, None, 2100.0
+1157, Kavitark Ram Shriram, None, 2100.0
+1157, Sylvia Stroeher, None, 2100.0
+1157, Katsumi Tada, None, 2100.0
+1157, Tang Shing-bor, None, 2100.0
+1157, Georg von Opel, None, 2100.0
+1157, David Walentas, None, 2100.0
+1157, Ronald Wanek, None, 2100.0
+1157, Wang Changtian, None, 2100.0
+1157, Wang Wenjing, None, 2100.0
+1157, Ye Cheng, None, 2100.0
+1157, Zhu Gongshan, None, 2100.0
+1215, Antti Aarnio-Wihuri, None, 2000.0
+1215, S. Daniel Abraham, None, 2000.0
+1215, Joao Alves de Queiroz Filho, None, 2000.0
+1215, Mika Anttonen, None, 2000.0
+1215, Thor Bjorgolfsson, None, 2000.0
+1215, Andrei Bokarev, None, 2000.0
+1215, Bernhard Braun-Luedicke, None, 2000.0
+1215, Eva Maria Braun-Luedicke, None, 2000.0
+1215, Friederike Braun-Luedicke, None, 2000.0
+1215, Ron Burkle, None, 2000.0
+1215, Vivek Chand Burman, None, 2000.0
+1215, Chen Yung-Tai, None, 2000.0
+1215, James Clark, None, 2000.0
+1215, Christopher Cline, None, 2000.0
+1215, Alexandra Daitch, None, 2000.0
+1215, Dong Wei, None, 2000.0
+1215, Fritz Draexlmaier, None, 2000.0
+1215, Glenn Dubin, None, 2000.0
+1215, Robert Duggan, None, 2000.0
+1215, Jayme Garfinkel, None, 2000.0
+1215, Sam Goi, None, 2000.0
+1215, Thomas Hagen, None, 2000.0
+1215, Carlos Hank Rhon, None, 2000.0
+1215, Christoph Henkel, None, 2000.0
+1215, Hu Kaijun, None, 2000.0
+1215, Huang Yi, None, 2000.0
+1215, Ramesh Juneja, None, 2000.0
+1215, Bruce Karsh, None, 2000.0
+1215, Henry Laufer, None, 2000.0
+1215, Lee Boo-Jin, None, 2000.0
+1215, Lee Jay-Hyun, None, 2000.0
+1215, Wolfgang Leitner, None, 2000.0
+1215, Li Ge, None, 2000.0
+1215, Harald Link, None, 2000.0
+1215, Liu Ming Hui, None, 2000.0
+1215, Jeffrey Lurie, None, 2000.0
+1215, Ma Xingtian, None, 2000.0
+1215, Sarah MacMillan, None, 2000.0
+1215, Howard Marks, None, 2000.0
+1215, Miao Shouliang, None, 2000.0
+1215, Lachhman Das Mittal, None, 2000.0
+1215, Mario Moretti Polegato, None, 2000.0
+1215, Vadim Moshkovich, None, 2000.0
+1215, Mofatraj Munot, None, 2000.0
+1215, Jonathan Nelson, None, 2000.0
+1215, Florentino Perez, None, 2000.0
+1215, Chuchat & Daonapa Petaumpai, None, 2000.0
+1215, Peter Peterson, None, 2000.0
+1215, Arvind Poddar, None, 2000.0
+1215, Murdaya Poo, None, 2000.0
+1215, Ren Zhengfei, None, 2000.0
+1215, Antony Ressler, None, 2000.0
+1215, Francisco Jose Riberas Mera, None, 2000.0
+1215, Rodney Sacks, None, 2000.0
+1215, Hilton Schlosberg, None, 2000.0
+1215, Brian Sheth, None, 2000.0
+1215, Lucy Stitzer, None, 2000.0
+1215, Su Suyu, None, 2000.0
+1215, Satoshi Suzuki, None, 2000.0
+1215, Katherine Tanner, None, 2000.0
+1215, Arvind Tiku, None, 2000.0
+1215, Wang Liping, None, 2000.0
+1215, Wang Xicheng, None, 2000.0
+1215, Wei Shaojun, None, 2000.0
+1215, Amy Wyss, None, 2000.0
+1215, Jon Yarbrough, None, 2000.0
+1215, Vladimir Yevtushenkov, None, 2000.0
+1215, Charles Zegar, None, 2000.0
+1215, Zhu Baoguo, None, 2000.0
+1284, Saif Al Ghurair, None, 1900.0
+1284, Syed Mokhtar AlBukhary, None, 1900.0
+1284, Miriam Baumann-Blocher, None, 1900.0
+1284, Albert Berner, None, 1900.0
+1284, Thomas Bruch, None, 1900.0
+1284, Chang Yun Chung, None, 1900.0
+1284, Kiat Chiaravanont, None, 1900.0
+1284, Jean-Paul and Martine Clozel, None, 1900.0
+1284, Benjamin de Rothschild, None, 1900.0
+1284, James Dinan, None, 1900.0
+1284, Charles Edelstenne, None, 1900.0
+1284, Bernd Freier, None, 1900.0
+1284, Bill Gross, None, 1900.0
+1284, Jeffrey Gundlach, None, 1900.0
+1284, Suat Gunsel, None, 1900.0
+1284, Shmuel Harlap, None, 1900.0
+1284, Roberto Hernandez Ramirez, None, 1900.0
+1284, Johannes Kaercher, None, 1900.0
+1284, Friedrich Knapp, None, 1900.0
+1284, Lee Myung-Hee, None, 1900.0
+1284, Lee Seo-Hyun, None, 1900.0
+1284, Liang Jiankun, None, 1900.0
+1284, Liao Long-shing, None, 1900.0
+1284, Lin Shu-Hong, None, 1900.0
+1284, Yasseen Mansour, None, 1900.0
+1284, David Nahmad, None, 1900.0
+1284, Alexander Nesis, None, 1900.0
+1284, Nandan Nilekani, None, 1900.0
+1284, Ranjan Pai, None, 1900.0
+1284, Park Hyeon-Joo, None, 1900.0
+1284, Jennifer Pritzker, None, 1900.0
+1284, Qiu Jianping, None, 1900.0
+1284, Megdet Rahimkulov, None, 1900.0
+1284, Vito Rodriguez Rodriguez, None, 1900.0
+1284, Stephen Rubin, None, 1900.0
+1284, Remo Ruffini, None, 1900.0
+1284, Erik Selin, None, 1900.0
+1284, Peter Sondakh, None, 1900.0
+1284, Alan N. Trefler, None, 1900.0
+1284, Tseng Shin-yi, None, 1900.0
+1284, Masateru Uno, None, 1900.0
+1284, Wang Qingtao, None, 1900.0
+1284, Evan Williams, None, 1900.0
+1284, Gustav Magnar Witzoe, None, 1900.0
+1284, Horst Wortmann, None, 1900.0
+1284, Xiao Yongming, None, 1900.0
+1284, Xie Zhikun, None, 1900.0
+1284, Xue Xiangdong, None, 1900.0
+1284, Yuan Yafei, None, 1900.0
+1284, Robin Zeng, None, 1900.0
+1284, Zhang Daocai, None, 1900.0
+1284, Zhang Xuansong, None, 1900.0
+1284, Zheng Yuewen, None, 1900.0
+1284, Zhou Xiaoguang, None, 1900.0
+1284, Susanne Zimmermann von Siefart , None, 1900.0
+1339, Aras Agalarov, None, 1800.0
+1339, Maurice Alter, None, 1800.0
+1339, An Kang, None, 1800.0
+1339, Alex Beard, None, 1800.0
+1339, Nicolas Berggruen, None, 1800.0
+1339, Vladimir Bogdanov, None, 1800.0
+1339, Julio Bozano, None, 1800.0
+1339, Anna Maria Braun, None, 1800.0
+1339, Johanna Braun, None, 1800.0
+1339, Karl Friedrich Braun, None, 1800.0
+1339, Anand Burman, None, 1800.0
+1339, Edouard Carmignac, None, 1800.0
+1339, Chen Jianhua, None, 1800.0
+1339, Cheung Yan, None, 1800.0
+1339, Chung Mong-Joon, None, 1800.0
+1339, Jack Cowin, None, 1800.0
+1339, Cui Genliang, None, 1800.0
+1339, Kommer Damen, None, 1800.0
+1339, Diego Della Valle, None, 1800.0
+1339, Dou Zhenggang, None, 1800.0
+1339, N. Murray Edwards, None, 1800.0
+1339, Gabriel Escarrer, None, 1800.0
+1339, Clement Fayat, None, 1800.0
+1339, James France, None, 1800.0
+1339, Senapathy Gopalakrishnan, None, 1800.0
+1339, David Harding, None, 1800.0
+1339, Stewart Horejsi, None, 1800.0
+1339, Huang Qisen, None, 1800.0
+1339, Hamilton James, None, 1800.0
+1339, John Kapoor, None, 1800.0
+1339, William Lauder, None, 1800.0
+1339, Li Zongsong, None, 1800.0
+1339, Willy Michel, None, 1800.0
+1339, Masahiro Noda, None, 1800.0
+1339, Gregorio Perez Companc, None, 1800.0
+1339, Linda Pritzker, None, 1800.0
+1339, Qin Hui, None, 1800.0
+1339, Matthias Reinhart, None, 1800.0
+1339, Brian Roberts, None, 1800.0
+1339, Alberto Roemmers, None, 1800.0
+1339, Gerald Schwartz, None, 1800.0
+1339, Thaksin Shinawatra, None, 1800.0
+1339, William Stone, None, 1800.0
+1339, Petter Stordalen, None, 1800.0
+1339, Julia Stoschek, None, 1800.0
+1339, Maximilian Stoschek, None, 1800.0
+1339, Sun Shoukuan, None, 1800.0
+1339, Ba Duong Tran, None, 1800.0
+1339, Hamdi Ulukaya, None, 1800.0
+1339, Wong Luen Hei, None, 1800.0
+1339, Wu Yulan, None, 1800.0
+1339, Xu Hang, None, 1800.0
+1339, Yang Erzhu, None, 1800.0
+1339, Yao Kuizhang, None, 1800.0
+1339, Sheng Jian Zhong, None, 1800.0
+1394, Marcel Adams, None, 1700.0
+1394, Herbert Allen, Jr., None, 1700.0
+1394, Michael Ashcroft, None, 1700.0
+1394, Roman Avdeev, None, 1700.0
+1394, Emilio Azcarraga Jean, None, 1700.0
+1394, Sezai Bacaksiz, None, 1700.0
+1394, Lesley Bamberger, None, 1700.0
+1394, Angela Bennett, None, 1700.0
+1394, Hubertus Benteler, None, 1700.0
+1394, Ludwig Theodor Braun, None, 1700.0
+1394, Nicola Bulgari, None, 1700.0
+1394, Paolo Bulgari, None, 1700.0
+1394, Chen Dejun, None, 1700.0
+1394, Tony Chen, None, 1700.0
+1394, Chen Xueli, None, 1700.0
+1394, Luigi Cremonini, None, 1700.0
+1394, Dominique Desseigne, None, 1700.0
+1394, Sefik Yilmaz Dizdar, None, 1700.0
+1394, Domenico Dolce, None, 1700.0
+1394, Pavel Durov, None, 1700.0
+1394, John Farber, None, 1700.0
+1394, Robert Fisher, None, 1700.0
+1394, William Fisher, None, 1700.0
+1394, Stefano Gabbana, None, 1700.0
+1394, Rolf Gerling, None, 1700.0
+1394, Serge Godin, None, 1700.0
+1394, Sergei Gordeev, None, 1700.0
+1394, Mehmet Nazif Gunal, None, 1700.0
+1394, Yusuf Hamied, None, 1700.0
+1394, Gerry Harvey, None, 1700.0
+1394, Timothy Headington, None, 1700.0
+1394, Huang Chulong, None, 1700.0
+1394, Huo Qinghua, None, 1700.0
+1394, Devendra Jain, None, 1700.0
+1394, Jiang Yintai, None, 1700.0
+1394, Jim Justice, II., None, 1700.0
+1394, Kim Jun-Ki, None, 1700.0
+1394, William Koch, None, 1700.0
+1394, Anthony Langley, None, 1700.0
+1394, Marc Lasry, None, 1700.0
+1394, Peter Leibinger, None, 1700.0
+1394, Regine Leibinger, None, 1700.0
+1394, Li San Yim, None, 1700.0
+1394, David Lichtenstein, None, 1700.0
+1394, Lim Oon Kuin, None, 1700.0
+1394, Liu Ming Chung, None, 1700.0
+1394, Ma Xiuhui, None, 1700.0
+1394, Prayudh Mahagitsiri, None, 1700.0
+1394, Anand Mahindra, None, 1700.0
+1394, Kishore Mariwala, None, 1700.0
+1394, Craig McCaw, None, 1700.0
+1394, Miguel McKelvey, None, 1700.0
+1394, Vincent McMahon, None, 1700.0
+1394, David McMurtry, None, 1700.0
+1394, Gary Michelson, None, 1700.0
+1394, Massimo Moratti, None, 1700.0
+1394, Farhad Moshiri, None, 1700.0
+1394, Jerry Moyes, None, 1700.0
+1394, Charles Munger, None, 1700.0
+1394, Kerr Neilson, None, 1700.0
+1394, Ou Zongrong, None, 1700.0
+1394, Nihat Ozdemir, None, 1700.0
+1394, Pan Weiming, None, 1700.0
+1394, Park Yeon-Cha, None, 1700.0
+1394, Nelson Peltz, None, 1700.0
+1394, Roger Penske, None, 1700.0
+1394, Qi Jinxing, None, 1700.0
+1394, Qi Shi, None, 1700.0
+1394, Theodore Rachmat, None, 1700.0
+1394, Juan Maria Riberas Mera, None, 1700.0
+1394, Vijay Shekhar Sharma, None, 1700.0
+1394, Konstantin Strukov, None, 1700.0
+1394, Henry Swieca, None, 1700.0
+1394, Wichai Thongtang, None, 1700.0
+1394, Torsten Toeller, None, 1700.0
+1394, Roman Trotsenko, None, 1700.0
+1394, Todd Wagner, None, 1700.0
+1394, Wang Chaobin, None, 1700.0
+1394, Wang Yanqing, None, 1700.0
+1394, John Whittaker, None, 1700.0
+1394, Wu Guangming, None, 1700.0
+1394, Xu Qiming, None, 1700.0
+1394, Zhang Xiaojuan, None, 1700.0
+1477, Melih Abdulhayoglu, None, 1600.0
+1477, Radhe Shyam Agarwal, None, 1600.0
+1477, Mohamed Al Fayed, None, 1600.0
+1477, Faisal Bin Qassim Al Thani, None, 1600.0
+1477, William F. Austin, None, 1600.0
+1477, Louis Bacon, None, 1600.0
+1477, Achal Bakeri, None, 1600.0
+1477, Othman Benjelloun, None, 1600.0
+1477, William Berkley, None, 1600.0
+1477, Aneel Bhusri, None, 1600.0
+1477, O. Francis Biondi, None, 1600.0
+1477, John Bloor, None, 1600.0
+1477, David Booth, None, 1600.0
+1477, Cai Wensheng, None, 1600.0
+1477, Ahmet Calik, None, 1600.0
+1477, Michel Chalhoub, None, 1600.0
+1477, Chen Xiaoying, None, 1600.0
+1477, Cho Jung-Ho, None, 1600.0
+1477, Turgay Ciner, None, 1600.0
+1477, Steve Conine, None, 1600.0
+1477, Jacques D'Amours, None, 1600.0
+1477, Robert Defares, None, 1600.0
+1477, Alexander Dzhaparidze, None, 1600.0
+1477, Stephen Feinberg, None, 1600.0
+1477, Paul Foster, None, 1600.0
+1477, Mario Gabelli, None, 1600.0
+1477, Marcos Galperin, None, 1600.0
+1477, Radhe Shyam Goenka, None, 1600.0
+1477, Christopher Goldsbury, None, 1600.0
+1477, Stelios Haji-Ioannou, None, 1600.0
+1477, Ilkka Herlin, None, 1600.0
+1477, Brian Higgins, None, 1600.0
+1477, Stephen Jarislowsky, None, 1600.0
+1477, Michael Jordan, None, 1600.0
+1477, Kenji Kasahara, None, 1600.0
+1477, Kim Taek-Jin, None, 1600.0
+1477, Edward Lampert, None, 1600.0
+1477, Thomas Lau, None, 1600.0
+1477, Thai Lee, None, 1600.0
+1477, Lei Jufang, None, 1600.0
+1477, Li Li, None, 1600.0
+1477, Li Liufa, None, 1600.0
+1477, Liu Hanyuan, None, 1600.0
+1477, Pier Luigi Loro Piana, None, 1600.0
+1477, Billy Joe (Red) McCombs, None, 1600.0
+1477, Gian Marco Moratti, None, 1600.0
+1477, Manuel Moroun, None, 1600.0
+1477, Robert Mouawad, None, 1600.0
+1477, Marius Nacht, None, 1600.0
+1477, Ni Zugen, None, 1600.0
+1477, Lirio Parisotto, None, 1600.0
+1477, Karl-Johan Persson, None, 1600.0
+1477, Tom Persson, None, 1600.0
+1477, Dmitry Pumpyansky, None, 1600.0
+1477, Ruan Shuilong, None, 1600.0
+1477, Jean Salata, None, 1600.0
+1477, Sheryl Sandberg, None, 1600.0
+1477, Niraj Shah, None, 1600.0
+1477, Shin Dong-Guk, None, 1600.0
+1477, Ben Silbermann, None, 1600.0
+1477, Charlotte Soderstrom, None, 1600.0
+1477, Thomas Steyer, None, 1600.0
+1477, Su Weizhong, None, 1600.0
+1477, David Teoh, None, 1600.0
+1477, Wang Jinshu, None, 1600.0
+1477, Wang Yaohai, None, 1600.0
+1477, Charlotte Colket Weber, None, 1600.0
+1477, Wei Ing-Chou, None, 1600.0
+1477, Yin-Chun Wei, None, 1600.0
+1477, Wei Yin-Heng, None, 1600.0
+1477, Wei Ying-Chiao, None, 1600.0
+1477, Richard White, None, 1600.0
+1477, Allan Wong, None, 1600.0
+1477, Wong Kwong Yu, None, 1600.0
+1477, Wu Jianshu, None, 1600.0
+1477, Wu Xu, None, 1600.0
+1477, Wu Xushun, None, 1600.0
+1477, Luis Enrique Yarur Rey, None, 1600.0
+1477, Albert Yeung, None, 1600.0
+1477, Yu Rong, None, 1600.0
+1477, Kostyantin Zhevago, None, 1600.0
+1477, Zhou Chengjian, None, 1600.0
+1477, Zhou Yaoting, None, 1600.0
+1477, Zhuang Kuilong, None, 1600.0
+1561, Jose Joao Abdalla Filho, None, 1500.0
+1561, Khalifa Bin Butti Al Muhairi, None, 1500.0
+1561, Folorunsho Alakija, None, 1500.0
+1561, Bill Alfond, None, 1500.0
+1561, Susan Alfond, None, 1500.0
+1561, Ted Alfond, None, 1500.0
+1561, Joy Alukkas, None, 1500.0
+1561, Andrey Andreev, None, 1500.0
+1561, Carol Jenkins Barnett, None, 1500.0
+1561, Oleg Boyko, None, 1500.0
+1561, Ana Maria Brescia Cafferata, None, 1500.0
+1561, Binod Chaudhary, None, 1500.0
+1561, Che Fengsheng, None, 1500.0
+1561, Chen Qingzhou, None, 1500.0
+1561, Richard Desmond, None, 1500.0
+1561, Mohammed Dewji, None, 1500.0
+1561, Carl Douglas, None, 1500.0
+1561, Eric Douglas, None, 1500.0
+1561, Bulent Eczacibasi, None, 1500.0
+1561, Faruk Eczacibasi, None, 1500.0
+1561, Martha Ford, None, 1500.0
+1561, Yasuhiro Fukushima, None, 1500.0
+1561, Reinold Geiger, None, 1500.0
+1561, Saad Hariri, None, 1500.0
+1561, Richard Hayne, None, 1500.0
+1561, Ilona Herlin, None, 1500.0
+1561, Asok Kumar Hiranandani, None, 1500.0
+1561, Niranjan Hiranandani, None, 1500.0
+1561, Huang Qiaoling, None, 1500.0
+1561, Huang Zhuangmian, None, 1500.0
+1561, Hal Jackman, None, 1500.0
+1561, Anurang Jain, None, 1500.0
+1561, Keeree Kanjanapas, None, 1500.0
+1561, Kim Nam-Jung, None, 1500.0
+1561, Seth Klarman, None, 1500.0
+1561, Alexander Klyachin, None, 1500.0
+1561, Yuriy Kosiuk, None, 1500.0
+1561, Miguel Krigsner, None, 1500.0
+1561, Lee Yin Yee, None, 1500.0
+1561, Nicola Leibinger-Kammueller, None, 1500.0
+1561, Li Weiwei, None, 1500.0
+1561, William Li, None, 1500.0
+1561, Li Yihai, None, 1500.0
+1561, Li Yong, None, 1500.0
+1561, Lin Ming-hsiung, None, 1500.0
+1561, Lou Zhongfu, None, 1500.0
+1561, Low Tuck Kwong, None, 1500.0
+1561, P.N.C. Menon, None, 1500.0
+1561, Thomas Meyer, None, 1500.0
+1561, Ezra Nahmad, None, 1500.0
+1561, Judith Neilson, None, 1500.0
+1561, Madeleine Olsson Ericksson, None, 1500.0
+1561, Ou Zonghong, None, 1500.0
+1561, Eren Ozmen, None, 1500.0
+1561, Fatih Ozmen, None, 1500.0
+1561, Jose Isaac Peres, None, 1500.0
+1561, Mark Pincus, None, 1500.0
+1561, Kevin Plank, None, 1500.0
+1561, Nicholas Pritzker, II., None, 1500.0
+1561, Que Wenbin, None, 1500.0
+1561, Jorge Rodriguez Rodriguez, None, 1500.0
+1561, Nobutada Saji, None, 1500.0
+1561, Thomas Sandell, None, 1500.0
+1561, Eddy Kusnadi Sariaatmadja, None, 1500.0
+1561, Fayez Sarofim, None, 1500.0
+1561, Monika Schoeller, None, 1500.0
+1561, Antonio Luiz Seabra, None, 1500.0
+1561, Yuri Shefler, None, 1500.0
+1561, Rajju Shroff, None, 1500.0
+1561, Frank Stronach, None, 1500.0
+1561, Kevin Systrom, None, 1500.0
+1561, Tang Hsiang-chien, None, 1500.0
+1561, Tang Jianfang, None, 1500.0
+1561, Ning Tang, None, 1500.0
+1561, Jim Thompson, None, 1500.0
+1561, Jonathan Tisch, None, 1500.0
+1561, Kenneth Tuchman, None, 1500.0
+1561, Wim van der Leegte, None, 1500.0
+1561, Shamsheer Vayalil, None, 1500.0
+1561, Thongma Vijitpongpun, None, 1500.0
+1561, Arkady Volozh, None, 1500.0
+1561, Stefan von Holtzbrinck, None, 1500.0
+1561, Wang Jiufang, None, 1500.0
+1561, Wong Hong King, None, 1500.0
+1561, Ian Wood, None, 1500.0
+1561, Xiao Chunhong, None, 1500.0
+1561, Jacky Xu, None, 1500.0
+1561, Zhang Hongwei, None, 1500.0
+1561, Zhang Tao, None, 1500.0
+1650, Anu Aga, None, 1400.0
+1650, Farkhad Akhmedov, None, 1400.0
+1650, Alberto Alcocer, None, 1400.0
+1650, Bassam Alghanim, None, 1400.0
+1650, Kutayba Alghanim, None, 1400.0
+1650, Alexandra Andresen, None, 1400.0
+1650, Katharina Andresen, None, 1400.0
+1650, Vasily Anisimov, None, 1400.0
+1650, Mori Arkin, None, 1400.0
+1650, Nigel Austin, None, 1400.0
+1650, Krishna Kumar Bangur, None, 1400.0
+1650, Herb Chambers, None, 1400.0
+1650, R.G. Chandramogan, None, 1400.0
+1650, Chang Pyung-Soon, None, 1400.0
+1650, Chao Teng-hsiung, None, 1400.0
+1650, Chen Liying, None, 1400.0
+1650, Chen Tianqiao, None, 1400.0
+1650, Henry Cheng, None, 1400.0
+1650, Chey Ki-Won, None, 1400.0
+1650, Chi Yufeng, None, 1400.0
+1650, Chua Thian Poh, None, 1400.0
+1650, Chung Yong-Jin, None, 1400.0
+1650, Ciputra, None, 1400.0
+1650, Alberto Cortina, None, 1400.0
+1650, Robert Coyiuto, Jr., None, 1400.0
+1650, Maria Del Pino y Calvo-Sotelo, None, 1400.0
+1650, K. Dinesh, None, 1400.0
+1650, Du Weimin, None, 1400.0
+1650, John Edson, None, 1400.0
+1650, David Einhorn, None, 1400.0
+1650, Bob Ell, None, 1400.0
+1650, Gary Fegel, None, 1400.0
+1650, Victor Fung, None, 1400.0
+1650, William Fung, None, 1400.0
+1650, Alan Gerry, None, 1400.0
+1650, Balkrishan Goenka, None, 1400.0
+1650, Polys Haji-Ioannou, None, 1400.0
+1650, Mehmet Hattat, None, 1400.0
+1650, J. Tomilson Hill, None, 1400.0
+1650, Eduardo Hochschild, None, 1400.0
+1650, Hoi Kin Hong, None, 1400.0
+1650, Hur Young-In, None, 1400.0
+1650, George Joseph, None, 1400.0
+1650, Ronald Joyce, None, 1400.0
+1650, T.S. Kalyanaraman, None, 1400.0
+1650, Nimesh Kampani, None, 1400.0
+1650, Eugene Kaspersky, None, 1400.0
+1650, Viktor Kharitonin, None, 1400.0
+1650, Pyotr Kondrashev, None, 1400.0
+1650, Yuri Kovalchuk, None, 1400.0
+1650, Kagemasa Kozuki, None, 1400.0
+1650, Michael Krasny, None, 1400.0
+1650, James Leininger, None, 1400.0
+1650, Li Guoqiang, None, 1400.0
+1650, Li Liangbin, None, 1400.0
+1650, Liu Ko-chen, None, 1400.0
+1650, Anatoly Lomakin, None, 1400.0
+1650, Ma Hong, None, 1400.0
+1650, Gary Magness, None, 1400.0
+1650, Youssef Mansour, None, 1400.0
+1650, Strive Masiyiwa, None, 1400.0
+1650, Dariusz Milek, None, 1400.0
+1650, Nan Cunhui, None, 1400.0
+1650, Dinesh Nandwana, None, 1400.0
+1650, Oei Hong Leong, None, 1400.0
+1650, Rubens Ometto Silveira Mello, None, 1400.0
+1650, Ou Xueming, None, 1400.0
+1650, Markus Persson, None, 1400.0
+1650, Victor Pinchuk, None, 1400.0
+1650, Alberto Prada, None, 1400.0
+1650, Marina Prada, None, 1400.0
+1650, Forrest Preston, None, 1400.0
+1650, Jerry Reinsdorf, None, 1400.0
+1650, Fernando Roig, None, 1400.0
+1650, Subhash Runwal, None, 1400.0
+1650, Yoshiyuki Sankai, None, 1400.0
+1650, Kirill Shamalov, None, 1400.0
+1650, Shin Dong-Bin, None, 1400.0
+1650, Evgeny (Eugene) Shvidler, None, 1400.0
+1650, Jasminder Singh, None, 1400.0
+1650, Martua Sitorus, None, 1400.0
+1650, Peter Sperling, None, 1400.0
+1650, Jerzy Starak, None, 1400.0
+1650, Manny Stul, None, 1400.0
+1650, Su Rubo, None, 1400.0
+1650, Fuat Tosyali, None, 1400.0
+1650, Kenny Troutt, None, 1400.0
+1650, Rufino Vigil Gonzalez, None, 1400.0
+1650, Wang Jianfeng, None, 1400.0
+1650, Wang Jing, None, 1400.0
+1650, Wang Qunbin, None, 1400.0
+1650, Dan Wilks, None, 1400.0
+1650, Farris Wilks, None, 1400.0
+1650, Thomas Wu, None, 1400.0
+1650, Yi Zheng, None, 1400.0
+1650, Yuan Fugen, None, 1400.0
+1650, Richard Yuengling, Jr., None, 1400.0
+1650, Gavril Yushvaev, None, 1400.0
+1650, Zeng Kaitian, None, 1400.0
+1650, Zhang Wanzhen, None, 1400.0
+1650, Zhang Yubai, None, 1400.0
+1650, Changpeng Zhao, None, 1400.0
+1650, Zhou Yifeng, None, 1400.0
+1650, Zhou Yongli, None, 1400.0
+1650, Zhu Wenchen, None, 1400.0
+1650, Ahmet Nazif Zorlu, None, 1400.0
+1756, Len Ainsworth, None, 1300.0
+1756, Edmund Ansin, None, 1300.0
+1756, Markus Blocher, None, 1300.0
+1756, Leonid Boguslavsky, None, 1300.0
+1756, Jorge Horacio Brito, None, 1300.0
+1756, Saket Burman, None, 1300.0
+1756, Steve Case, None, 1300.0
+1756, Jeffrey Cheah, None, 1300.0
+1756, Bruce Cheng, None, 1300.0
+1756, Cheng Xianfeng, None, 1300.0
+1756, Ivan Chrenko, None, 1300.0
+1756, Eduardo Cojuangco, None, 1300.0
+1756, Brunello Cucinelli, None, 1300.0
+1756, Darwin Deason, None, 1300.0
+1756, Andrea Della Valle, None, 1300.0
+1756, Jamie Dimon, None, 1300.0
+1756, Charles Dunstone, None, 1300.0
+1756, Bruce Flatt, None, 1300.0
+1756, Fu Meicheng, None, 1300.0
+1756, Soichiro Fukutake, None, 1300.0
+1756, Don Gao, None, 1300.0
+1756, Gao Yunfeng, None, 1300.0
+1756, Anne Gittinger, None, 1300.0
+1756, Clelia Haji-Ioannou, None, 1300.0
+1756, John Hancock, None, 1300.0
+1756, Ronnen Harary, None, 1300.0
+1756, Ayman Hariri, None, 1300.0
+1756, Fahd Hariri, None, 1300.0
+1756, Surendra Hiranandani, None, 1300.0
+1756, Alan Howard, None, 1300.0
+1756, Hu Keqin, None, 1300.0
+1756, Archie Hwang, None, 1300.0
+1756, Irwin Jacobs, None, 1300.0
+1756, Mitchell Jacobson, None, 1300.0
+1756, Rana Kapoor, None, 1300.0
+1756, Alexander Karp, None, 1300.0
+1756, Raghuvinder Kataria, None, 1300.0
+1756, Habil Khorakiwala, None, 1300.0
+1756, Sidney Kimmel, None, 1300.0
+1756, Andre Koo, None, 1300.0
+1756, Koo Bon-Neung, None, 1300.0
+1756, Andrei Kosogov, None, 1300.0
+1756, Lee Ho-Jin, None, 1300.0
+1756, Solomon Lew, None, 1300.0
+1756, Rodney Lewis, None, 1300.0
+1756, Li Jiaquan, None, 1300.0
+1756, Lin Fanlian, None, 1300.0
+1756, Lin Jianhua, None, 1300.0
+1756, Lin Tianfu, None, 1300.0
+1756, Louise Lindh, None, 1300.0
+1756, Liu Baolin, None, 1300.0
+1756, Jose Llado Fernandez-Urrutia, None, 1300.0
+1756, Lu Di, None, 1300.0
+1756, Cargill MacMillan, III., None, 1300.0
+1756, John MacMillan, None, 1300.0
+1756, Martha MacMillan, None, 1300.0
+1756, William MacMillan, None, 1300.0
+1756, Katarina Martinson, None, 1300.0
+1756, Craig Newmark, None, 1300.0
+1756, Bruce Nordstrom, None, 1300.0
+1756, Pierre Karl Péladeau, None, 1300.0
+1756, David Penaloza Alanis, None, 1300.0
+1756, Andreas Pohl, None, 1300.0
+1756, Reinfried Pohl, Jr., None, 1300.0
+1756, Mahendra Prasad, None, 1300.0
+1756, Anton Rabie, None, 1300.0
+1756, Bianca Rinehart, None, 1300.0
+1756, Ginia Rinehart, None, 1300.0
+1756, Alexander Rovt, None, 1300.0
+1756, Lily Safra, None, 1300.0
+1756, Deniz Sahenk, None, 1300.0
+1756, Karin Schick, None, 1300.0
+1756, Leonard Schleifer, None, 1300.0
+1756, Dieter Schnabel, None, 1300.0
+1756, Bhadresh Shah, None, 1300.0
+1756, Shao Qinxiang, None, 1300.0
+1756, Eric Ya Shen, None, 1300.0
+1756, Nobutoshi Shimamura, None, 1300.0
+1756, Shum Chiu Hung, None, 1300.0
+1756, Helmut Sohmen, None, 1300.0
+1756, Sun Qinghuan, None, 1300.0
+1756, Sun Yinhuan, None, 1300.0
+1756, Djoko Susanto, None, 1300.0
+1756, Erol Tabanca, None, 1300.0
+1756, Alexander Tedja, None, 1300.0
+1756, Wilma Tisch, None, 1300.0
+1756, Ayhan Tosyali, None, 1300.0
+1756, Fatih Tosyali, None, 1300.0
+1756, Tran Dinh Long, None, 1300.0
+1756, Tsai Ming-Kai, None, 1300.0
+1756, Pavel Tykac, None, 1300.0
+1756, Jayshree Ullal, None, 1300.0
+1756, Wan Long, None, 1300.0
+1756, Wang Muqing, None, 1300.0
+1756, Wang Yong, None, 1300.0
+1756, Hope Welker, None, 1300.0
+1756, Wen Yibo, None, 1300.0
+1756, Stephen T. Winn, None, 1300.0
+1756, Gordon Wu, None, 1300.0
+1756, Wu Lanlan, None, 1300.0
+1756, Xu Ziquan, None, 1300.0
+1756, Yang Meirong, None, 1300.0
+1756, Yang Tingdong, None, 1300.0
+1756, You Xiaoping, None, 1300.0
+1756, Yu Peidi, None, 1300.0
+1756, Yu Qibing, None, 1300.0
+1756, Yu Yunxin, None, 1300.0
+1756, Zan Shengda, None, 1300.0
+1756, Zhang Guiping, None, 1300.0
+1756, Zhao Weiguo, None, 1300.0
+1756, Zheng Jianjiang, None, 1300.0
+1867, Hamad bin Jassim bin Jaber Al Thani, None, 1200.0
+1867, Fawzi Al-Kharafi, None, 1200.0
+1867, Mohannad Al-Kharafi, None, 1200.0
+1867, Isak Andic, None, 1200.0
+1867, Marc Andreessen, None, 1200.0
+1867, Jose Maria Aristrain, None, 1200.0
+1867, Thomas Bailey, None, 1200.0
+1867, Harindarpal Banga, None, 1200.0
+1867, Elena Baturina, None, 1200.0
+1867, Eduardo Belmont Anderson, None, 1200.0
+1867, Tomasz Biernacki, None, 1200.0
+1867, Zadik Bino, None, 1200.0
+1867, Brett Blundy, None, 1200.0
+1867, Henadiy Boholyubov, None, 1200.0
+1867, Charles Brandes, None, 1200.0
+1867, Amit Burman, None, 1200.0
+1867, Cai Dongqing, None, 1200.0
+1867, Chen Bo, None, 1200.0
+1867, Cheng Wei, None, 1200.0
+1867, Phongthep Chiaravanont, None, 1200.0
+1867, Kochouseph Chittilappilly, None, 1200.0
+1867, Chu Jinfu, None, 1200.0
+1867, Eduardo Costantini, None, 1200.0
+1867, Sol Daurella, None, 1200.0
+1867, Philip Day, None, 1200.0
+1867, D. Leopoldo Del Pino y Calvo-Sotelo, None, 1200.0
+1867, Norbert Dentressangle, None, 1200.0
+1867, Beda Diethelm, None, 1200.0
+1867, Mark Dixon, None, 1200.0
+1867, Henry Engelhardt, None, 1200.0
+1867, Fang Hongbo, None, 1200.0
+1867, Gleb Fetisov, None, 1200.0
+1867, Donald Foss, None, 1200.0
+1867, Robert Friedland, None, 1200.0
+1867, Donald Friese, None, 1200.0
+1867, Fu Guangming, None, 1200.0
+1867, Dan Gertler, None, 1200.0
+1867, Dennis Gillings, None, 1200.0
+1867, Ryan Graves, None, 1200.0
+1867, Gu Wei, None, 1200.0
+1867, Alfredo Harp Helu, None, 1200.0
+1867, Gudrun Heine, None, 1200.0
+1867, Francis Holder, None, 1200.0
+1867, Hong Seok-Joh, None, 1200.0
+1867, Douglas Hsu, None, 1200.0
+1867, Huang Jianrong, None, 1200.0
+1867, B. Wayne Hughes, Jr., None, 1200.0
+1867, Daisy Igel, None, 1200.0
+1867, Thomas James, None, 1200.0
+1867, Jiang Ganjun, None, 1200.0
+1867, Jiang Zhaobai, None, 1200.0
+1867, Jin Huiming, None, 1200.0
+1867, Ajay Kalsi, None, 1200.0
+1867, Helga Kellerhals, None, 1200.0
+1867, King Pak Fu, None, 1200.0
+1867, Sergei Kolesnikov, None, 1200.0
+1867, Hemendra Kothari, None, 1200.0
+1867, Eiichi Kuriwada, None, 1200.0
+1867, Guy Laliberté, None, 1200.0
+1867, Lee Hae-Jin, None, 1200.0
+1867, Michael Lee-Chin, None, 1200.0
+1867, Li Guangyu, None, 1200.0
+1867, Li Jun, None, 1200.0
+1867, Li Rucheng, None, 1200.0
+1867, Li Xuhui, None, 1200.0
+1867, Lim Wee Chai, None, 1200.0
+1867, Liu Jiang, None, 1200.0
+1867, Liu Xuejing, None, 1200.0
+1867, Liu Zhenguo, None, 1200.0
+1867, Lo Ka Shui, None, 1200.0
+1867, Lo Siu-tong, None, 1200.0
+1867, Tobi Lutke, None, 1200.0
+1867, Ma Yunsheng, None, 1200.0
+1867, Ziyavudin Magomedov, None, 1200.0
+1867, Ana Maria Marcondes Penido Sant'Anna, None, 1200.0
+1867, Terence (Terry) Matthews, None, 1200.0
+1867, Gail Miller, None, 1200.0
+1867, Andrei Molchanov, None, 1200.0
+1867, Ni Zhaoxing, None, 1200.0
+1867, Kentaro Ogawa, None, 1200.0
+1867, Erik Paulsson, None, 1200.0
+1867, Peng Hao, None, 1200.0
+1867, Stefan Pierer, None, 1200.0
+1867, Michael Price, None, 1200.0
+1867, Clayton Riddell, None, 1200.0
+1867, Boris Rotenberg, None, 1200.0
+1867, Igor Rybakov, None, 1200.0
+1867, Stephen Saad, None, 1200.0
+1867, K. Rai Sahi, None, 1200.0
+1867, Airat Shaimiev, None, 1200.0
+1867, Radik Shaimiev, None, 1200.0
+1867, Shang Jiyong, None, 1200.0
+1867, Mikhail Shelkov, None, 1200.0
+1867, S.D. Shibulal, None, 1200.0
+1867, Ron Sim, None, 1200.0
+1867, Leonid Simanovsky, None, 1200.0
+1867, Basudeo Singh, None, 1200.0
+1867, Samprada Singh, None, 1200.0
+1867, Terry Snow, None, 1200.0
+1867, Lynsi Snyder, None, 1200.0
+1867, Sybill Storz, None, 1200.0
+1867, Harjo Sutanto, None, 1200.0
+1867, Yoshikazu Tanaka, None, 1200.0
+1867, Mehmet Sinan Tara, None, 1200.0
+1867, Rit Thirakomen, None, 1200.0
+1867, Tian Ming, None, 1200.0
+1867, Ion Tiriac, None, 1200.0
+1867, Ivar Tollefsen, None, 1200.0
+1867, Mustafa Latif Topbas, None, 1200.0
+1867, Thomas Tull, None, 1200.0
+1867, John Van Lieshout, None, 1200.0
+1867, Wang Han, None, 1200.0
+1867, Wang Junjin, None, 1200.0
+1867, Wang Wenbiao, None, 1200.0
+1867, Alfred West, Jr., None, 1200.0
+1867, Wu Daohong, None, 1200.0
+1867, Wu Yiling, None, 1200.0
+1867, Xiu Laigui, None, 1200.0
+1867, Xu Xiong, None, 1200.0
+1867, Xu Xudong, None, 1200.0
+1867, Xue Hua, None, 1200.0
+1867, Vadim Yakunin, None, 1200.0
+1867, Yan Yude, None, 1200.0
+1867, Yang Keng, None, 1200.0
+1867, Yang Shaopeng, None, 1200.0
+1867, Zhang Cheng Fei, None, 1200.0
+1867, Zhang Jingzhang, None, 1200.0
+1867, Zhang Keqiang, None, 1200.0
+1867, Zhang Xuanning, None, 1200.0
+1867, Zhang Zhangsun, None, 1200.0
+1867, Zhou Bajin, None, 1200.0
+1867, Zhou Wenyu, None, 1200.0
+1999, William Ackman, None, 1100.0
+1999, Soegiarto Adikoesoemo, None, 1100.0
+1999, Ali Ibrahim Agaoglu, None, 1100.0
+1999, Hamdi Akin, None, 1100.0
+1999, Chirayu Amin, None, 1100.0
+1999, Mehmet Aydinlar, None, 1100.0
+1999, Emanuella Barilla, None, 1100.0
+1999, Guido Barilla, None, 1100.0
+1999, Luca Barilla, None, 1100.0
+1999, Paolo Barilla, None, 1100.0
+1999, Mehmet Rustu Basaran, None, 1100.0
+1999, J. Hyatt Brown, None, 1100.0
+1999, Bu Yang, None, 1100.0
+1999, Hideyuki Busujima, None, 1100.0
+1999, Cai Rongjun, None, 1100.0
+1999, Cai Xiaoru, None, 1100.0
+1999, Delfin Jorge Ezequiel Carballo, None, 1100.0
+1999, Chen Jinshi, None, 1100.0
+1999, Chen Qixing, None, 1100.0
+1999, Chen Shiliang, None, 1100.0
+1999, Chen Xiaxin, None, 1100.0
+1999, Manas Chiaravanond, None, 1100.0
+1999, Yupa Chiaravanond, None, 1100.0
+1999, Prathip Chiravanond, None, 1100.0
+1999, Gustavo Cisneros, None, 1100.0
+1999, Sandor Csanyi, None, 1100.0
+1999, Cui Lijie, None, 1100.0
+1999, Dang Yanbao, None, 1100.0
+1999, Bharat Desai, None, 1100.0
+1999, Joseph Edelman, None, 1100.0
+1999, Wolfgang Egger, None, 1100.0
+1999, Andrei Filatov, None, 1100.0
+1999, Paul Fireman, None, 1100.0
+1999, J. Christopher Flowers, None, 1100.0
+1999, Fu Kwan, None, 1100.0
+1999, Sheela Gautam, None, 1100.0
+1999, Drew Houston, None, 1100.0
+1999, Huang Shilin, None, 1100.0
+1999, Huang Wen Tsai, None, 1100.0
+1999, Mohammed Ibrahim, None, 1100.0
+1999, Hiroshi Ishibashi, None, 1100.0
+1999, Bent Jensen, None, 1100.0
+1999, Chatchai Kaewbootta, None, 1100.0
+1999, Jonas Kamprad, None, 1100.0
+1999, Mathias Kamprad, None, 1100.0
+1999, Peter Kamprad, None, 1100.0
+1999, Madhu Kapur, None, 1100.0
+1999, Richard Kayne, None, 1100.0
+1999, Vladimir Kogan, None, 1100.0
+1999, Koh Wee Meng, None, 1100.0
+1999, Koo Bon-Joon, None, 1100.0
+1999, Lam Lung On, None, 1100.0
+1999, Isaac Larian, None, 1100.0
+1999, Frank Laukien, None, 1100.0
+1999, Lee Joon-Ho, None, 1100.0
+1999, Lee Sang-Hyuk, None, 1100.0
+1999, Nancy Lerner, None, 1100.0
+1999, Norma Lerner, None, 1100.0
+1999, Randolph Lerner, None, 1100.0
+1999, David Xueling Li, None, 1100.0
+1999, Li Tan, None, 1100.0
+1999, Li Weiguo, None, 1100.0
+1999, Liang Feng, None, 1100.0
+1999, Liang Guangwei, None, 1100.0
+1999, Liang Shezeng, None, 1100.0
+1999, Liao Chang, None, 1100.0
+1999, Jenny Lindén Urnes, None, 1100.0
+1999, Liu Zhendong, None, 1100.0
+1999, Liu Zhiqiang, None, 1100.0
+1999, Jonathan Lu, None, 1100.0
+1999, William Macaulay, None, 1100.0
+1999, John Martin, None, 1100.0
+1999, Yves-Loic Martin, None, 1100.0
+1999, Satish Mehta, None, 1100.0
+1999, Nikita Mishin, None, 1100.0
+1999, Konstantin Nikolaev, None, 1100.0
+1999, Simon Nixon, None, 1100.0
+1999, Michael O'Leary, None, 1100.0
+1999, Liora Ofer, None, 1100.0
+1999, Roberto Ongpin, None, 1100.0
+1999, Niti Osathanugrah, None, 1100.0
+1999, Frank Otto, None, 1100.0
+1999, Gretel Packer, None, 1100.0
+1999, Alberto Palatchi, None, 1100.0
+1999, Peng Jianhu, None, 1100.0
+1999, Lucy Peng, None, 1100.0
+1999, Andrei Rappoport, None, 1100.0
+1999, Andrea Reimann-Ciardelli, None, 1100.0
+1999, Igor Rotenberg, None, 1100.0
+1999, Alan Rydge, None, 1100.0
+1999, Chris Sacca, None, 1100.0
+1999, Alexander Samwer, None, 1100.0
+1999, Marc Samwer, None, 1100.0
+1999, Oliver Samwer, None, 1100.0
+1999, Neil Shen, None, 1100.0
+1999, Albert Shigaboutdinov, None, 1100.0
+1999, Shin Dong-Joo, None, 1100.0
+1999, Yoshiko Shinohara, None, 1100.0
+1999, Analjit Singh, None, 1100.0
+1999, Stephen Smith, None, 1100.0
+1999, Michael Steinhardt, None, 1100.0
+1999, Svein Stole, None, 1100.0
+1999, Rustem Sulteev, None, 1100.0
+1999, Julio Patricio Supervielle, None, 1100.0
+1999, Min-Liang Tan, None, 1100.0
+1999, Hary Tanoesoedibjo, None, 1100.0
+1999, Sukanto Tanoto, None, 1100.0
+1999, Tiong Hiew King, None, 1100.0
+1999, Laurie Tisch, None, 1100.0
+1999, Steven Tisch, None, 1100.0
+1999, James Truchard, None, 1100.0
+1999, Vardis Vardinoyannis, None, 1100.0
+1999, Murat Vargi, None, 1100.0
+1999, Wan Lianbu, None, 1100.0
+1999, Wang Miaotong, None, 1100.0
+1999, Wang Zhenghua, None, 1100.0
+1999, Wen Jianping, None, 1100.0
+1999, Myron Wentz, None, 1100.0
+1999, Xia Zuoquan, None, 1100.0
+1999, Swift Xie, None, 1100.0
+1999, Yao Jinbo, None, 1100.0
+1999, Fatma Tuba Yazici, None, 1100.0
+1999, Zhang Zhirong, None, 1100.0
+1999, Zhao Yan, None, 1100.0
+1999, Zhou Zongwen, None, 1100.0
+2124, Raamdeo Agrawal, None, 1000.0
+2124, Maurizio Billi, None, 1000.0
+2124, Sara Blakely, None, 1000.0
+2124, Pete Bodharamik, None, 1000.0
+2124, Cao Kejian, None, 1000.0
+2124, Morris Chang, None, 1000.0
+2124, Richard Chang, None, 1000.0
+2124, Chen Jianming, None, 1000.0
+2124, Cho Yang-Rai, None, 1000.0
+2124, Yvon Chouinard, None, 1000.0
+2124, Eduard Chukhlebov, None, 1000.0
+2124, Jack Cockwell, None, 1000.0
+2124, John Collison, None, 1000.0
+2124, Patrick Collison, None, 1000.0
+2124, Henry Davis, None, 1000.0
+2124, Francois Feuillet, None, 1000.0
+2124, Susumu Fujita, None, 1000.0
+2124, Filaret Galchev, None, 1000.0
+2124, Yuri Gushchin, None, 1000.0
+2124, David Hall, None, 1000.0
+2124, He Simo, None, 1000.0
+2124, Hon Kwok Lung, None, 1000.0
+2124, Elie Horn, None, 1000.0
+2124, Huang Bingwen, None, 1000.0
+2124, Huang Xiaofen, None, 1000.0
+2124, Masayuki Ishihara, None, 1000.0
+2124, Tarang Jain, None, 1000.0
+2124, Jiang Wei, None, 1000.0
+2124, Jiang Xuefei, None, 1000.0
+2124, David Kabiller, None, 1000.0
+2124, Morris Kahn, None, 1000.0
+2124, Anton Kathrein, Jr., None, 1000.0
+2124, Kim Dae-Il, None, 1000.0
+2124, Michael Kim, None, 1000.0
+2124, Ihor Kolomoyskyy, None, 1000.0
+2124, Koo Bon-Sik, None, 1000.0
+2124, Igor Kudryashkin, None, 1000.0
+2124, Lev Kvetnoi, None, 1000.0
+2124, Theodore Leonsis, None, 1000.0
+2124, Lev Leviev, None, 1000.0
+2124, Liang Zhaoxian, None, 1000.0
+2124, John Liew, None, 1000.0
+2124, Paul Little, None, 1000.0
+2124, Liu Fuhai, None, 1000.0
+2124, Liu Jincheng, None, 1000.0
+2124, Liu Shaoxi, None, 1000.0
+2124, Lu Weiding, None, 1000.0
+2124, Duncan MacMillan, None, 1000.0
+2124, George Marcus, None, 1000.0
+2124, Bernardo Matte, None, 1000.0
+2124, Eliodoro Matte, None, 1000.0
+2124, Mi Enhua, None, 1000.0
+2124, Lowell Milken, None, 1000.0
+2124, Nirmal Minda, None, 1000.0
+2124, Martin Naughton, None, 1000.0
+2124, Vadim Novinsky, None, 1000.0
+2124, Sergei Petrov, None, 1000.0
+2124, Carolyn Rafaelian, None, 1000.0
+2124, Lawrence Rossy, None, 1000.0
+2124, Alice Schwartz, None, 1000.0
+2124, Martin Selig, None, 1000.0
+2124, Sathien Setthasit, None, 1000.0
+2124, Evan Sharp, None, 1000.0
+2124, Ravindra Kishore Sinha, None, 1000.0
+2124, Axel Stawski, None, 1000.0
+2124, Beny Steinmetz, None, 1000.0
+2124, Dirk Stroeer, None, 1000.0
+2124, Sun Shangchuan, None, 1000.0
+2124, Sam Tarascio, None, 1000.0
+2124, Robert Toll, None, 1000.0
+2124, Surin Upatkoon, None, 1000.0
+2124, Alexander Vik, None, 1000.0
+2124, Peter-Alexander Wacker, None, 1000.0
+2124, Wang Jianyi, None, 1000.0
+2124, V. Prem Watsa, None, 1000.0
+2124, Sandy Weill, None, 1000.0
+2124, Wen Pengcheng, None, 1000.0
+2124, Wu Chung-yi, None, 1000.0
+2124, Yang Jianxin, None, 1000.0
+2124, Yao Xinyi, None, 1000.0
+2124, Zhao Xiaoqiang, None, 1000.0
+2124, Zhou Liangzhang, None, 1000.0
+2124, Zhu Xingming, None, 1000.0
+2124, Zhuo Jun, None, 1000.0
+2124, Olgun Zorlu, None, 1000.0
