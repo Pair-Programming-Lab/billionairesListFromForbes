@@ -28,9 +28,9 @@ with urllib.request.urlopen("https://www.forbes.com/ajax/list/data?year=2018&uri
 
         for d in new_list:
             rank = d['rank']
-            name = d['name']
+            name = d['name'].replace(',',' ')
             worth = d['worth']
-            source = d['source']
+            source = d['source'].replace(',',' ')
             f.write("{}, {}, {}, {}\n".format(
                 rank, name, worth, source
             ))
