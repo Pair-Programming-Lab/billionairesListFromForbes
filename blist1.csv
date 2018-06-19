@@ -1,0 +1,2209 @@
+Rank, Name, Worth, Source
+1, Jeff Bezos, 112000.0, Amazon
+2, Bill Gates, 90000.0, Microsoft
+3, Warren Buffett, 84000.0, Berkshire Hathaway
+4, Bernard Arnault, 72000.0, LVMH
+5, Mark Zuckerberg, 71000.0, Facebook
+6, Amancio Ortega, 70000.0, Zara
+7, Carlos Slim Helu, 67100.0, telecom
+8, Charles Koch, 60000.0, Koch Industries
+8, David Koch, 60000.0, Koch Industries
+10, Larry Ellison, 58500.0, software
+11, Michael Bloomberg, 50000.0, Bloomberg LP
+12, Larry Page, 48800.0, Google
+13, Sergey Brin, 47500.0, Google
+14, Jim Walton, 46400.0, Walmart
+15, S. Robson Walton, 46200.0, Walmart
+16, Alice Walton, 46000.0, Walmart
+17, Ma Huateng, 45300.0, internet media
+18, Francoise Bettencourt Meyers, 42200.0, L'Oreal
+19, Mukesh Ambani, 40100.0, petrochemicals, oil & gas
+20, Jack Ma, 39000.0, e-commerce
+21, Sheldon Adelson, 38500.0, casinos
+22, Steve Ballmer, 38400.0, Microsoft
+23, Li Ka-shing, 34900.0, diversified
+24, Hui Ka Yan, 30300.0, real estate
+24, Lee Shau Kee, 30300.0, real estate
+26, Wang Jianlin, 30000.0, real estate
+27, Beate Heister & Karl Albrecht Jr., 29800.0, supermarkets
+28, Phil Knight, 29600.0, Nike
+29, Jorge Paulo Lemann, 27400.0, beer
+30, Francois Pinault, 27000.0, luxury goods
+31, Georg Schaeffler, 25300.0, auto parts
+32, Susanne Klatten, 25000.0, BMW, pharmaceuticals
+32, David Thomson, 25000.0, media
+34, Jacqueline Mars, 23600.0, candy, pet food
+34, John Mars, 23600.0, candy, pet food
+36, Joseph Safra, 23500.0, banking
+37, Giovanni Ferrero, 23000.0, Nutella, chocolates
+37, Dietrich Mateschitz, 23000.0, Red Bull
+39, Michael Dell, 22700.0, Dell computers
+39, Masayoshi Son, 22700.0, internet, telecom
+41, Serge Dassault, 22600.0, diversified
+42, Stefan Quandt, 22000.0, BMW
+43, Yang Huiyan, 21900.0, real estate
+44, Paul Allen, 21700.0, Microsoft, investments
+45, Leonardo Del Vecchio, 21200.0, eyeglasses
+46, Dieter Schwarz, 20900.0, retail
+47, Thomas Peterffy, 20300.0, discount brokerage
+48, Theo Albrecht, Jr., 20200.0, Aldi, Trader Joe's
+48, Len Blavatnik, 20200.0, diversified
+50, He Xiangjian, 20100.0, home appliances
+50, Lui Che Woo, 20100.0, casinos
+52, James Simons, 20000.0, hedge funds
+52, Henry Sy, 20000.0, diversified
+54, Elon Musk, 19900.0, Tesla Motors
+55, Hinduja family, 19500.0, diversified
+55, Tadashi Yanai, 19500.0, fashion retail
+57, Vladimir Lisin, 19100.0, steel, transport
+58, Laurene Powell Jobs, 18800.0, Apple, Disney
+58, Azim Premji, 18800.0, software services
+60, Alexey Mordashov, 18700.0, steel, investments
+61, Lee Kun-Hee, 18600.0, Samsung
+62, Lakshmi Mittal, 18500.0, steel
+63, Wang Wei, 18200.0, package delivery
+64, Leonid Mikhelson, 18000.0, gas, chemicals
+65, Charoen Sirivadhanabhakdi, 17900.0, drinks, real estate
+66, Pallonji Mistry, 17800.0, construction
+67, Ray Dalio, 17700.0, hedge funds
+68, Takemitsu Takizaki, 17500.0, sensors
+69, William Ding, 17400.0, online games
+69, R. Budi Hartono, 17400.0, banking, tobacco
+69, Gina Rinehart, 17400.0, mining
+72, German Larrea Mota Velasco, 17300.0, mining
+73, Carl Icahn, 16800.0, investments
+73, Stefan Persson, 16800.0, H&M
+75, Michael Hartono, 16700.0, banking, tobacco
+75, Joseph Lau, 16700.0, real estate
+77, Thomas & Raymond Kwok, 16500.0, real estate
+78, Vagit Alekperov, 16400.0, oil
+78, James Ratcliffe, 16400.0, chemicals
+80, Donald Bren, 16300.0, real estate
+80, Iris Fontbona, 16300.0, mining
+82, Gennady Timchenko, 16000.0, oil, gas
+83, Abigail Johnson, 15900.0, money management
+83, Vladimir Potanin, 15900.0, metals
+83, Lukas Walton, 15900.0, Walmart
+86, Charlene de Carvalho-Heineken, 15800.0, Heineken
+87, Zhang Zhidong, 15600.0, internet media
+88, Petr Kellner, 15500.0, banking
+88, Andrey Melnichenko, 15500.0, coal, fertilizers
+88, David & Simon Reuben, 15500.0, investments, real estate
+91, Klaus-Michael Kuehne, 15300.0, shipping
+91, Li Shufu, 15300.0, automobiles
+93, Mikhail Fridman, 15100.0, oil, banking, telecom
+94, Rupert Murdoch, 15000.0, newspapers, TV network
+95, Dhanin Chearavanont, 14900.0, diversified
+96, Robert Kuok, 14800.0, palm oil, shipping, property
+97, Emmanuel Besnier, 14700.0, cheese
+98, Shiv Nadar, 14600.0, software services
+99, Viktor Vekselberg, 14400.0, metals, energy
+100, Aliko Dangote, 14100.0, cement, sugar, flour
+100, Harold Hamm, 14100.0, oil & gas
+102, Steve Cohen, 14000.0, hedge funds
+102, Dustin Moskovitz, 14000.0, Facebook
+102, Marcel Herrmann Telles, 14000.0, beer
+105, Reinhold Wuerth, 13600.0, fasteners
+106, Charles Ergen, 13400.0, satellite TV
+106, Eric Schmidt, 13400.0, Google
+108, Philip Anschutz, 13000.0, investments
+108, Jim Kennedy, 13000.0, media
+108, Blair Parry-Okeden, 13000.0, media
+108, Alain Wertheimer, 13000.0, Chanel
+108, Gerard Wertheimer, 13000.0, Chanel
+113, Leonard Lauder, 12900.0, Estee Lauder
+113, Heinz Hermann Thiele, 12900.0, brakes
+115, Dilip Shanghvi, 12800.0, pharmaceuticals
+116, Hasso Plattner, 12700.0, software
+117, Stephen Schwarzman, 12600.0, investments
+118, Lei Jun, 12500.0, smartphones
+118, Hans Rausing, 12500.0, packaging
+118, Alisher Usmanov, 12500.0, steel, telecom, investments
+121, Donald Newhouse, 12300.0, media
+122, Peter Woo, 12200.0, real estate
+123, Luis Carlos Sarmiento, 12100.0, banking
+124, Robin Li, 12000.0, internet search
+124, Carlos Alberto Sicupira, 12000.0, beer
+126, Seo Jung-Jin, 11900.0, biotech
+127, Kumar Birla, 11800.0, commodities
+127, Alexander Otto, 11800.0, real estate
+127, Stefano Pessina, 11800.0, drugstores
+130, Udo & Harald Tschira, 11700.0, software
+130, Wang Wenyin, 11700.0, mining, copper products
+132, Andrew Beal, 11600.0, banks, real estate
+132, Lee Man Tat, 11600.0, Oyster sauce, real estate
+134, John Menard, Jr., 11500.0, home improvement stores
+135, Xu Shihui, 11300.0, snacks, beverages
+135, Zhou Hongyi, 11300.0, security software
+137, Gong Hongjia, 11200.0, video surveillance
+138, Michael Otto, 11000.0, retail, real estate
+138, David Tepper, 11000.0, hedge funds
+140, Roman Abramovich, 10800.0, steel, investments
+140, Liu Qiangdong, 10800.0, e-commerce
+140, Robert & Philip Ng, 10800.0, real estate
+143, Alberto Bailleres Gonzalez, 10700.0, mining
+143, Uday Kotak, 10700.0, banking
+145, Pierre Omidyar, 10500.0, eBay
+146, Walter P.J. Droege, 10300.0, consulting
+147, Dietmar Hopp, 10200.0, software
+148, Graeme Hart, 10100.0, investments
+148, Eduardo Saverin, 10100.0, Facebook
+148, Yan Zhi, 10100.0, real estate
+151, Radhakishan Damani, 10000.0, investments, retail
+152, German Khan, 9800.0, oil, banking, telecom
+152, Ronald Perelman, 9800.0, leveraged buyouts
+154, Gautam Adani, 9700.0, commodities, ports
+154, Micky Arison, 9700.0, Carnival Cruises
+154, Pan Zhengmin, 9700.0, electronics
+154, Joseph Tsai, 9700.0, e-commerce
+158, Thomas Frist, Jr., 9600.0, health care
+158, Mikhail Prokhorov, 9600.0, investments
+160, Galen Weston, 9500.0, retail
+160, Zong Qinghou, 9500.0, beverages
+162, Eyal Ofer, 9400.0, real estate, shipping
+162, Charles Schwab, 9400.0, discount brokerage
+164, Gianluigi & Rafaela Aponte, 9300.0, Shipping
+164, Herbert Kohler, Jr., 9300.0, plumbing fixtures
+164, Viktor Rashnikov, 9300.0, steel
+167, Harry Triguboff, 9200.0, real estate
+167, August von Finck, 9200.0, investments
+167, Yao Zhenhua, 9200.0, conglomerate
+170, Jan Koum, 9100.0, WhatsApp
+170, Cyrus Poonawalla, 9100.0, vaccines
+172, James Goodnight, 9000.0, software
+172, Ken Griffin, 9000.0, hedge funds
+174, Giorgio Armani, 8900.0, luxury goods
+174, Ernesto Bertarelli, 8900.0, biotech, investments
+176, Savitri Jindal, 8800.0, steel
+176, Sunil Mittal, 8800.0, telecom
+178, James Chambers, 8700.0, media
+178, Katharine Rayner, 8700.0, media
+178, Margaretta Taylor, 8700.0, media
+181, Terry Gou, 8500.0, electronics
+181, Gordon Moore, 8500.0, Intel
+183, James Irving, 8300.0, diversified
+183, Stanley Kroenke, 8300.0, sports, real estate
+185, Melker Schorling, 8200.0, investments
+186, Johann Graf, 8100.0, gambling
+186, Guo Guangchang, 8100.0, conglomerate
+186, John Malone, 8100.0, cable television
+186, Xavier Niel, 8100.0, internet, telecom
+190, Silvio Berlusconi, 8000.0, media
+190, Carl Cook, 8000.0, medical devices
+190, David Geffen, 8000.0, movies, record labels
+190, Hui Wing Mau, 8000.0, real estate
+190, Walter Kwok, 8000.0, real estate
+190, George Soros, 8000.0, hedge funds
+196, Edward Johnson, III., 7900.0, money management
+196, Massimiliana Landini Aleotti, 7900.0, pharmaceuticals
+198, David Duffield, 7800.0, business software
+198, George Kaiser, 7800.0, oil & gas, banking
+198, Patrick Soon-Shiong, 7800.0, pharmaceuticals
+198, Zhou Qunfei, 7800.0, smartphone screens
+202, Nicky Oppenheimer, 7700.0, diamonds
+202, Sun Piaoyang, 7700.0, pharmaceuticals
+202, Wu Yajun, 7700.0, real estate
+205, Alexei Kuzmichev, 7600.0, oil, banking, telecom
+205, Stephen Ross, 7600.0, real estate
+207, Vincent Bollore, 7400.0, investments
+207, Pauline MacMillan Keinath, 7400.0, Cargill
+207, Jay Y. Lee, 7400.0, Samsung
+207, Anders Holch Povlsen, 7400.0, fashion retail
+211, Eli Broad, 7300.0, investments
+211, Michael Kadoorie, 7300.0, hotels, energy
+211, Iskander Makhmudov, 7300.0, mining, metals, machinery
+211, Frederik Paulsen, 7300.0, health care
+211, Sun Hongbin, 7300.0, real estate
+211, Christy Walton, 7300.0, Walmart
+217, Shahid Khan, 7200.0, auto parts
+217, Ananda Krishnan, 7200.0, telecoms, media, oil-services
+217, Carrie Perrodo, 7200.0, oil
+217, Quek Leng Chan, 7200.0, banking, property
+217, Wang Wenxue, 7200.0, real estate
+222, John Doerr, 7100.0, venture capital
+222, Patrick Drahi, 7100.0, telecom
+222, Eva Gonda de Rivera, 7100.0, beverages
+222, Willi & Isolde Liebherr, 7100.0, Construction
+222, Ricardo Salinas Pliego, 7100.0, retail, media
+222, Suh Kyung-Bae, 7100.0, cosmetics
+228, Pollyanna Chu, 7000.0, financial services
+228, John Fredriksen, 7000.0, shipping
+228, Goh Cheng Liang, 7000.0, paints
+228, Sri Prakash Lohia, 7000.0, polyester
+228, Lu Zhiqiang, 7000.0, real estate
+228, Jorn Rausing, 7000.0, packaging
+228, Johann Rupert, 7000.0, luxury goods
+228, Jacques Saade, 7000.0, shipping
+228, Wu Shaoxun, 7000.0, wine
+237, Leonid Fedun, 6900.0, oil
+237, Kim Jung-Ju, 6900.0, online games
+237, Sandra Ortega Mera, 6900.0, Zara
+237, Jim Pattison, 6900.0, diversified
+237, Michael Platt, 6900.0, hedge funds
+242, Chan Laiwa, 6800.0, real estate
+242, David Green, 6800.0, retail
+242, Hank & Doug Meijer, 6800.0, supermarkets
+242, Dmitry Rybolovlev, 6800.0, fertilizer
+242, Tsai Eng-Meng, 6800.0, food, beverages
+242, Andreas von Bechtolsheim, 6800.0, Google
+248, Oleg Deripaska, 6700.0, aluminum, utilities
+248, Liu Yongxing, 6700.0, diversified
+248, Ludwig Merckle, 6700.0, pharmaceuticals
+251, Brian Acton, 6600.0, WhatsApp
+251, John Grayken, 6600.0, private equity
+251, Ann Walton Kroenke, 6600.0, Walmart
+251, Augusto & Giorgio Perfetti, 6600.0, candy
+251, Finn Rausing, 6600.0, packaging
+251, Kirsten Rausing, 6600.0, packaging
+251, Odd Reitan, 6600.0, retail, real estate
+251, Nassef Sawiris, 6600.0, construction, chemicals
+251, Wee Cho Yaw, 6600.0, banking
+251, Aloys Wobben, 6600.0, wind turbines
+261, Leon Black, 6500.0, private equity
+261, Ivan Glasenberg, 6500.0, mining
+261, John Paulson, 6500.0, hedge funds
+261, Wei Jianjun, 6500.0, automobiles
+265, Francis Choi, 6400.0, real estate
+265, Erivan Haub, 6400.0, retail
+265, Jason Jiang, 6400.0, advertising
+265, Suleiman Kerimov, 6400.0, investments
+265, Ian & Richard Livingstone, 6400.0, real estate
+265, Pang Kang, 6400.0, soy sauce maker
+265, David Shaw, 6400.0, hedge funds
+265, Kushal Pal Singh, 6400.0, real estate
+265, John A. Sobrato, 6400.0, real estate
+274, Acharya Balkrishna, 6300.0, consumer goods
+274, Guenther Fielmann, 6300.0, optometry
+274, Daniel Gilbert, 6300.0, Quicken Loans
+274, Antonia Johnson, 6300.0, diversified
+274, Vikram Lal, 6300.0, motorcycles
+274, Akira Mori, 6300.0, real estate
+274, Maria-Elisabeth Schaeffler-Thumann, 6300.0, auto parts
+281, Albert Frere, 6200.0, investments
+281, Richard Kinder, 6200.0, pipelines
+281, Robert Kraft, 6200.0, New England Patriots
+281, Ralph Lauren, 6200.0, Ralph Lauren
+281, Bruno Schroder, 6200.0, banking
+281, Nusli Wadia, 6200.0, consumer goods
+287, Pierre Bellon, 6100.0, food services
+287, Les Wexner, 6100.0, retail
+289, Benu Gopal Bangur, 6000.0, cement
+289, David Cheriton, 6000.0, Google
+289, Ma Jianrong, 6000.0, textiles, apparel
+289, Whitney MacMillan, 6000.0, Cargill
+289, Dan Olsson, 6000.0, diversified
+289, Vivek Chaand Sehgal, 6000.0, auto parts
+289, Teh Hong Piow, 6000.0, banking
+296, Abdulla bin Ahmad Al Ghurair, 5900.0, diversified
+296, Maria Asuncion Aramburuzabala, 5900.0, beer, investments
+296, Ralph Dommermuth, 5900.0, internet service provider
+296, Frank Lowy, 5900.0, shopping malls
+296, Wolfgang Marguerre, 5900.0, pharmaceuticals
+296, Marijke Mars, 5900.0, candy, pet food
+296, Pamela Mars, 5900.0, candy, pet food
+296, Valerie Mars, 5900.0, candy, pet food
+296, Victoria Mars, 5900.0, candy, pet food
+305, David & Frederick Barclay, 5800.0, media, retail
+305, John Gokongwei, Jr., 5800.0, food and beverage
+305, Kwon Hyuk-Bin, 5800.0, online games
+305, Nancy Walton Laurie, 5800.0, Walmart
+305, Lin Yu-Ling, 5800.0, real estate
+305, Tom & Judy Love, 5800.0, retail & gas stations
+305, Robert Rowling, 5800.0, investments
+305, Dennis Washington, 5800.0, construction, mining
+305, Yao Liangsong, 5800.0, furniture
+305, Zhang Jindong, 5800.0, appliance retailer
+315, Juan Francisco Beckmann Vidal, 5700.0, tequila
+315, David Sun, 5700.0, computer hardware
+315, John Tu, 5700.0, computer hardware
+315, Martin Viessmann, 5700.0, heating equipment
+315, Stef Wertheimer, 5700.0, metalworking tools
+315, Hansjoerg Wyss, 5700.0, medical devices
+321, James Dyson, 5600.0, vacuums
+321, Laurence Graff, 5600.0, diamond jewelry
+321, Jen-Hsun Huang, 5600.0, semiconductors
+321, Charles Johnson, 5600.0, money management
+321, Jerry Jones, 5600.0, Dallas Cowboys
+321, Kei Hoi Pang, 5600.0, real estate
+321, Kwee family, 5600.0, Real Estate
+321, Lee Shin Cheng, 5600.0, palm oil, property
+321, Richard LeFrak, 5600.0, real estate
+321, Shigenobu Nagamori, 5600.0, motors
+321, Steven Rales, 5600.0, manufacturing
+321, Friede Springer, 5600.0, publishing
+321, Yeung Kin-man, 5600.0, electronics
+334, Rinat Akhmetov, 5500.0, steel, coal
+334, Shari Arison, 5500.0, Carnival Cruises
+334, Dannine Avara, 5500.0, pipelines
+334, Rahel Blocher, 5500.0, chemicals
+334, Andrew Currie, 5500.0, chemicals
+334, Scott Duncan, 5500.0, pipelines
+334, Milane Frantz, 5500.0, pipelines
+334, Diane Hendricks, 5500.0, roofing
+334, Magdalena Martullo-Blocher, 5500.0, chemicals
+334, Hiroshi Mikitani, 5500.0, online retail
+334, Gabe Newell, 5500.0, videogames
+334, Pan Sutong, 5500.0, real estate, finance
+334, Anthony Pratt, 5500.0, manufacturing
+334, John Reece, 5500.0, chemicals
+334, Randa Williams, 5500.0, pipelines
+334, Zhang Bangxin, 5500.0, after-school tutoring
+334, Zhang Shiping, 5500.0, aluminum products
+351, Jean-Michel Besnier, 5400.0, cheese
+351, Marie Besnier Beauvalot, 5400.0, cheese
+351, Richard DeVos, 5400.0, Amway
+351, Michael Herz, 5400.0, coffee
+351, Wolfgang Herz, 5400.0, coffee
+351, Kjeld Kirk Kristiansen, 5400.0, Lego
+351, Sofie Kirk Kristiansen, 5400.0, Lego
+351, Thomas Kirk Kristiansen, 5400.0, Lego
+351, Lam Wai Ying, 5400.0, smartphone screens
+351, Lin Xiucheng, 5400.0, electronics
+351, Margarita Louis-Dreyfus, 5400.0, commodities
+351, George Roberts, 5400.0, private equity
+351, Edward Roski, Jr., 5400.0, real estate
+351, Agnete Kirk Thinggaard, 5400.0, Lego
+365, Mike Adenuga, 5300.0, telecom, oil
+365, Jim Davis, 5300.0, New Balance
+365, David Filo, 5300.0, Yahoo
+365, Pansy Ho, 5300.0, casinos
+365, Henry Kravis, 5300.0, private equity
+365, Emanuele (Lino) Saputo, 5300.0, cheese
+365, Xu Chuanhua, 5300.0, chemicals, logistics
+372, Alexander Abramov, 5200.0, steel, mining
+372, Israel Englander, 5200.0, hedge funds
+372, Frits Goldschmeding, 5200.0, temp agency
+372, Marian Ilitch, 5200.0, pizza, sports team
+372, Bruce Kovner, 5200.0, hedge funds
+372, George Lucas, 5200.0, Star Wars
+372, Kalanithi Maran, 5200.0, media
+372, Elisabeth Mohn, 5200.0, publishing
+372, Robert Rich, Jr., 5200.0, frozen foods
+372, Wang Chuanfu, 5200.0, batteries, automobiles
+382, Maria Fernanda Amorim, 5100.0, energy, investments
+382, Pyotr Aven, 5100.0, oil, banking, telecom
+382, Bernard Marcus, 5100.0, Home Depot
+382, Pedro Moreira Salles, 5100.0, banking, minerals
+382, Frederick Smith, 5100.0, FedEx
+382, Ronda Stryker, 5100.0, medical equipment
+388, Richard Branson, 5000.0, Virgin
+388, Subhash Chandra, 5000.0, media
+388, Denise Coates, 5000.0, online gambling
+388, Martha Ingram, 5000.0, book distribution, transportation
+388, Law Kar Po, 5000.0, real estate
+388, Joe Lewis, 5000.0, investments
+388, Gabriella Meister, 5000.0, appliances
+388, Fernando Roberto Moreira Salles, 5000.0, banking, minerals
+388, Joao Moreira Salles, 5000.0, banking, minerals
+388, Walther Moreira Salles Junior, 5000.0, banking, minerals
+388, Pankaj Patel, 5000.0, pharmaceuticals
+388, Karen Pritzker, 5000.0, hotels, investments
+388, Thomas Schmidheiny, 5000.0, cement
+388, Vichai Srivaddhanaprabha, 5000.0, duty-free
+388, Keiichiro Takahara, 5000.0, diapers
+388, M.A. Yusuff Ali, 5000.0, retail
+404, Robert Bass, 4900.0, oil, investments
+404, Marc Benioff, 4900.0, business software
+404, Martin & Olivier Bouygues, 4900.0, construction, media
+404, Chung Mong-Koo, 4900.0, motor vehicles
+404, Charles Dolan, 4900.0, cable television
+404, Ray Lee Hunt, 4900.0, oil, real estate
+404, Liu Yonghao, 4900.0, agribusiness
+404, John Overdeck, 4900.0, hedge funds
+404, Ajay Piramal, 4900.0, pharmaceuticals
+404, Enrique Razon, Jr., 4900.0, ports
+404, Sumner Redstone, 4900.0, media
+404, Paolo & Gianfelice Mario Rocca, 4900.0, pipe manufacturing
+404, Reinhold Schmieding, 4900.0, medical devices
+404, David Siegel, 4900.0, hedge funds
+404, Andrei Skoch, 4900.0, steel
+404, Yu Yong, 4900.0, mining
+404, Sam Zell, 4900.0, real estate, private equity
+404, Zhou Jianping, 4900.0, fashion retail
+422, Bajaj brothers, 4800.0, diversified
+422, Garrett Camp, 4800.0, Uber
+422, Bubba Cathy, 4800.0, Chick-fil-A
+422, Dan Cathy, 4800.0, Chick-fil-A
+422, Fu Liquan, 4800.0, surveillance equipment
+422, Philip & Cristina Green, 4800.0, fashion retail
+422, Mikhail Gutseriev, 4800.0, oil, real estate
+422, Rupert Johnson, Jr., 4800.0, money management
+422, Travis Kalanick, 4800.0, Uber
+422, Andrei Kozitsyn, 4800.0, metals
+422, Horst Paulmann, 4800.0, retail
+422, Julio Ponce Lerou, 4800.0, fertilizer
+422, Trevor Rees-Jones, 4800.0, oil & gas
+422, Mark Scheinberg, 4800.0, online gambling
+422, Jeffrey Skoll, 4800.0, eBay
+422, Murat Ulker, 4800.0, food
+422, Daniel Ziff, 4800.0, investments
+422, Dirk Ziff, 4800.0, investments
+422, Robert Ziff, 4800.0, investments
+441, Juergen Blickle, 4700.0, auto parts
+441, Bernard Broermann, 4700.0, hospitals
+441, Clive Calder, 4700.0, record label
+441, Stanley Druckenmiller, 4700.0, hedge funds
+441, Ted Lerner, 4700.0, real estate
+441, Li Shuirong, 4700.0, petrochemicals
+441, Lim Kok Thay, 4700.0, casinos
+441, Niels Peter Louis-Hansen, 4700.0, medical devices
+441, Fredrik Lundberg, 4700.0, real estate, investments
+441, Gwendolyn Sontheim Meyer, 4700.0, Cargill
+441, J. Christopher Reyes, 4700.0, food distribution
+441, Jude Reyes, 4700.0, food distribution
+441, Alexandra Schoerghuber, 4700.0, real estate
+441, Sheldon Solow, 4700.0, real estate
+441, Lucio Tan, 4700.0, diversified
+456, Majid Al Futtaim, 4600.0, real estate, retail
+456, Andrej Babis, 4600.0, agriculture
+456, Dona Bertarelli, 4600.0, biotech
+456, Cai Kui, 4600.0, real estate
+456, Bidzina Ivanishvili, 4600.0, investments
+456, Jeremy Jacobs, Sr., 4600.0, concessions
+456, Chris Larsen, 4600.0, cryptocurrency
+456, Patrick Lee, 4600.0, paper
+456, Liang Wengen, 4600.0, construction equipment
+456, Denis O'Brien, 4600.0, telecom
+466, Kapil & Rahul Bhatia, 4500.0, airlines
+466, Jean-Pierre Cayard, 4500.0, spirits
+466, Chey Tae-Won, 4500.0, IT, telecom
+466, Fang Wei, 4500.0, steel
+466, Andrei Guriev, 4500.0, fertilizers
+466, Bertil Hult, 4500.0, education
+466, Ji Changqun, 4500.0, real estate
+466, Paul Tudor Jones, II., 4500.0, hedge funds
+466, Robert Miller, 4500.0, retail
+466, Sergei Popov, 4500.0, banking
+466, Juan Roig, 4500.0, supermarkets
+466, John Sall, 4500.0, software
+466, Leonard Stern, 4500.0, real estate
+466, Ye Chenghai, 4500.0, pharmaceuticals
+480, Anthony Bamford, 4400.0, construction equipment
+480, Chu Mang Yee, 4400.0, real estate
+480, Juan Carlos Escotet, 4400.0, banking
+480, Miguel Fluxa Rossello, 4400.0, hotels
+480, Andrew Forrest, 4400.0, mining
+480, Paul Gauselmann, 4400.0, gambling
+480, Tamara Gustavson, 4400.0, self storage
+480, Micky Jagtiani, 4400.0, retail
+480, Johan Johannson, 4400.0, grocery stores
+480, Richard Li, 4400.0, telecom
+480, John Morris, 4400.0, sporting goods retail
+480, Theo Mueller, 4400.0, dairy
+480, Akio Nitori, 4400.0, home furnishings
+480, Wolfgang Reimann, 4400.0, consumer goods
+480, Matthias Reimann-Andersen, 4400.0, consumer goods
+480, Stefan Reimann-Andersen, 4400.0, consumer goods
+480, Renate Reimann-Haas, 4400.0, consumer goods
+480, Robert Smith, 4400.0, private equity
+480, Russ Weiner, 4400.0, energy drinks
+499, Jeronimo Arango, 4300.0, retail
+499, Rahul Bajaj, 4300.0, motorcycles
+499, Rainer Blickle, 4300.0, auto parts
+499, Rocco Commisso, 4300.0, telecom
+499, Giuseppe De'Longhi, 4300.0, coffee makers
+499, Tilman Fertitta, 4300.0, Houston Rockets, entertainment
+499, Nathan Kirsh, 4300.0, retail, real estate
+499, Terrence Pegula, 4300.0, natural gas
+499, Robert Pera, 4300.0, wireless networking gear
+499, Gary Rollins, 4300.0, pest control
+499, Randall Rollins, 4300.0, pest control
+499, Alejandro Santo Domingo, 4300.0, beer
+499, Andres Santo Domingo, 4300.0, beer
+499, Pham Nhat Vuong, 4300.0, diversified
+499, Roger Wang, 4300.0, retail
+514, Stephen Bisciotti, 4200.0, staffing, Baltimore Ravens
+514, Austen Cargill, II., 4200.0, Cargill
+514, James Cargill, II., 4200.0, Cargill
+514, Archie Aldis Emmerson, 4200.0, timberland, lumber mills
+514, Antti Herlin, 4200.0, elevators, escalators
+514, Sumet Jiaravanon, 4200.0, diversified
+514, Lars Larsen, 4200.0, retail
+514, Marianne Liebmann, 4200.0, Cargill
+514, Bobby Murphy, 4200.0, Snapchat
+514, Igor Olenicoff, 4200.0, real estate
+514, Walter Scott, Jr., 4200.0, utilities, telecom
+514, Clemmie Spangler, Jr., 4200.0, investments
+514, Wang Yusuo, 4200.0, natural gas distribution
+527, Carl Bennet, 4100.0, investments
+527, Arthur Blank, 4100.0, Home Depot
+527, Jaran Chiaravanont, 4100.0, diversified
+527, Jack & Laura Dangermond, 4100.0, mapping software
+527, Fan Hongwei, 4100.0, petrochemicals
+527, John Gandel, 4100.0, shopping malls
+527, James Jannard, 4100.0, sunglasses
+527, Montri Jiaravanont, 4100.0, diversified
+527, Samuel Tak Lee, 4100.0, real estate
+527, Pawan Munjal, 4100.0, motorcycles
+527, Axel Oberwelland, 4100.0, candy
+527, James Packer, 4100.0, casinos
+527, Isaac Perlmutter, 4100.0, Marvel comics
+527, H. Ross Perot, Sr., 4100.0, computer services, real estate
+527, Michael Pieper, 4100.0, kitchen appliances
+527, Thomas Pritzker, 4100.0, hotels, investments
+527, Julian Robertson, Jr., 4100.0, hedge funds
+527, Renzo Rosso, 4100.0, fashion
+527, Hussain Sajwani, 4100.0, real estate
+527, Yasumitsu Shigeta, 4100.0, mobile phone retailer
+527, Evan Spiegel, 4100.0, Snapchat
+527, Wang Xing, 4100.0, e-commerce
+527, Kelcy Warren, 4100.0, pipelines
+550, Ben Ashkenazy, 4000.0, real estate
+550, Ursula Bechtolsheimer-Kipp, 4000.0, retail
+550, Otto Philipp Braun, 4000.0, medical technology
+550, Che Jianxing, 4000.0, furniture retailing
+550, Dagmar Dolby, 4000.0, Dolby Laboratories
+550, Traudl Engelhorn, 4000.0, pharmaceuticals, medical equipment
+550, Dan Friedkin, 4000.0, Toyota dealerships
+550, Sergei Galitsky, 4000.0, retail
+550, Huang Rulun, 4000.0, real estate
+550, Erman Ilicak, 4000.0, construction
+550, Ronald Lauder, 4000.0, Estee Lauder
+550, Michel Leclercq, 4000.0, sporting goods
+550, Michael Moritz, 4000.0, venture capital
+550, Issad Rebrab, 4000.0, food
+550, Naguib Sawiris, 4000.0, telecom
+550, Richard Schulze, 4000.0, Best Buy
+550, B.R. Shetty, 4000.0, healthcare
+550, Jeff Sutton, 4000.0, real estate
+550, Tony Tan Caktiong, 4000.0, food
+550, Yu Huijiao, 4000.0, package delivery
+550, Zhang Xuexin, 4000.0, aluminum
+550, Zhang Yiming, 4000.0, software
+572, Suhail Bahwan, 3900.0, diversified
+572, Rick Caruso, 3900.0, real estate
+572, Tom Gores, 3900.0, private equity
+572, Peter Hargreaves, 3900.0, financial services
+572, Daniela Herz, 3900.0, coffee
+572, Guenter Herz, 3900.0, coffee
+572, Masatoshi Ito, 3900.0, retail
+572, Barry Lam, 3900.0, electronics
+572, Sudhir & Samir Mehta, 3900.0, diversified
+572, Ravi Pillai, 3900.0, construction
+572, Stewart and Lynda Resnick, 3900.0, agriculture, water
+572, Jerry Speyer, 3900.0, real estate
+572, Harry Stine, 3900.0, agriculture
+572, George Ty, 3900.0, banking
+572, Steven Udvar-Hazy, 3900.0, aircraft leasing
+572, Christoph Zeller, 3900.0, dental implants
+588, Nathan Blecharczyk, 3800.0, Airbnb
+588, Hubert Burda, 3800.0, publishing
+588, Chen Dongsheng, 3800.0, insurance
+588, Brian Chesky, 3800.0, Airbnb
+588, Gustaf Douglas, 3800.0, investments
+588, Joe Gebbia, 3800.0, Airbnb
+588, Peter Gilgan, 3800.0, homebuilding
+588, Jeff Greene, 3800.0, real estate, investments
+588, Jiang Weiping, 3800.0, chemicals
+588, Dominika & Sebastian Kulczyk, 3800.0, diversified
+588, Li Wa, 3800.0, real estate
+588, Robert McNair, 3800.0, energy, sports
+588, Masahiro Miki, 3800.0, shoes
+588, Katharina Otto-Bernstein, 3800.0, real estate
+588, Ira Rennert, 3800.0, investments
+588, Henry Samueli, 3800.0, semiconductors
+588, Zeng Fangqin, 3800.0, smartphone components
+588, Zhang Jin, 3800.0, diversified
+606, Nick Caporella, 3700.0, beverages
+606, Mark Cuban, 3700.0, online media
+606, Ken Fisher, 3700.0, money management
+606, Jaime Gilinski Bacal, 3700.0, banking
+606, Andreas Halvorsen, 3700.0, hedge funds
+606, H. Fisk Johnson, 3700.0, cleaning products
+606, Imogene Powers Johnson, 3700.0, cleaning products
+606, S. Curtis Johnson, 3700.0, cleaning products
+606, Helen Johnson-Leipold, 3700.0, cleaning products
+606, Winifred Johnson-Marquart, 3700.0, cleaning products
+606, Viatcheslav Kantor, 3700.0, fertilizer, real estate
+606, Samvel Karapetyan, 3700.0, real estate
+606, Marc Ladreit de Lacharriere, 3700.0, finance
+606, Angela Leong, 3700.0, casinos
+606, Li Gaiteng, 3700.0, hair dryers
+606, Mangal Prabhat Lodha, 3700.0, real estate
+606, Michael Milken, 3700.0, investments
+606, Yuri Milner, 3700.0, tech investments
+606, Andreas Struengmann, 3700.0, pharmaceuticals
+606, Thomas Struengmann, 3700.0, pharmaceuticals
+606, Tse Ping, 3700.0, pharmaceuticals
+606, Yitzhak Tshuva, 3700.0, real estate
+606, Samuel Yin, 3700.0, diversified
+629, Michael Ashley, 3600.0, sports retailing
+629, Cao Longxiang, 3600.0, pharmaceuticals
+629, Jeffery Hildebrand, 3600.0, oil
+629, Jiang Rensheng, 3600.0, vaccine production
+629, Edward Johnson, IV., 3600.0, money management
+629, Elizabeth Johnson, 3600.0, money management
+629, Peter Kellogg, 3600.0, investments
+629, Lim Sung-Ki, 3600.0, pharmaceuticals
+629, Friedhelm Loh, 3600.0, manufacturing
+629, Kiran Mazumdar-Shaw, 3600.0, biotech
+629, Idan Ofer, 3600.0, drilling, shipping
+629, Karsanbhai Patel, 3600.0, consumer goods
+629, Qin Yinglin, 3600.0, pig breeding
+629, Qiu Guanghe, 3600.0, fashion retail
+629, Sarath Ratanavadi, 3600.0, energy
+629, Rodger Riney, 3600.0, discount brokerage
+629, Steven Spielberg, 3600.0, Movies
+629, Gabriele Volkmann, 3600.0, auto parts
+629, Arne Wilhelmsen, 3600.0, cruise ships
+629, Xu Jingren, 3600.0, pharmaceuticals
+629, Zhang Li, 3600.0, real estate
+629, Zhang Xin, 3600.0, real estate
+629, Anita Zucker, 3600.0, chemicals
+652, Carlo Benetton, 3500.0, fashion retail, investments
+652, Gilberto Benetton, 3500.0, fashion retail, investments
+652, Giuliana Benetton, 3500.0, fashion retail, investments
+652, Luciano Benetton, 3500.0, fashion retail, investments
+652, Chen Bang, 3500.0, hospitals
+652, Kuldip Singh & Gurbachan Singh Dhingra, 3500.0, paints
+652, Abilio dos Santos Diniz, 3500.0, retail
+652, Bernard Ecclestone, 3500.0, Formula One
+652, Judy Faulkner, 3500.0, health IT
+652, Gao Tianguo, 3500.0, real estate, finance
+652, Joshua Harris, 3500.0, private equity
+652, Arthur Irving, 3500.0, oil
+652, Baba Kalyani, 3500.0, engineering
+652, Dmitry Kamenshchik, 3500.0, airport
+652, Douglas Leone, 3500.0, venture capital
+652, Edwin Leong, 3500.0, real estate
+652, Arnon Milchan, 3500.0, movie making
+652, Maren Otto, 3500.0, retail, real estate
+652, Anthony Pritzker, 3500.0, hotels, investments
+652, Jay Robert (J.B.) Pritzker, 3500.0, hotels, investments
+652, Mitchell Rales, 3500.0, manufacturing, investments
+652, Kjell Inge Rokke, 3500.0, shipping, seafood
+652, Bernard Saul, II., 3500.0, banking, real estate
+652, Donald Sterling, 3500.0, real estate
+652, Tahir, 3500.0, diversified
+652, Chairul Tanjung, 3500.0, diversified
+652, Clemens Toennies, 3500.0, meat processing
+679, Somphote Ahunai, 3400.0, energy
+679, Igor Altushkin, 3400.0, metals
+679, Riley Bechtel, 3400.0, engineering, construction
+679, Stephen Bechtel, Jr., 3400.0, engineering, construction
+679, Mike Cannon-Brookes, 3400.0, software
+679, Rafael Del Pino y Calvo-Sotelo, 3400.0, construction
+679, Antonio Del Valle Ruiz, 3400.0, chemicals
+679, Scott Farquhar, 3400.0, software
+679, Lindsay Fox, 3400.0, logistics, real estate
+679, Jimmy Haslam, 3400.0, gas stations, retail
+679, Heidi Horten, 3400.0, retail
+679, Min Kao, 3400.0, navigation equipment
+679, Melissa Ma, 3400.0, internet search
+679, Rudolf Maag, 3400.0, medical devices
+679, Alexander Ponomarenko, 3400.0, real estate, airport
+679, Carlos Rodriguez-Pastor, 3400.0, finance
+679, Shashi & Ravi Ruia, 3400.0, diversified
+679, Teddy Sagi, 3400.0, gambling software
+679, Shaul Shani, 3400.0, telecom
+679, Alexander Skorobogatko, 3400.0, real estate, airport
+679, Sun Guangxin, 3400.0, diversified
+679, Rita Tong Liu, 3400.0, real estate
+679, Juan-Miguel Villar Mir, 3400.0, construction
+679, Steve Wynn, 3400.0, casinos, hotels
+703, Anil Agarwal, 3300.0, mining, metals
+703, Abdulla Al Futtaim, 3300.0, auto dealers, investments
+703, John Arnold, 3300.0, hedge funds
+703, Sid Bass, 3300.0, oil, investments
+703, Alain Bouchard, 3300.0, retail
+703, John Brown, 3300.0, medical equipment
+703, Vanich Chaiyawan, 3300.0, insurance, beverages
+703, Chen Lip Keong, 3300.0, casinos, property, energy
+703, Charles Cohen, 3300.0, real estate
+703, Ashwin Dani, 3300.0, paints
+703, Rakesh Gangwal, 3300.0, airline
+703, Reid Hoffman, 3300.0, LinkedIn
+703, Amos Hostetter, Jr., 3300.0, cable television
+703, Zarakh Iliev, 3300.0, real estate
+703, Ji Qi, 3300.0, hotels, motels
+703, Kenneth Langone, 3300.0, investments
+703, Li Sze Lim, 3300.0, real estate
+703, George Lindemann, 3300.0, investments
+703, Liu Zhongtian, 3300.0, aluminum products
+703, Luo Liguo, 3300.0, chemicals
+703, Mary Alice Dorrance Malone, 3300.0, Campbell Soup
+703, Henry Nicholas, III., 3300.0, semiconductors
+703, God Nisanov, 3300.0, real estate
+703, Pat Stryker, 3300.0, medical equipment
+703, Alexander Svetakov, 3300.0, real estate
+703, Hans Peter Wild, 3300.0, flavorings
+729, Yvonne Bauer, 3200.0, media
+729, Patrizio Bertelli, 3200.0, luxury goods
+729, Neil Bluhm, 3200.0, real estate
+729, Andrew & Peggy Cherng, 3200.0, restaurants
+729, Scott Cook, 3200.0, software
+729, Leon G. Cooperman, 3200.0, hedge funds
+729, John Paul DeJoria, 3200.0, hair products, tequila
+729, Martin Ebner, 3200.0, investments
+729, Walter Faria, 3200.0, beer
+729, Sameer Gehlaut, 3200.0, finance
+729, Tom Golisano, 3200.0, payroll services
+729, Otto Happel, 3200.0, engineering
+729, Jiang Bin, 3200.0, acoustic components
+729, Karel Komarek, 3200.0, lotteries
+729, Kurt Krieger, 3200.0, furniture retailing
+729, Timur Kulibaev, 3200.0, banking
+729, Dinara Kulibaeva, 3200.0, banking
+729, Spiro Latsis, 3200.0, banking, shipping
+729, Daniel Loeb, 3200.0, hedge funds
+729, Luo Jye, 3200.0, tires
+729, Ronald McAulay, 3200.0, energy
+729, Alain Merieux, 3200.0, pharmaceuticals
+729, Hans Georg Naeder, 3200.0, prosthetics
+729, Nie Tengyun, 3200.0, logistics
+729, Daniel Och, 3200.0, hedge funds
+729, Miuccia Prada, 3200.0, luxury goods
+729, Marc Rowan, 3200.0, private equity
+729, Haim Saban, 3200.0, TV network, investments
+729, Alvaro Saieh Bendeck, 3200.0, banking
+729, Michael & Reiner Schmidt-Ruthenbeck, 3200.0, retail
+729, Lynn Schusterman, 3200.0, oil & gas, investments
+729, Mark Shoen, 3200.0, U-Haul
+729, Michal Solowow, 3200.0, investments
+729, Daniel Tsai, 3200.0, finance
+729, Richard Tsai, 3200.0, finance
+729, Frank Wang, 3200.0, drones
+729, Meg Whitman, 3200.0, eBay
+766, John Catsimatidis, 3100.0, oil, real estate
+766, Do Won & Jin Sook Chang, 3100.0, fashion retail
+766, Cheng Cheung Ling, 3100.0, pharmaceuticals
+766, Barry Diller, 3100.0, online media
+766, Jack Dorsey, 3100.0, Twitter
+766, Yakir Gabay, 3100.0, real estate
+766, Allan Goldman, 3100.0, real estate
+766, Jane Goldman, 3100.0, real estate
+766, Amy Goldman Fowler, 3100.0, real estate
+766, Daryl Katz, 3100.0, pharmacies
+766, Diane Kemper, 3100.0, real estate
+766, Vladimir Kim, 3100.0, mining
+766, Lai Meisong, 3100.0, package delivery
+766, Manuel Lao Hernandez, 3100.0, gambling
+766, James Leprino, 3100.0, cheese
+766, Liang Xinjun, 3100.0, conglomerate
+766, Tom Morris, 3100.0, retail
+766, Thi Phuong Thao Nguyen, 3100.0, airlines
+766, Rajan Raheja, 3100.0, diversified
+766, Ren Jianhua, 3100.0, kitchen appliances
+766, Richard Sands, 3100.0, Food & Beverage
+766, Kerry Stokes, 3100.0, construction equipment, media
+766, Donald Trump, 3100.0, television, real estate
+766, Romesh T. Wadhwani, 3100.0, software
+766, Wang Jian, 3100.0, healthcare services
+791, Clifford Asness, 3000.0, Investment Management
+791, Anne Beaufour, 3000.0, pharmaceuticals
+791, Henri Beaufour, 3000.0, pharmaceuticals
+791, Tom Benson, 3000.0, New Orleans Saints
+791, Jim Breyer, 3000.0, venture capital
+791, Alejandro Bulgheroni, 3000.0, oil & gas
+791, Hasmukh Chudgar, 3000.0, pharmaceuticals
+791, Ennio Doris, 3000.0, financial services
+791, Luis Frias, 3000.0, mobile payments
+791, Valentin Gapontsev, 3000.0, lasers
+791, Martin Haefner, 3000.0, software, investments
+791, Christopher Hohn, 3000.0, Hedge funds
+791, Johnelle Hunt, 3000.0, trucking
+791, Rakesh Jhunjhunwala, 3000.0, investments
+791, Lu Xiangyang, 3000.0, automobiles, batteries
+791, John Middleton, 3000.0, tobacco
+791, Kazuo Okada, 3000.0, casinos
+791, Jorge Perez, 3000.0, real estate
+791, Prasert Prasarttong-Osoth, 3000.0, hospitals
+791, Jean (Gigi) Pritzker, 3000.0, hotels, investments
+791, Mochtar Riady, 3000.0, diversified
+791, Arkady Rotenberg, 3000.0, construction, pipes, banking
+791, Michael Rubin, 3000.0, online retail
+791, Robert Sands, 3000.0, Food & Beverage
+791, Herbert Simon, 3000.0, real estate
+791, Robert Toennies, 3000.0, meat processing
+791, Manuel Villar, 3000.0, real estate
+791, Don Vultaggio, 3000.0, AriZona Beverages
+791, Wang Zhenhua, 3000.0, real estate
+791, Wu Kaiting, 3000.0, electronics
+791, Simon Xie, 3000.0, online payment service
+822, Chuck Bundrant, 2900.0, fishing
+822, Cai Dongchen, 2900.0, pharmaceuticals
+822, Jose and Francisco Jose Calderon Rojas, 2900.0, beverages
+822, Jason Chang, 2900.0, electronics
+822, Smita Crishna-Godrej, 2900.0, consumer goods
+822, Ding Shizhong, 2900.0, sports apparel
+822, Feng Hailiang, 2900.0, copper, education
+822, Gerald Ford, 2900.0, banking
+822, Philippe Foriel-Destezet, 2900.0, employment agency
+822, Adi Godrej, 2900.0, consumer goods
+822, Jamshyd Godrej, 2900.0, consumer goods
+822, Nadir Godrej, 2900.0, consumer goods
+822, Joseph Grendys, 2900.0, poultry processing
+822, Hedda im Brahm-Droege, 2900.0, consulting
+822, Ke Zunhong, 2900.0, pharmaceuticals
+822, Randal Kirk, 2900.0, pharmaceuticals
+822, Alicia Koplowitz, 2900.0, construction, investments
+822, Kwek Leng Beng, 2900.0, real estate
+822, Louis Le Duff, 2900.0, bakeries
+822, Yusaku Maezawa, 2900.0, online retail
+822, Sergio Mantegazza, 2900.0, travel
+822, Hans Melchers, 2900.0, chemicals, investments
+822, Erwin Franz Mueller, 2900.0, drugstores
+822, Rishad Naoroji, 2900.0, consumer goods
+822, Husnu Ozyegin, 2900.0, finance, diversified
+822, Prajogo Pangestu, 2900.0, petrochemicals
+822, Jeff Rothschild, 2900.0, Facebook
+822, Thomas Siebel, 2900.0, business software
+822, Paul Singer, 2900.0, hedge funds
+822, Ralph Sonnenberg, 2900.0, blinds
+822, Jon Stryker, 2900.0, medical equipment
+822, Georg Stumpf, 2900.0, real estate, construction
+822, Tsai Hong-tu, 2900.0, finance
+822, Vincent Viola, 2900.0, electronic trading
+822, Radovan Vitek, 2900.0, real estate
+822, Wang Laichun, 2900.0, electronics components
+822, Wang Laisheng, 2900.0, electronics components
+859, Carlos Ardila Lülle, 2800.0, soft drinks, diversified
+859, William Conway, Jr., 2800.0, private equity
+859, Daniel D'Aniello, 2800.0, private equity
+859, Jim Davis, 2800.0, staffing & recruiting
+859, Ding Shijia, 2800.0, sportswear
+859, John Dorrance, III., 2800.0, Campbell Soup
+859, Doris Fisher, 2800.0, Gap
+859, John Fisher, 2800.0, Gap
+859, Caroline Hagen Kjos, 2800.0, conglomerate
+859, Kieu Hoang, 2800.0, medical products
+859, Huang Shih Tsai, 2800.0, real estate
+859, H. Wayne Huizenga, 2800.0, investments
+859, Osman Kibar, 2800.0, biotech
+859, Aloke Lohia, 2800.0, petrochemicals
+859, Taha Mikati, 2800.0, telecom
+859, Philip Niarchos, 2800.0, art collection
+859, Stefan Olsson, 2800.0, diversified
+859, Sebastian Piñera, 2800.0, investments
+859, Penny Pritzker, 2800.0, hotels, investments
+859, Nicolas Puech, 2800.0, Hermes
+859, Chandru Raheja, 2800.0, real estate
+859, David Rubenstein, 2800.0, private equity
+859, Shi Yuzhu, 2800.0, online games, investments
+859, Zygmunt Solorz-Zak, 2800.0, TV broadcasting
+859, Tung Chee Chen, 2800.0, shipping
+859, Mark Walter, 2800.0, finance
+859, William Wrigley, Jr., 2800.0, chewing gum
+859, Mortimer Zuckerman, 2800.0, real estate, media
+887, Mohed Altrad, 2700.0, scaffolding, cement mixers
+887, Anil Ambani, 2700.0, diversified
+887, Roberto Angelini Rossi, 2700.0, forestry, mining
+887, Saeed Bin Butti Al Qebaisi, 2700.0, hospitals, investments
+887, Pierre Chen, 2700.0, art, electronics
+887, Ray Davis, 2700.0, pipelines
+887, Edward DeBartolo, Jr., 2700.0, shopping centers
+887, Bennett Dorrance, 2700.0, Campbell Soup
+887, Eduardo Eurnekian, 2700.0, airports, investments
+887, Piero Ferrari, 2700.0, automobiles
+887, Fiona Geminder, 2700.0, manufacturing
+887, Gu Yuhua, 2700.0, furniture
+887, Don Hankey, 2700.0, auto loans
+887, Reed Hastings, 2700.0, Netflix
+887, Huang Wei, 2700.0, real estate
+887, James Irsay, 2700.0, Indianapolis Colts
+887, Kim Beom-Su, 2700.0, online services
+887, Mustafa Kucuk, 2700.0, fashion retail
+887, Mohamed Mansour, 2700.0, diversified
+887, Najib Mikati, 2700.0, telecom
+887, Ermirio Pereira de Moraes, 2700.0, diversified
+887, Bob Parsons, 2700.0, web hosting
+887, Krit Ratanarak, 2700.0, media, real estate
+887, Helena Revoredo, 2700.0, security services
+887, Phillip Ruffin, 2700.0, casinos, real estate
+887, Howard Schultz, 2700.0, Starbucks
+887, E. Joe Shoen, 2700.0, U-Haul
+887, Thomas Straumann, 2700.0, dental implants
+887, Lawrence Stroll, 2700.0, fashion investments
+887, Andrew Tan, 2700.0, diversified
+887, Tsai Cheng-da, 2700.0, finance
+887, Frank VanderSloot, 2700.0, nutrition and wellness products
+887, Sandro Veronesi, 2700.0, fashion
+887, Ty Warner, 2700.0, real estate, plush toys
+887, Oprah Winfrey, 2700.0, TV shows
+887, Zhang Wenzhong, 2700.0, Retail
+887, Zuo Hui, 2700.0, real estate services
+924, Juan Abello, 2600.0, investments
+924, Semahat Sevim Arsel, 2600.0, diversified
+924, Bang Jun-Hyuk, 2600.0, online gaming
+924, Koos Bekker, 2600.0, media, investments
+924, David Bonderman, 2600.0, private equity
+924, Francesco Gaetano Caltagirone, 2600.0, cement, diversified
+924, John Caudwell, 2600.0, mobile phones
+924, Chen Fashu, 2600.0, investments
+924, Chung Eui-Sun, 2600.0, logistics
+924, Isabel dos Santos, 2600.0, investments
+924, Fong Yun Wah, 2600.0, real estate
+924, Phillip Frost, 2600.0, pharmaceuticals
+924, Lutz Mario Helmig, 2600.0, hospitals
+924, B. Wayne Hughes, 2600.0, self storage
+924, Daniel Kretinsky, 2600.0, energy generation
+924, Raj Kumar & Kishin RK, 2600.0, real estate
+924, Lam Kong, 2600.0, pharmaceuticals
+924, Lau Cho Kun, 2600.0, palm oil, property
+924, Stephen Mandel, Jr., 2600.0, hedge funds
+924, Gilles Martin, 2600.0, laboratory services
+924, Daniel Mate, 2600.0, mining, commodities
+924, Robert Miller, 2600.0, electronics components
+924, Jorge Moll Filho, 2600.0, hospitals
+924, Maria Helena Moraes Scripilliti, 2600.0, diversified
+924, Sean Parker, 2600.0, Facebook
+924, Jay Paul, 2600.0, real estate
+924, Patrick Ryan, 2600.0, insurance
+924, Thomas Secunda, 2600.0, Bloomberg LP
+924, Shen Wenrong, 2600.0, steel production
+924, Shen Yuxing, 2600.0, real estate
+924, Gil Shwed, 2600.0, software
+924, Song Zuowen, 2600.0, aluminum, diversified
+924, Warren Stephens, 2600.0, investment banking
+924, Glen Taylor, 2600.0, printing
+924, Hanni Toosbuy Kasprzak, 2600.0, shoes
+924, Torbjorn Tornqvist, 2600.0, oil trading
+924, Bulat Utemuratov, 2600.0, mining, banking, hotels
+924, Chip Wilson, 2600.0, Lululemon
+924, Jerry Yang, 2600.0, Yahoo
+924, Zhang Fan, 2600.0, touch screens
+924, Zhu Xingliang, 2600.0, construction
+965, Ramon Ang, 2500.0, Diversified
+965, Edward Bass, 2500.0, oil, investments
+965, Lee Bass, 2500.0, oil, investments
+965, Bert Beveridge, 2500.0, vodka
+965, George Bishop, 2500.0, oil & gas
+965, Jaime Botin, 2500.0, banking
+965, Norman Braman, 2500.0, art, car dealerships
+965, Chin Jong Hwa, 2500.0, auto parts
+965, Cho Tak Wong, 2500.0, auto parts
+965, John Coates, 2500.0, online gambling
+965, Du Jiangtao, 2500.0, chemicals
+965, Aloysio de Andrade Faria, 2500.0, banking
+965, Kenneth Feld, 2500.0, circus, live entertainment
+965, Luca Garavoglia, 2500.0, spirits
+965, Noam Gottesman, 2500.0, hedge funds
+965, Jonathan Gray, 2500.0, investments
+965, Stein Erik Hagen, 2500.0, consumer goods
+965, Chang-Woo Han, 2500.0, pachinko parlors
+965, John Henry, 2500.0, sports
+965, Lawrence Ho, 2500.0, casinos
+965, Hui Lin Chit, 2500.0, hygiene products
+965, Mustafa Rahmi Koc, 2500.0, diversified
+965, Kuan Kam Hon, 2500.0, synthetic gloves
+965, Jane Lauder, 2500.0, cosmetics
+965, Aerin Lauder Zinterhofer, 2500.0, cosmetics
+965, Maritsa Lazari, 2500.0, real estate
+965, Bernard Lewis, 2500.0, fashion retailer
+965, Vincent Lo, 2500.0, real estate
+965, Jeffrey Lorberbaum, 2500.0, flooring
+965, Joe Mansueto, 2500.0, investment research
+965, Jose Roberto Marinho, 2500.0, media
+965, Roberto Irineu Marinho, 2500.0, media
+965, C. Dean Metropoulos, 2500.0, investments
+965, Aristotelis Mistakidis, 2500.0, mining, commodities
+965, Arturo Moreno, 2500.0, billboards, Anaheim Angels
+965, Yoshiko Mori, 2500.0, real estate
+965, Adam Neumann, 2500.0, WeWork
+965, Or Wai Sheun, 2500.0, real estate
+965, Richard Peery, 2500.0, real estate
+965, Horst Julius Pudwill, 2500.0, manufacturing
+965, P.V. Ramprasad Reddy, 2500.0, pharmaceuticals
+965, Larry Robbins, 2500.0, hedge funds
+965, Carlos Sanchez, 2500.0, generic drugs
+965, Stephan Schmidheiny, 2500.0, investments
+965, Klaus-Peter Schulenberg, 2500.0, ticketing service
+965, Charles Simonyi, 2500.0, Microsoft
+965, Mark Stevens, 2500.0, venture capital
+965, Sze Man Bok, 2500.0, hygiene products
+965, Sarik Tara, 2500.0, construction
+965, Lottie Tham, 2500.0, H&M
+965, Peter Thiel, 2500.0, Facebook, Palantir
+965, Elaine Wynn, 2500.0, casinos, hotels
+965, Denise York, 2500.0, San Francisco 49ers
+965, David Zalik, 2500.0, technology
+965, Zhao Tao, 2500.0, pharmaceuticals
+1020, George Argyros, 2400.0, real estate, investments
+1020, John Arrillaga, 2400.0, real estate
+1020, Charles Bronfman, 2400.0, liquor
+1020, Peter Buck, 2400.0, Subway sandwich shops
+1020, Chen Jinxia, 2400.0, investments
+1020, Vivien Chen, 2400.0, real estate
+1020, Chu Lam Yiu, 2400.0, flavorings
+1020, Jean Coutu, 2400.0, drugstores
+1020, Jose Luis Cutrale, 2400.0, orange juice
+1020, Jai Hari & Yadu Hari Dalmia, 2400.0, cement
+1020, Bergit Douglas, 2400.0, consumer goods
+1020, Alfredo Egydio Arruda Villela Filho, 2400.0, banking
+1020, Marcel Erni, 2400.0, private equity
+1020, Andre Esteves, 2400.0, banking
+1020, Carlo Fidani, 2400.0, real estate
+1020, Abhay Firodia, 2400.0, automobiles
+1020, Alfred Gantner, 2400.0, private equity
+1020, Geng Jianming, 2400.0, real estate
+1020, Mitchell Goldhar, 2400.0, real estate
+1020, Hortensia Herrero, 2400.0, supermarkets
+1020, Michael Hintze, 2400.0, investment
+1020, Igor Kesaev, 2400.0, tobacco distribution, retail
+1020, Koon Poh Keong, 2400.0, aluminum
+1020, Hermann Langness, 2400.0, retail
+1020, Li Zhongchu, 2400.0, software
+1020, Alexander Mamut, 2400.0, investments
+1020, Joao Roberto Marinho, 2400.0, media
+1020, Drayton McLane, Jr., 2400.0, Wal-Mart, logistics
+1020, Patrice Motsepe, 2400.0, mining
+1020, Alfred Oetker, 2400.0, consumer goods
+1020, August Oetker, 2400.0, consumer goods
+1020, Carl Ferdinand Oetker, 2400.0, consumer goods
+1020, Christian Oetker, 2400.0, consumer goods
+1020, Julia Oetker, 2400.0, consumer goods
+1020, Richard Oetker, 2400.0, consumer goods
+1020, Daniel Pritzker, 2400.0, hotels, investments
+1020, John Pritzker, 2400.0, hotels, investments
+1020, Nevaldo Rocha, 2400.0, retail
+1020, Luigi Rovati, 2400.0, pharmaceuticals
+1020, Ferit Faik Sahenk, 2400.0, diversified
+1020, Rosely Schweizer, 2400.0, consumer goods
+1020, Eric Smidt, 2400.0, hardware stores
+1020, Alexander Spanos, 2400.0, real estate, Los Angeles Chargers
+1020, Leena Tewari, 2400.0, pharmaceuticals
+1020, Tong Jinquan, 2400.0, real estate
+1020, Peter Unger, 2400.0, auto repair
+1020, Sunny Varkey, 2400.0, education
+1020, Urs Wietlisbach, 2400.0, private equity
+1020, Michael Ying, 2400.0, retail
+1020, Yu Minhong, 2400.0, education
+1070, Eva Maria Bucher-Haefner, 2300.0, Computer Associates
+1070, Chen Hua, 2300.0, real estate
+1070, Gustavo Denegri, 2300.0, biotech
+1070, Dermot Desmond, 2300.0, finance
+1070, Murali Divi, 2300.0, pharmaceuticals
+1070, Thomas Flohr, 2300.0, VistaJet
+1070, Bernard Fraisse, 2300.0, pharmaceuticals
+1070, Harsh Goenka, 2300.0, diversified
+1070, David Gottesman, 2300.0, investments
+1070, Murli Dhar & Bimal Kumar Gyanchandani, 2300.0, Detergents
+1070, Bill Haslam, 2300.0, truck stops
+1070, Hu Baifan, 2300.0, pharmaceuticals
+1070, W. Herbert Hunt, 2300.0, oil
+1070, Alijan Ibragimov, 2300.0, mining, metals
+1070, Bradley Jacobs, 2300.0, logistics
+1070, Brad Kelley, 2300.0, tobacco
+1070, Vinod Khosla, 2300.0, venture capital
+1070, Stephen Lansdown, 2300.0, financial services
+1070, Martin Lau, 2300.0, e-commerce
+1070, Lee Joong-Keun, 2300.0, construction, real estate
+1070, Lin Li, 2300.0, investments
+1070, Kenneth Lo, 2300.0, textiles
+1070, Alexander Machkevich, 2300.0, mining, metals
+1070, Clayton Mathile, 2300.0, pet food
+1070, Stanley Perron, 2300.0, real estate, retail
+1070, J. Joe Ricketts, 2300.0, TD Ameritrade
+1070, Dirk Rossmann, 2300.0, drugstores
+1070, Filiz Sahenk, 2300.0, diversified
+1070, Dan Snyder, 2300.0, Washington Redskins
+1070, Peter Spuhler, 2300.0, train cars
+1070, Tang Yiu, 2300.0, fashion retail
+1070, John Tyson, 2300.0, food processing
+1070, Wong Man Li, 2300.0, furniture
+1103, Lia Maria Aguiar, 2200.0, banking
+1103, Aziz Akhannouch, 2200.0, petroleum, diversified
+1103, Ron Baron, 2200.0, money management
+1103, Shyam & Hari Bhartia, 2200.0, Diversified
+1103, Timothy Boyle, 2200.0, Columbia Sportswear
+1103, Tatiana Casiraghi, 2200.0, beer
+1103, Chan Tan Ching-fen, 2200.0, real estate
+1103, Chase Coleman, III., 2200.0, hedge fund
+1103, Mark Coombs, 2200.0, finance
+1103, James Coulter, 2200.0, private equity
+1103, Dulce Pugliese de Godoy Bueno, 2200.0, hospitals, health care
+1103, Ana Lucia de Mattos Barretto Villela, 2200.0, banking
+1103, Frank Fertitta, III., 2200.0, casinos, mixed martial arts
+1103, Lorenzo Fertitta, 2200.0, casinos, mixed martial arts
+1103, Maria Franca Fissolo, 2200.0, Nutella, chocolates
+1103, Alexander Frolov, 2200.0, mining, steel
+1103, Ernest Garcia, II., 2200.0, used cars
+1103, Alexandre Grendene Bartelle, 2200.0, shoes
+1103, Vinod & Anil Rai Gupta, 2200.0, electrical equipment
+1103, Torstein Hagen, 2200.0, cruises
+1103, He Qiaonv, 2200.0, landscape architecture
+1103, Hans-Werner Hector, 2200.0, SAP
+1103, Stanley Hubbard, 2200.0, DirecTV
+1103, Ke Xiping, 2200.0, investments
+1103, Suna Kirac, 2200.0, diversified
+1103, Kong Jian Min, 2200.0, real estate
+1103, Koo Bon-Moo, 2200.0, Diversified
+1103, Heikki Kyostila, 2200.0, dental products
+1103, Thomas Lee, 2200.0, private equity
+1103, Eric Lefkofsky, 2200.0, Groupon
+1103, Peter Lim, 2200.0, investments
+1103, Scott Lin, 2200.0, optical components
+1103, Tomas Olivo Lopez, 2200.0, shopping centers
+1103, Phillip T. (Terry) Ragon, 2200.0, health IT
+1103, Stewart Rahr, 2200.0, drug distribution
+1103, T. Denny Sanford, 2200.0, banking, credit cards
+1103, Julio Mario Santo Domingo, III., 2200.0, beer
+1103, Karl Scheufele, III., 2200.0, jewelry
+1103, Shen Guojun, 2200.0, retail
+1103, Alain Taravella, 2200.0, real estate
+1103, Oleg Tinkov, 2200.0, banking
+1103, T.Y. Tsai, 2200.0, finance
+1103, Tung Chee Hwa, 2200.0, shipping
+1103, Ted Turner, 2200.0, cable television
+1103, Sunil Vaswani, 2200.0, diversified
+1103, Jitendra Virwani, 2200.0, real estate
+1103, Lang Walker, 2200.0, real estate
+1103, Wu Zhigang, 2200.0, bakery chain
+1103, Xiao Wenge, 2200.0, entertainment
+1103, Xiong Xuqiang, 2200.0, real estate
+1103, Takao Yasuda, 2200.0, retail
+1103, William Young, 2200.0, plastics
+1103, Eddie & Sol Zakay, 2200.0, Real Estate
+1103, Zhang Xiugen, 2200.0, automobiles
+1157, Leslie Alexander, 2100.0, sports team
+1157, Patricia Angelini Rossi, 2100.0, forestry, mining
+1157, Josef Boquoi, 2100.0, frozen foods
+1157, Nikolai Buinov, 2100.0, oil, gas
+1157, Richard Chandler, 2100.0, investments
+1157, Cheng Xue, 2100.0, soy sauce
+1157, Patokh Chodiev, 2100.0, mining, metals
+1157, Choo Chong Ngen, 2100.0, hotels
+1157, Todd Christopher, 2100.0, hair care products
+1157, John de Mol, 2100.0, television
+1157, Bob Gaglardi, 2100.0, hotels
+1157, Gordon Getty, 2100.0, Getty Oil
+1157, Philippe Ginestet, 2100.0, retail stores
+1157, Sanjiv Goenka, 2100.0, diversified
+1157, Alec Gores, 2100.0, private equity
+1157, David Hains, 2100.0, Investment
+1157, Bahaa Hariri, 2100.0, real estate, investments, logistics
+1157, William Heinecke, 2100.0, hotels
+1157, Huang Hongyun, 2100.0, real estate
+1157, Huang Zhenda, 2100.0, construction
+1157, Ravi Jaipuria, 2100.0, soft drinks
+1157, Jiang Yehua, 2100.0, real estate
+1157, Manuel Jove, 2100.0, real estate
+1157, Willibert Krueger, 2100.0, food processing
+1157, Kuok Khoon Hong, 2100.0, palm oil
+1157, Christian Latouche, 2100.0, accounting services
+1157, Guenther Lehmann, 2100.0, drugstores
+1157, Li Hongxin, 2100.0, paper & related products
+1157, Li Xiting, 2100.0, medical devices
+1157, Liang Yunchao, 2100.0, nutrition supplements
+1157, Brandt Louie, 2100.0, drugstores
+1157, Catherine Lozick, 2100.0, valve manufacturing
+1157, Igor Makarov, 2100.0, investments
+1157, Mao Lixiang, 2100.0, cooking appliances
+1157, Harsh Mariwala, 2100.0, consumer goods
+1157, Martin Moller Nielsen, 2100.0, aircraft leasing
+1157, David Murdock, 2100.0, Dole, real estate
+1157, N.R. Narayana Murthy, 2100.0, software services
+1157, Georg Nemetschek, 2100.0, software
+1157, Vikas Oberoi, 2100.0, real estate
+1157, Maja Oeri, 2100.0, Roche Holding
+1157, Ong Beng Seng and Christina Ong, 2100.0, diversified
+1157, H. Ross Perot, Jr., 2100.0, real estate
+1157, Tor Peterson, 2100.0, commodities
+1157, Heloise Pratt, 2100.0, manufacturing, investment
+1157, Alexey Repik, 2100.0, pharmaceuticals
+1157, Shin Chang-Jae, 2100.0, insurance
+1157, Kavitark Ram Shriram, 2100.0, venture capital, Google
+1157, Sylvia Stroeher, 2100.0, cosmetics
+1157, Katsumi Tada, 2100.0, real estate
+1157, Tang Shing-bor, 2100.0, real estate
+1157, Georg von Opel, 2100.0, real estate, investments
+1157, David Walentas, 2100.0, real estate
+1157, Ronald Wanek, 2100.0, furniture
+1157, Wang Changtian, 2100.0, TV, movie production
+1157, Wang Wenjing, 2100.0, business software
+1157, Ye Cheng, 2100.0, conglomerate
+1157, Zhu Gongshan, 2100.0, solar panel materials
+1215, Antti Aarnio-Wihuri, 2000.0, diversified
+1215, S. Daniel Abraham, 2000.0, Slim-Fast
+1215, Joao Alves de Queiroz Filho, 2000.0, pharmaceuticals
+1215, Mika Anttonen, 2000.0, oil & gas
+1215, Thor Bjorgolfsson, 2000.0, investments
+1215, Andrei Bokarev, 2000.0, metals, mining
+1215, Bernhard Braun-Luedicke, 2000.0, medical technology
+1215, Eva Maria Braun-Luedicke, 2000.0, medical technology
+1215, Friederike Braun-Luedicke, 2000.0, medical technology
+1215, Ron Burkle, 2000.0, supermarkets, investments
+1215, Vivek Chand Burman, 2000.0, consumer goods
+1215, Chen Yung-Tai, 2000.0, real estate
+1215, James Clark, 2000.0, Netscape, investments
+1215, Christopher Cline, 2000.0, coal
+1215, Alexandra Daitch, 2000.0, Cargill
+1215, Dong Wei, 2000.0, pharmaceuticals
+1215, Fritz Draexlmaier, 2000.0, auto parts
+1215, Glenn Dubin, 2000.0, hedge funds
+1215, Robert Duggan, 2000.0, pharmaceuticals
+1215, Jayme Garfinkel, 2000.0, insurance
+1215, Sam Goi, 2000.0, frozen foods
+1215, Thomas Hagen, 2000.0, insurance
+1215, Carlos Hank Rhon, 2000.0, banking
+1215, Christoph Henkel, 2000.0, consumer goods
+1215, Hu Kaijun, 2000.0, pharmaceuticals
+1215, Huang Yi, 2000.0, auto distribution
+1215, Ramesh Juneja, 2000.0, pharmaceuticals
+1215, Bruce Karsh, 2000.0, private equity
+1215, Henry Laufer, 2000.0, hedge funds
+1215, Lee Boo-Jin, 2000.0, computer services, tourism
+1215, Lee Jay-Hyun, 2000.0, food products, entertainment
+1215, Wolfgang Leitner, 2000.0, engineering
+1215, Li Ge, 2000.0, biotech
+1215, Harald Link, 2000.0, diversified
+1215, Liu Ming Hui, 2000.0, natural gas distribution
+1215, Jeffrey Lurie, 2000.0, Philadelphia Eagles
+1215, Ma Xingtian, 2000.0, pharmaceuticals
+1215, Sarah MacMillan, 2000.0, Cargill
+1215, Howard Marks, 2000.0, private equity
+1215, Miao Shouliang, 2000.0, real estate
+1215, Lachhman Das Mittal, 2000.0, tractors
+1215, Mario Moretti Polegato, 2000.0, shoes
+1215, Vadim Moshkovich, 2000.0, agriculture, land
+1215, Mofatraj Munot, 2000.0, real estate
+1215, Jonathan Nelson, 2000.0, private equity
+1215, Florentino Perez, 2000.0, construction
+1215, Chuchat & Daonapa Petaumpai, 2000.0, motorcycle loans
+1215, Peter Peterson, 2000.0, investments
+1215, Arvind Poddar, 2000.0, tires
+1215, Murdaya Poo, 2000.0, diversified
+1215, Ren Zhengfei, 2000.0, telecom equipment
+1215, Antony Ressler, 2000.0, finance
+1215, Francisco Jose Riberas Mera, 2000.0, steel, autoparts
+1215, Rodney Sacks, 2000.0, energy drinks
+1215, Hilton Schlosberg, 2000.0, energy drinks
+1215, Brian Sheth, 2000.0, investments
+1215, Lucy Stitzer, 2000.0, Cargill
+1215, Su Suyu, 2000.0, utilities, real estate
+1215, Satoshi Suzuki, 2000.0, cosmetics
+1215, Katherine Tanner, 2000.0, Cargill
+1215, Arvind Tiku, 2000.0, oil & gas, investments
+1215, Wang Liping, 2000.0, hydraulic machinery
+1215, Wang Xicheng, 2000.0, tires
+1215, Wei Shaojun, 2000.0, real estate
+1215, Amy Wyss, 2000.0, medical equipment
+1215, Jon Yarbrough, 2000.0, video games
+1215, Vladimir Yevtushenkov, 2000.0, telecom, investments
+1215, Charles Zegar, 2000.0, Bloomberg LP
+1215, Zhu Baoguo, 2000.0, pharmaceuticals
+1284, Saif Al Ghurair, 1900.0, diversified
+1284, Syed Mokhtar AlBukhary, 1900.0, engineering, energy, construction
+1284, Miriam Baumann-Blocher, 1900.0, chemicals
+1284, Albert Berner, 1900.0, fasteners
+1284, Thomas Bruch, 1900.0, retail
+1284, Chang Yun Chung, 1900.0, shipping
+1284, Kiat Chiaravanont, 1900.0, diversified
+1284, Jean-Paul and Martine Clozel, 1900.0, pharmaceuticals
+1284, Benjamin de Rothschild, 1900.0, banking
+1284, James Dinan, 1900.0, hedge funds
+1284, Charles Edelstenne, 1900.0, aviation
+1284, Bernd Freier, 1900.0, fashion retail
+1284, Bill Gross, 1900.0, investments
+1284, Jeffrey Gundlach, 1900.0, investments
+1284, Suat Gunsel, 1900.0, real estate, education
+1284, Shmuel Harlap, 1900.0, automotive
+1284, Roberto Hernandez Ramirez, 1900.0, banking
+1284, Johannes Kaercher, 1900.0, vacuums, cleaning products
+1284, Friedrich Knapp, 1900.0, fashion retail
+1284, Lee Myung-Hee, 1900.0, retail
+1284, Lee Seo-Hyun, 1900.0, computer services, tourism
+1284, Liang Jiankun, 1900.0, cobalt mining
+1284, Liao Long-shing, 1900.0, petrochemicals
+1284, Lin Shu-Hong, 1900.0, petrochemicals
+1284, Yasseen Mansour, 1900.0, diversified
+1284, David Nahmad, 1900.0, art collection
+1284, Alexander Nesis, 1900.0, metals, banking, fertilizers
+1284, Nandan Nilekani, 1900.0, software services
+1284, Ranjan Pai, 1900.0, education
+1284, Park Hyeon-Joo, 1900.0, mutual funds
+1284, Jennifer Pritzker, 1900.0, hotels, investments
+1284, Qiu Jianping, 1900.0, hand tools
+1284, Megdet Rahimkulov, 1900.0, investments
+1284, Vito Rodriguez Rodriguez, 1900.0, processed milk
+1284, Stephen Rubin, 1900.0, sports apparel
+1284, Remo Ruffini, 1900.0, winter jackets
+1284, Erik Selin, 1900.0, real estate
+1284, Peter Sondakh, 1900.0, investments
+1284, Alan N. Trefler, 1900.0, software
+1284, Tseng Shin-yi, 1900.0, petrochemicals
+1284, Masateru Uno, 1900.0, drugstores
+1284, Wang Qingtao, 1900.0, steel smelting
+1284, Evan Williams, 1900.0, Twitter
+1284, Gustav Magnar Witzoe, 1900.0, fish farming
+1284, Horst Wortmann, 1900.0, footwear
+1284, Xiao Yongming, 1900.0, fertilizer
+1284, Xie Zhikun, 1900.0, investments
+1284, Xue Xiangdong, 1900.0, software
+1284, Yuan Yafei, 1900.0, retail, investments
+1284, Robin Zeng, 1900.0, batteries
+1284, Zhang Daocai, 1900.0, valves
+1284, Zhang Xuansong, 1900.0, supermarket
+1284, Zheng Yuewen, 1900.0, investments
+1284, Zhou Xiaoguang, 1900.0, real estate
+1284, Susanne Zimmermann von Siefart , 1900.0, vacuums, home cleaning products
+1339, Aras Agalarov, 1800.0, real estate
+1339, Maurice Alter, 1800.0, real estate
+1339, An Kang, 1800.0, pharmaceuticals
+1339, Alex Beard, 1800.0, mining, commodities
+1339, Nicolas Berggruen, 1800.0, investments
+1339, Vladimir Bogdanov, 1800.0, oil
+1339, Julio Bozano, 1800.0, banking
+1339, Anna Maria Braun, 1800.0, medical technology
+1339, Johanna Braun, 1800.0, medical technology
+1339, Karl Friedrich Braun, 1800.0, medical technology
+1339, Anand Burman, 1800.0, consumer goods
+1339, Edouard Carmignac, 1800.0, asset management
+1339, Chen Jianhua, 1800.0, chemicals
+1339, Cheung Yan, 1800.0, paper manufacturing
+1339, Chung Mong-Joon, 1800.0, shipbuilding, industrial machines
+1339, Jack Cowin, 1800.0, fast food
+1339, Cui Genliang, 1800.0, electric components
+1339, Kommer Damen, 1800.0, shipbuilding
+1339, Diego Della Valle, 1800.0, shoes
+1339, Dou Zhenggang, 1800.0, energy, chemicals
+1339, N. Murray Edwards, 1800.0, oil & gas
+1339, Gabriel Escarrer, 1800.0, hotels
+1339, Clement Fayat, 1800.0, construction
+1339, James France, 1800.0, Nascar, racing
+1339, Senapathy Gopalakrishnan, 1800.0, software services
+1339, David Harding, 1800.0, finance
+1339, Stewart Horejsi, 1800.0, Berkshire Hathaway
+1339, Huang Qisen, 1800.0, real estate
+1339, Hamilton James, 1800.0, investments
+1339, John Kapoor, 1800.0, healthcare
+1339, William Lauder, 1800.0, Estee Lauder
+1339, Li Zongsong, 1800.0, pharmaceuticals
+1339, Willy Michel, 1800.0, medical devices
+1339, Masahiro Noda, 1800.0, software
+1339, Gregorio Perez Companc, 1800.0, oil & gas
+1339, Linda Pritzker, 1800.0, hotels, investments
+1339, Qin Hui, 1800.0, movie theaters
+1339, Matthias Reinhart, 1800.0, finance
+1339, Brian Roberts, 1800.0, Comcast
+1339, Alberto Roemmers, 1800.0, pharmaceuticals
+1339, Gerald Schwartz, 1800.0, finance
+1339, Thaksin Shinawatra, 1800.0, investments
+1339, William Stone, 1800.0, software
+1339, Petter Stordalen, 1800.0, hotels
+1339, Julia Stoschek, 1800.0, auto parts
+1339, Maximilian Stoschek, 1800.0, auto parts
+1339, Sun Shoukuan, 1800.0, metals. coal
+1339, Ba Duong Tran, 1800.0, automotive
+1339, Hamdi Ulukaya, 1800.0, greek yogurt
+1339, Wong Luen Hei, 1800.0, building materials
+1339, Wu Yulan, 1800.0, pharmaceuticals
+1339, Xu Hang, 1800.0, medical devices
+1339, Yang Erzhu, 1800.0, real estate
+1339, Yao Kuizhang, 1800.0, beverages
+1339, Sheng Jian Zhong, 1800.0, real estate
+1394, Marcel Adams, 1700.0, real estate
+1394, Herbert Allen, Jr., 1700.0, investment banking
+1394, Michael Ashcroft, 1700.0, security
+1394, Roman Avdeev, 1700.0, banking, development
+1394, Emilio Azcarraga Jean, 1700.0, TV broadcasting
+1394, Sezai Bacaksiz, 1700.0, diversified
+1394, Lesley Bamberger, 1700.0, real estate
+1394, Angela Bennett, 1700.0, mining
+1394, Hubertus Benteler, 1700.0, auto parts
+1394, Ludwig Theodor Braun, 1700.0, medical technology
+1394, Nicola Bulgari, 1700.0, luxury goods
+1394, Paolo Bulgari, 1700.0, luxury goods
+1394, Chen Dejun, 1700.0, package delivery
+1394, Tony Chen, 1700.0, eletronics
+1394, Chen Xueli, 1700.0, pharmaceuticals
+1394, Luigi Cremonini, 1700.0, meat processing
+1394, Dominique Desseigne, 1700.0, casinos
+1394, Sefik Yilmaz Dizdar, 1700.0, fashion retail
+1394, Domenico Dolce, 1700.0, luxury goods
+1394, Pavel Durov, 1700.0, messaging app
+1394, John Farber, 1700.0, chemicals
+1394, Robert Fisher, 1700.0, Gap
+1394, William Fisher, 1700.0, Gap
+1394, Stefano Gabbana, 1700.0, luxury goods
+1394, Rolf Gerling, 1700.0, insurance
+1394, Serge Godin, 1700.0, information technology
+1394, Sergei Gordeev, 1700.0, real estate
+1394, Mehmet Nazif Gunal, 1700.0, tourism, construction
+1394, Yusuf Hamied, 1700.0, pharmaceuticals
+1394, Gerry Harvey, 1700.0, retail
+1394, Timothy Headington, 1700.0, oil & gas, investments
+1394, Huang Chulong, 1700.0, real estate
+1394, Huo Qinghua, 1700.0, coal
+1394, Devendra Jain, 1700.0, chemicals
+1394, Jiang Yintai, 1700.0, auto parts
+1394, Jim Justice, II., 1700.0, coal
+1394, Kim Jun-Ki, 1700.0, diversified
+1394, William Koch, 1700.0, oil, investments
+1394, Anthony Langley, 1700.0, manufacturing
+1394, Marc Lasry, 1700.0, hedge funds
+1394, Peter Leibinger, 1700.0, machine tools
+1394, Regine Leibinger, 1700.0, machine tools
+1394, Li San Yim, 1700.0, construction equipment
+1394, David Lichtenstein, 1700.0, real estate
+1394, Lim Oon Kuin, 1700.0, oil trading
+1394, Liu Ming Chung, 1700.0, paper manufacturing
+1394, Ma Xiuhui, 1700.0, LED lighting
+1394, Prayudh Mahagitsiri, 1700.0, coffee, shipping
+1394, Anand Mahindra, 1700.0, automobiles
+1394, Kishore Mariwala, 1700.0, consumer goods
+1394, Craig McCaw, 1700.0, telecom
+1394, Miguel McKelvey, 1700.0, WeWork
+1394, Vincent McMahon, 1700.0, wrestling
+1394, David McMurtry, 1700.0, manufacturing
+1394, Gary Michelson, 1700.0, medical patents
+1394, Massimo Moratti, 1700.0, oil refinery
+1394, Farhad Moshiri, 1700.0, diversified
+1394, Jerry Moyes, 1700.0, Transportation
+1394, Charles Munger, 1700.0, Berkshire Hathaway
+1394, Kerr Neilson, 1700.0, investment
+1394, Ou Zongrong, 1700.0, real estate
+1394, Nihat Ozdemir, 1700.0, diversified
+1394, Pan Weiming, 1700.0, real estate
+1394, Park Yeon-Cha, 1700.0, sneakers
+1394, Nelson Peltz, 1700.0, investments
+1394, Roger Penske, 1700.0, cars
+1394, Qi Jinxing, 1700.0, real estate
+1394, Qi Shi, 1700.0, financial information
+1394, Theodore Rachmat, 1700.0, diversified
+1394, Juan Maria Riberas Mera, 1700.0, steel
+1394, Vijay Shekhar Sharma, 1700.0, financial technology
+1394, Konstantin Strukov, 1700.0, gold, coal mining
+1394, Henry Swieca, 1700.0, hedge funds
+1394, Wichai Thongtang, 1700.0, investments
+1394, Torsten Toeller, 1700.0, pet food
+1394, Roman Trotsenko, 1700.0, transport, engineering, real estate
+1394, Todd Wagner, 1700.0, online media
+1394, Wang Chaobin, 1700.0, real estate
+1394, Wang Yanqing, 1700.0, electrical equipment
+1394, John Whittaker, 1700.0, real estate
+1394, Wu Guangming, 1700.0, medical equipment
+1394, Xu Qiming, 1700.0, food, art
+1394, Zhang Xiaojuan, 1700.0, logistics
+1477, Melih Abdulhayoglu, 1600.0, internet security
+1477, Radhe Shyam Agarwal, 1600.0, consumer goods
+1477, Mohamed Al Fayed, 1600.0, retail, investments
+1477, Faisal Bin Qassim Al Thani, 1600.0, hotels, diversified
+1477, William F. Austin, 1600.0, hearing aids
+1477, Louis Bacon, 1600.0, hedge funds
+1477, Achal Bakeri, 1600.0, air coolers
+1477, Othman Benjelloun, 1600.0, banking, insurance
+1477, William Berkley, 1600.0, insurance
+1477, Aneel Bhusri, 1600.0, business software
+1477, O. Francis Biondi, 1600.0, hedge funds
+1477, John Bloor, 1600.0, real estate, manufacturing
+1477, David Booth, 1600.0, mutual funds
+1477, Cai Wensheng, 1600.0, photo sharing app
+1477, Ahmet Calik, 1600.0, energy, banking, construction
+1477, Michel Chalhoub, 1600.0, retail
+1477, Chen Xiaoying, 1600.0, package delivery
+1477, Cho Jung-Ho, 1600.0, finance
+1477, Turgay Ciner, 1600.0, diversified
+1477, Steve Conine, 1600.0, online retail
+1477, Jacques D'Amours, 1600.0, retail
+1477, Robert Defares, 1600.0, electronic trading
+1477, Alexander Dzhaparidze, 1600.0, oil services
+1477, Stephen Feinberg, 1600.0, private equity
+1477, Paul Foster, 1600.0, oil refining
+1477, Mario Gabelli, 1600.0, money management
+1477, Marcos Galperin, 1600.0, e-commerce
+1477, Radhe Shyam Goenka, 1600.0, consumer goods
+1477, Christopher Goldsbury, 1600.0, salsa
+1477, Stelios Haji-Ioannou, 1600.0, EasyJet
+1477, Ilkka Herlin, 1600.0, elevators, escalators
+1477, Brian Higgins, 1600.0, hedge funds
+1477, Stephen Jarislowsky, 1600.0, money management
+1477, Michael Jordan, 1600.0, Charlotte Hornets, endorsements
+1477, Kenji Kasahara, 1600.0, social network
+1477, Kim Taek-Jin, 1600.0, online games
+1477, Edward Lampert, 1600.0, Sears
+1477, Thomas Lau, 1600.0, department stores
+1477, Thai Lee, 1600.0, IT provider
+1477, Lei Jufang, 1600.0, pharmaceuticals
+1477, Li Li, 1600.0, pharmaceuticals
+1477, Li Liufa, 1600.0, steel, diversified
+1477, Liu Hanyuan, 1600.0, agribusiness
+1477, Pier Luigi Loro Piana, 1600.0, fashion
+1477, Billy Joe (Red) McCombs, 1600.0, real estate, oil, cars, sports
+1477, Gian Marco Moratti, 1600.0, oil refinery
+1477, Manuel Moroun, 1600.0, transportation
+1477, Robert Mouawad, 1600.0, fine jewelry
+1477, Marius Nacht, 1600.0, software
+1477, Ni Zugen, 1600.0, appliances
+1477, Lirio Parisotto, 1600.0, investments
+1477, Karl-Johan Persson, 1600.0, H&M
+1477, Tom Persson, 1600.0, H&M
+1477, Dmitry Pumpyansky, 1600.0, steel pipes
+1477, Ruan Shuilong, 1600.0, chemicals
+1477, Jean Salata, 1600.0, finance
+1477, Sheryl Sandberg, 1600.0, Facebook
+1477, Niraj Shah, 1600.0, online retail
+1477, Shin Dong-Guk, 1600.0, Pharmaceuticals
+1477, Ben Silbermann, 1600.0, Pinterest
+1477, Charlotte Soderstrom, 1600.0, H&M
+1477, Thomas Steyer, 1600.0, hedge funds
+1477, Su Weizhong, 1600.0, oil, fertilizers
+1477, David Teoh, 1600.0, telecoms
+1477, Wang Jinshu, 1600.0, chemicals
+1477, Wang Yaohai, 1600.0, lighting
+1477, Charlotte Colket Weber, 1600.0, Campbell Soup
+1477, Wei Ing-Chou, 1600.0, food, beverages
+1477, Yin-Chun Wei, 1600.0, food, beverages
+1477, Wei Yin-Heng, 1600.0, food, beverages
+1477, Wei Ying-Chiao, 1600.0, food, beverages
+1477, Richard White, 1600.0, software
+1477, Allan Wong, 1600.0, electronics
+1477, Wong Kwong Yu, 1600.0, retail
+1477, Wu Jianshu, 1600.0, auto parts
+1477, Wu Xu, 1600.0, real estate
+1477, Wu Xushun, 1600.0, internet, auto parts
+1477, Luis Enrique Yarur Rey, 1600.0, banking
+1477, Albert Yeung, 1600.0, real estate, retail
+1477, Yu Rong, 1600.0, health clinics
+1477, Kostyantin Zhevago, 1600.0, mining
+1477, Zhou Chengjian, 1600.0, fashion retail
+1477, Zhou Yaoting, 1600.0, apparel, real estate
+1477, Zhuang Kuilong, 1600.0, polyester
+1561, Jose Joao Abdalla Filho, 1500.0, investments
+1561, Khalifa Bin Butti Al Muhairi, 1500.0, hospitals, investments
+1561, Folorunsho Alakija, 1500.0, oil
+1561, Bill Alfond, 1500.0, shoes
+1561, Susan Alfond, 1500.0, shoes
+1561, Ted Alfond, 1500.0, shoes
+1561, Joy Alukkas, 1500.0, jewelry
+1561, Andrey Andreev, 1500.0, online dating
+1561, Carol Jenkins Barnett, 1500.0, Publix supermarkets
+1561, Oleg Boyko, 1500.0, diversified
+1561, Ana Maria Brescia Cafferata, 1500.0, mining, banking
+1561, Binod Chaudhary, 1500.0, diversified
+1561, Che Fengsheng, 1500.0, pharmaceuticals
+1561, Chen Qingzhou, 1500.0, communications equipment
+1561, Richard Desmond, 1500.0, publishing
+1561, Mohammed Dewji, 1500.0, diversified
+1561, Carl Douglas, 1500.0, investments
+1561, Eric Douglas, 1500.0, investments
+1561, Bulent Eczacibasi, 1500.0, pharmaceuticals, diversified
+1561, Faruk Eczacibasi, 1500.0, pharmaceuticals, diversified
+1561, Martha Ford, 1500.0, Ford Motor
+1561, Yasuhiro Fukushima, 1500.0, video games
+1561, Reinold Geiger, 1500.0, beauty products
+1561, Saad Hariri, 1500.0, construction, investments
+1561, Richard Hayne, 1500.0, Urban Outfitters
+1561, Ilona Herlin, 1500.0, elevators, escalators
+1561, Asok Kumar Hiranandani, 1500.0, real estate
+1561, Niranjan Hiranandani, 1500.0, real estate
+1561, Huang Qiaoling, 1500.0, amusement parks
+1561, Huang Zhuangmian, 1500.0, logistics
+1561, Hal Jackman, 1500.0, insurance, investments
+1561, Anurang Jain, 1500.0, auto parts
+1561, Keeree Kanjanapas, 1500.0, transportation
+1561, Kim Nam-Jung, 1500.0, food
+1561, Seth Klarman, 1500.0, investments
+1561, Alexander Klyachin, 1500.0, real estate
+1561, Yuriy Kosiuk, 1500.0, agriculture
+1561, Miguel Krigsner, 1500.0, cosmetics
+1561, Lee Yin Yee, 1500.0, glass
+1561, Nicola Leibinger-Kammueller, 1500.0, manufacturing
+1561, Li Weiwei, 1500.0, online games
+1561, William Li, 1500.0, automobiles
+1561, Li Yihai, 1500.0, pharmaceuticals
+1561, Li Yong, 1500.0, chemicals
+1561, Lin Ming-hsiung, 1500.0, supermarkets
+1561, Lou Zhongfu, 1500.0, real estate
+1561, Low Tuck Kwong, 1500.0, coal
+1561, P.N.C. Menon, 1500.0, real estate
+1561, Thomas Meyer, 1500.0, apparel retailer
+1561, Ezra Nahmad, 1500.0, art
+1561, Judith Neilson, 1500.0, investments
+1561, Madeleine Olsson Ericksson, 1500.0, diversified
+1561, Ou Zonghong, 1500.0, real estate
+1561, Eren Ozmen, 1500.0, aerospace
+1561, Fatih Ozmen, 1500.0, aerospace
+1561, Jose Isaac Peres, 1500.0, shopping malls
+1561, Mark Pincus, 1500.0, online games
+1561, Kevin Plank, 1500.0, Under Armour
+1561, Nicholas Pritzker, II., 1500.0, hotels, investments
+1561, Que Wenbin, 1500.0, pharmaceuticals
+1561, Jorge Rodriguez Rodriguez, 1500.0, processed milk
+1561, Nobutada Saji, 1500.0, beverages
+1561, Thomas Sandell, 1500.0, hedge funds
+1561, Eddy Kusnadi Sariaatmadja, 1500.0, media, tech
+1561, Fayez Sarofim, 1500.0, money management
+1561, Monika Schoeller, 1500.0, publishing
+1561, Antonio Luiz Seabra, 1500.0, cosmetics
+1561, Yuri Shefler, 1500.0, alcohol
+1561, Rajju Shroff, 1500.0, agrochemicals
+1561, Frank Stronach, 1500.0, auto parts
+1561, Kevin Systrom, 1500.0, Instagram
+1561, Tang Hsiang-chien, 1500.0, textiles, electronics
+1561, Tang Jianfang, 1500.0, packaged foods
+1561, Ning Tang, 1500.0, online lending
+1561, Jim Thompson, 1500.0, logistics
+1561, Jonathan Tisch, 1500.0, insurance, NFL team
+1561, Kenneth Tuchman, 1500.0, outsourcing
+1561, Wim van der Leegte, 1500.0, manufacturing
+1561, Shamsheer Vayalil, 1500.0, healthcare
+1561, Thongma Vijitpongpun, 1500.0, real estate
+1561, Arkady Volozh, 1500.0, search engine
+1561, Stefan von Holtzbrinck, 1500.0, publishing
+1561, Wang Jiufang, 1500.0, real estate
+1561, Wong Hong King, 1500.0, real estate
+1561, Ian Wood, 1500.0, energy services
+1561, Xiao Chunhong, 1500.0, real estate
+1561, Jacky Xu, 1500.0, apparel
+1561, Zhang Hongwei, 1500.0, oil, banking
+1561, Zhang Tao, 1500.0, e-commerce
+1650, Anu Aga, 1400.0, engineering
+1650, Farkhad Akhmedov, 1400.0, investments
+1650, Alberto Alcocer, 1400.0, investments
+1650, Bassam Alghanim, 1400.0, diversified
+1650, Kutayba Alghanim, 1400.0, diversified
+1650, Alexandra Andresen, 1400.0, investments
+1650, Katharina Andresen, 1400.0, investments
+1650, Vasily Anisimov, 1400.0, real estate
+1650, Mori Arkin, 1400.0, pharmaceuticals
+1650, Nigel Austin, 1400.0, retailing
+1650, Krishna Kumar Bangur, 1400.0, graphite electrodes
+1650, Herb Chambers, 1400.0, car dealerships
+1650, R.G. Chandramogan, 1400.0, dairy
+1650, Chang Pyung-Soon, 1400.0, educational services
+1650, Chao Teng-hsiung, 1400.0, real estate
+1650, Chen Liying, 1400.0, package delivery
+1650, Chen Tianqiao, 1400.0, online games
+1650, Henry Cheng, 1400.0, property
+1650, Chey Ki-Won, 1400.0, computer services, telecom
+1650, Chi Yufeng, 1400.0, software
+1650, Chua Thian Poh, 1400.0, real estate
+1650, Chung Yong-Jin, 1400.0, retail
+1650, Ciputra, 1400.0, real estate
+1650, Alberto Cortina, 1400.0, investments
+1650, Robert Coyiuto, Jr., 1400.0, power
+1650, Maria Del Pino y Calvo-Sotelo, 1400.0, construction
+1650, K. Dinesh, 1400.0, software services
+1650, Du Weimin, 1400.0, vaccines
+1650, John Edson, 1400.0, leisure craft
+1650, David Einhorn, 1400.0, hedge funds
+1650, Bob Ell, 1400.0, real estate
+1650, Gary Fegel, 1400.0, commodities, investments
+1650, Victor Fung, 1400.0, trading company
+1650, William Fung, 1400.0, sourcing
+1650, Alan Gerry, 1400.0, cable television
+1650, Balkrishan Goenka, 1400.0, textiles
+1650, Polys Haji-Ioannou, 1400.0, EasyJet
+1650, Mehmet Hattat, 1400.0, diversified
+1650, J. Tomilson Hill, 1400.0, investments
+1650, Eduardo Hochschild, 1400.0, mining
+1650, Hoi Kin Hong, 1400.0, real estate
+1650, Hur Young-In, 1400.0, bakeries, fast food
+1650, George Joseph, 1400.0, insurance
+1650, Ronald Joyce, 1400.0, coffee chain
+1650, T.S. Kalyanaraman, 1400.0, jewelry
+1650, Nimesh Kampani, 1400.0, investment banking
+1650, Eugene Kaspersky, 1400.0, software
+1650, Viktor Kharitonin, 1400.0, pharmaceuticals
+1650, Pyotr Kondrashev, 1400.0, investments
+1650, Yuri Kovalchuk, 1400.0, banking, insurance, media
+1650, Kagemasa Kozuki, 1400.0, video games
+1650, Michael Krasny, 1400.0, retail
+1650, James Leininger, 1400.0, medical products
+1650, Li Guoqiang, 1400.0, auto dealerships
+1650, Li Liangbin, 1400.0, lithium
+1650, Liu Ko-chen, 1400.0, Manufacturing
+1650, Anatoly Lomakin, 1400.0, investments
+1650, Ma Hong, 1400.0, fashion retail
+1650, Gary Magness, 1400.0, cable TV, investments
+1650, Youssef Mansour, 1400.0, diversified
+1650, Strive Masiyiwa, 1400.0, telecom
+1650, Dariusz Milek, 1400.0, real estate, retail
+1650, Nan Cunhui, 1400.0, power equipment
+1650, Dinesh Nandwana, 1400.0, software services
+1650, Oei Hong Leong, 1400.0, investments
+1650, Rubens Ometto Silveira Mello, 1400.0, sugar, ethanol
+1650, Ou Xueming, 1400.0, real estate
+1650, Markus Persson, 1400.0, computer games
+1650, Victor Pinchuk, 1400.0, steel pipes, diversified
+1650, Alberto Prada, 1400.0, luxury goods
+1650, Marina Prada, 1400.0, luxury goods
+1650, Forrest Preston, 1400.0, health care
+1650, Jerry Reinsdorf, 1400.0, sports teams
+1650, Fernando Roig, 1400.0, supermarkets
+1650, Subhash Runwal, 1400.0, real estate
+1650, Yoshiyuki Sankai, 1400.0, robotics
+1650, Kirill Shamalov, 1400.0, petrochemicals
+1650, Shin Dong-Bin, 1400.0, retail
+1650, Evgeny (Eugene) Shvidler, 1400.0, oil & gas, investments
+1650, Jasminder Singh, 1400.0, hotels
+1650, Martua Sitorus, 1400.0, palm oil
+1650, Peter Sperling, 1400.0, education
+1650, Jerzy Starak, 1400.0, pharmaceuticals
+1650, Manny Stul, 1400.0, toys
+1650, Su Rubo, 1400.0, real estate
+1650, Fuat Tosyali, 1400.0, steel
+1650, Kenny Troutt, 1400.0, telecom
+1650, Rufino Vigil Gonzalez, 1400.0, steel
+1650, Wang Jianfeng, 1400.0, auto parts
+1650, Wang Jing, 1400.0, telecom services
+1650, Wang Qunbin, 1400.0, conglomerate
+1650, Dan Wilks, 1400.0, natural gas
+1650, Farris Wilks, 1400.0, natural gas
+1650, Thomas Wu, 1400.0, finance
+1650, Yi Zheng, 1400.0, software
+1650, Yuan Fugen, 1400.0, metal processing
+1650, Richard Yuengling, Jr., 1400.0, beer
+1650, Gavril Yushvaev, 1400.0, precious metals, real estate
+1650, Zeng Kaitian, 1400.0, online games
+1650, Zhang Wanzhen, 1400.0, electronic components
+1650, Zhang Yubai, 1400.0, wine
+1650, Changpeng Zhao, 1400.0, cryptocurrency
+1650, Zhou Yifeng, 1400.0, chemicals
+1650, Zhou Yongli, 1400.0, conglomerate
+1650, Zhu Wenchen, 1400.0, pharmaceuticals
+1650, Ahmet Nazif Zorlu, 1400.0, diversified
+1756, Len Ainsworth, 1300.0, betting machines
+1756, Edmund Ansin, 1300.0, television
+1756, Markus Blocher, 1300.0, chemicals
+1756, Leonid Boguslavsky, 1300.0, venture capital
+1756, Jorge Horacio Brito, 1300.0, banking
+1756, Saket Burman, 1300.0, consumer goods
+1756, Steve Case, 1300.0, AOL
+1756, Jeffrey Cheah, 1300.0, property
+1756, Bruce Cheng, 1300.0, electronics
+1756, Cheng Xianfeng, 1300.0, pharmaceuticals
+1756, Ivan Chrenko, 1300.0, real estate
+1756, Eduardo Cojuangco, 1300.0, food, drinks
+1756, Brunello Cucinelli, 1300.0, fashion
+1756, Darwin Deason, 1300.0, Xerox
+1756, Andrea Della Valle, 1300.0, shoes
+1756, Jamie Dimon, 1300.0, banking
+1756, Charles Dunstone, 1300.0, mobile phones
+1756, Bruce Flatt, 1300.0, money management
+1756, Fu Meicheng, 1300.0, TV shows, movies
+1756, Soichiro Fukutake, 1300.0, education
+1756, Don Gao, 1300.0, power tools
+1756, Gao Yunfeng, 1300.0, industrial lasers
+1756, Anne Gittinger, 1300.0, Nordstrom department stores
+1756, Clelia Haji-Ioannou, 1300.0, EasyJet
+1756, John Hancock, 1300.0, trust fund
+1756, Ronnen Harary, 1300.0, toys
+1756, Ayman Hariri, 1300.0, construction, investments
+1756, Fahd Hariri, 1300.0, construction, investments
+1756, Surendra Hiranandani, 1300.0, real estate
+1756, Alan Howard, 1300.0, hedge funds
+1756, Hu Keqin, 1300.0, chemicals
+1756, Archie Hwang, 1300.0, semiconductors
+1756, Irwin Jacobs, 1300.0, semiconductors
+1756, Mitchell Jacobson, 1300.0, industrial equipment
+1756, Rana Kapoor, 1300.0, banking
+1756, Alexander Karp, 1300.0, software firm
+1756, Raghuvinder Kataria, 1300.0, diversified
+1756, Habil Khorakiwala, 1300.0, pharmaceuticals
+1756, Sidney Kimmel, 1300.0, retail
+1756, Andre Koo, 1300.0, financial services
+1756, Koo Bon-Neung, 1300.0, electronics
+1756, Andrei Kosogov, 1300.0, oil, banking, telecom
+1756, Lee Ho-Jin, 1300.0, diversified
+1756, Solomon Lew, 1300.0, retail
+1756, Rodney Lewis, 1300.0, natural gas
+1756, Li Jiaquan, 1300.0, chemicals
+1756, Lin Fanlian, 1300.0, gas
+1756, Lin Jianhua, 1300.0, solar panel components
+1756, Lin Tianfu, 1300.0, footwear, apparel
+1756, Louise Lindh, 1300.0, investments
+1756, Liu Baolin, 1300.0, pharmacies
+1756, Jose Llado Fernandez-Urrutia, 1300.0, construction
+1756, Lu Di, 1300.0, drones
+1756, Cargill MacMillan, III., 1300.0, Cargill
+1756, John MacMillan, 1300.0, Cargill
+1756, Martha MacMillan, 1300.0, Cargill
+1756, William MacMillan, 1300.0, Cargill
+1756, Katarina Martinson, 1300.0, investments
+1756, Craig Newmark, 1300.0, Craigslist
+1756, Bruce Nordstrom, 1300.0, Nordstrom department stores
+1756, Pierre Karl Péladeau, 1300.0, media
+1756, David Penaloza Alanis, 1300.0, toll roads
+1756, Andreas Pohl, 1300.0, mutual funds
+1756, Reinfried Pohl, Jr., 1300.0, mutual funds
+1756, Mahendra Prasad, 1300.0, pharmaceuticals
+1756, Anton Rabie, 1300.0, toys
+1756, Bianca Rinehart, 1300.0, trust fund
+1756, Ginia Rinehart, 1300.0, trust fund
+1756, Alexander Rovt, 1300.0, fertilizer, real estate
+1756, Lily Safra, 1300.0, banking
+1756, Deniz Sahenk, 1300.0, diversified
+1756, Karin Schick, 1300.0, information technology
+1756, Leonard Schleifer, 1300.0, pharmaceuticals
+1756, Dieter Schnabel, 1300.0, chemicals
+1756, Bhadresh Shah, 1300.0, engineering
+1756, Shao Qinxiang, 1300.0, diversified
+1756, Eric Ya Shen, 1300.0, online apparel retail
+1756, Nobutoshi Shimamura, 1300.0, retail
+1756, Shum Chiu Hung, 1300.0, real estate
+1756, Helmut Sohmen, 1300.0, shipping
+1756, Sun Qinghuan, 1300.0, lighting
+1756, Sun Yinhuan, 1300.0, real estate
+1756, Djoko Susanto, 1300.0, supermarkets
+1756, Erol Tabanca, 1300.0, Construction
+1756, Alexander Tedja, 1300.0, real estate
+1756, Wilma Tisch, 1300.0, diversified
+1756, Ayhan Tosyali, 1300.0, steel
+1756, Fatih Tosyali, 1300.0, steel
+1756, Tran Dinh Long, 1300.0, steel, heavy industry
+1756, Tsai Ming-Kai, 1300.0, semiconductors
+1756, Pavel Tykac, 1300.0, coal mines
+1756, Jayshree Ullal, 1300.0, technology
+1756, Wan Long, 1300.0, food
+1756, Wang Muqing, 1300.0, auto distribution
+1756, Wang Yong, 1300.0, food sweeteners
+1756, Hope Welker, 1300.0, trust fund
+1756, Wen Yibo, 1300.0, wastewater treatment
+1756, Stephen T. Winn, 1300.0, real estate services
+1756, Gordon Wu, 1300.0, real estate
+1756, Wu Lanlan, 1300.0, packaging
+1756, Xu Ziquan, 1300.0, software
+1756, Yang Meirong, 1300.0, education
+1756, Yang Tingdong, 1300.0, brewery
+1756, You Xiaoping, 1300.0, chemicals, spandex
+1756, Yu Peidi, 1300.0, real estate
+1756, Yu Qibing, 1300.0, glass
+1756, Yu Yunxin, 1300.0, costume jewelry
+1756, Zan Shengda, 1300.0, diversified
+1756, Zhang Guiping, 1300.0, real estate
+1756, Zhao Weiguo, 1300.0, IT products
+1756, Zheng Jianjiang, 1300.0, electrical equipment
+1867, Hamad bin Jassim bin Jaber Al Thani, 1200.0, investments
+1867, Fawzi Al-Kharafi, 1200.0, diversified
+1867, Mohannad Al-Kharafi, 1200.0, diversified
+1867, Isak Andic, 1200.0, fashion retail
+1867, Marc Andreessen, 1200.0, venture capital investing
+1867, Jose Maria Aristrain, 1200.0, Steel
+1867, Thomas Bailey, 1200.0, money management
+1867, Harindarpal Banga, 1200.0, commodities
+1867, Elena Baturina, 1200.0, investments, real estate
+1867, Eduardo Belmont Anderson, 1200.0, cosmetics
+1867, Tomasz Biernacki, 1200.0, supermarkets
+1867, Zadik Bino, 1200.0, banking, oil
+1867, Brett Blundy, 1200.0, retail, agribusiness
+1867, Henadiy Boholyubov, 1200.0, banking, investments
+1867, Charles Brandes, 1200.0, money management
+1867, Amit Burman, 1200.0, consumer goods
+1867, Cai Dongqing, 1200.0, animation
+1867, Chen Bo, 1200.0, wind power generation
+1867, Cheng Wei, 1200.0, ride-hailing service
+1867, Phongthep Chiaravanont, 1200.0, diversified
+1867, Kochouseph Chittilappilly, 1200.0, manufacturing
+1867, Chu Jinfu, 1200.0, electrical equipment
+1867, Eduardo Costantini, 1200.0, real estate
+1867, Sol Daurella, 1200.0, Coca-Cola
+1867, Philip Day, 1200.0, clothing retail
+1867, D. Leopoldo Del Pino y Calvo-Sotelo, 1200.0, construction
+1867, Norbert Dentressangle, 1200.0, transport, logistics
+1867, Beda Diethelm, 1200.0, hearing aids
+1867, Mark Dixon, 1200.0, office real estate
+1867, Henry Engelhardt, 1200.0, insurance
+1867, Fang Hongbo, 1200.0, home appliances
+1867, Gleb Fetisov, 1200.0, investments
+1867, Donald Foss, 1200.0, auto loans
+1867, Robert Friedland, 1200.0, mining
+1867, Donald Friese, 1200.0, manufacturing
+1867, Fu Guangming, 1200.0, poultry
+1867, Dan Gertler, 1200.0, mining
+1867, Dennis Gillings, 1200.0, drug testing
+1867, Ryan Graves, 1200.0, uber
+1867, Gu Wei, 1200.0, consumer electronics
+1867, Alfredo Harp Helu, 1200.0, banking
+1867, Gudrun Heine, 1200.0, medical devices
+1867, Francis Holder, 1200.0, bakeries
+1867, Hong Seok-Joh, 1200.0, convenience stores
+1867, Douglas Hsu, 1200.0, diversified
+1867, Huang Jianrong, 1200.0, minerals
+1867, B. Wayne Hughes, Jr., 1200.0, storage facilities
+1867, Daisy Igel, 1200.0, gas, petrochemicals
+1867, Thomas James, 1200.0, finance
+1867, Jiang Ganjun, 1200.0, home & office products
+1867, Jiang Zhaobai, 1200.0, real estate
+1867, Jin Huiming, 1200.0, real estate
+1867, Ajay Kalsi, 1200.0, oil & gas
+1867, Helga Kellerhals, 1200.0, electronics retailer
+1867, King Pak Fu, 1200.0, real estate
+1867, Sergei Kolesnikov, 1200.0, building materials
+1867, Hemendra Kothari, 1200.0, Financial Services
+1867, Eiichi Kuriwada, 1200.0, package delivery
+1867, Guy Laliberté, 1200.0, Cirque du Soleil
+1867, Lee Hae-Jin, 1200.0, Internet
+1867, Michael Lee-Chin, 1200.0, mutual funds
+1867, Li Guangyu, 1200.0, education
+1867, Li Jun, 1200.0, electronics
+1867, Li Rucheng, 1200.0, apparel
+1867, Li Xuhui, 1200.0, soy sauce maker
+1867, Lim Wee Chai, 1200.0, rubber gloves
+1867, Liu Jiang, 1200.0, gas
+1867, Liu Xuejing, 1200.0, copper, poultry
+1867, Liu Zhenguo, 1200.0, sewage treatment
+1867, Lo Ka Shui, 1200.0, real estate
+1867, Lo Siu-tong, 1200.0, real estate, hotels
+1867, Tobi Lutke, 1200.0, e-commerce
+1867, Ma Yunsheng, 1200.0, energy
+1867, Ziyavudin Magomedov, 1200.0, port, gas
+1867, Ana Maria Marcondes Penido Sant'Anna, 1200.0, toll roads
+1867, Terence (Terry) Matthews, 1200.0, telecom
+1867, Gail Miller, 1200.0, basketball, car dealers
+1867, Andrei Molchanov, 1200.0, construction materials
+1867, Ni Zhaoxing, 1200.0, real estate
+1867, Kentaro Ogawa, 1200.0, restaurants
+1867, Erik Paulsson, 1200.0, construction, real estate
+1867, Peng Hao, 1200.0, electronics
+1867, Stefan Pierer, 1200.0, automotive
+1867, Michael Price, 1200.0, investments
+1867, Clayton Riddell, 1200.0, oil & gas
+1867, Boris Rotenberg, 1200.0, construction, pipes, chemicals
+1867, Igor Rybakov, 1200.0, building materials
+1867, Stephen Saad, 1200.0, pharmaceuticals
+1867, K. Rai Sahi, 1200.0, real estate
+1867, Airat Shaimiev, 1200.0, refinery, chemicals
+1867, Radik Shaimiev, 1200.0, refinery, chemicals
+1867, Shang Jiyong, 1200.0, tires, chemicals
+1867, Mikhail Shelkov, 1200.0, titanium
+1867, S.D. Shibulal, 1200.0, software services
+1867, Ron Sim, 1200.0, retail
+1867, Leonid Simanovsky, 1200.0, investments
+1867, Basudeo Singh, 1200.0, pharmaceuticals
+1867, Samprada Singh, 1200.0, pharmaceuticals
+1867, Terry Snow, 1200.0, airports, real estate
+1867, Lynsi Snyder, 1200.0, In-N-Out Burger
+1867, Sybill Storz, 1200.0, medical devices
+1867, Harjo Sutanto, 1200.0, consumer goods
+1867, Yoshikazu Tanaka, 1200.0, social network
+1867, Mehmet Sinan Tara, 1200.0, construction
+1867, Rit Thirakomen, 1200.0, restaurants
+1867, Tian Ming, 1200.0, measuring instruments
+1867, Ion Tiriac, 1200.0, banking, insurance
+1867, Ivar Tollefsen, 1200.0, Real estate
+1867, Mustafa Latif Topbas, 1200.0, food, retail
+1867, Thomas Tull, 1200.0, movies
+1867, John Van Lieshout, 1200.0, real estate
+1867, Wang Han, 1200.0, airline
+1867, Wang Junjin, 1200.0, airline
+1867, Wang Wenbiao, 1200.0, natural gas, fertilizers
+1867, Alfred West, Jr., 1200.0, money management
+1867, Wu Daohong, 1200.0, energy services
+1867, Wu Yiling, 1200.0, pharmaceuticals
+1867, Xiu Laigui, 1200.0, pharmaceuticals
+1867, Xu Xiong, 1200.0, driving schools
+1867, Xu Xudong, 1200.0, auto parts
+1867, Xue Hua, 1200.0, Agribusiness
+1867, Vadim Yakunin, 1200.0, pharmacy
+1867, Yan Yude, 1200.0, private schools
+1867, Yang Keng, 1200.0, real estate
+1867, Yang Shaopeng, 1200.0, Shipping
+1867, Zhang Cheng Fei, 1200.0, paper & related products
+1867, Zhang Jingzhang, 1200.0, precision machinery
+1867, Zhang Keqiang, 1200.0, real estate
+1867, Zhang Xuanning, 1200.0, retail
+1867, Zhang Zhangsun, 1200.0, real estate
+1867, Zhou Bajin, 1200.0, auto parts
+1867, Zhou Wenyu, 1200.0, real estate
+1999, William Ackman, 1100.0, hedge funds
+1999, Soegiarto Adikoesoemo, 1100.0, chemicals
+1999, Ali Ibrahim Agaoglu, 1100.0, construction
+1999, Hamdi Akin, 1100.0, diversified
+1999, Chirayu Amin, 1100.0, pharmaceuticals
+1999, Mehmet Aydinlar, 1100.0, hospitals
+1999, Emanuella Barilla, 1100.0, Barilla pasta
+1999, Guido Barilla, 1100.0, Barilla pasta
+1999, Luca Barilla, 1100.0, Barilla pasta
+1999, Paolo Barilla, 1100.0, Barilla pasta
+1999, Mehmet Rustu Basaran, 1100.0, banking, gas
+1999, J. Hyatt Brown, 1100.0, insurance
+1999, Bu Yang, 1100.0, retail
+1999, Hideyuki Busujima, 1100.0, pachinko machines
+1999, Cai Rongjun, 1100.0, electronic components
+1999, Cai Xiaoru, 1100.0, electronic components
+1999, Delfin Jorge Ezequiel Carballo, 1100.0, banking
+1999, Chen Jinshi, 1100.0, construction, real estate
+1999, Chen Qixing, 1100.0, electronics components
+1999, Chen Shiliang, 1100.0, polyester
+1999, Chen Xiaxin, 1100.0, industrial machinery
+1999, Manas Chiaravanond, 1100.0, diversified
+1999, Yupa Chiaravanond, 1100.0, diversified
+1999, Prathip Chiravanond, 1100.0, diversified
+1999, Gustavo Cisneros, 1100.0, media
+1999, Sandor Csanyi, 1100.0, finance, real estate
+1999, Cui Lijie, 1100.0, gambling
+1999, Dang Yanbao, 1100.0, coal
+1999, Bharat Desai, 1100.0, IT consulting
+1999, Joseph Edelman, 1100.0, hedge funds
+1999, Wolfgang Egger, 1100.0, real estate
+1999, Andrei Filatov, 1100.0, ports, railway transport
+1999, Paul Fireman, 1100.0, Reebok
+1999, J. Christopher Flowers, 1100.0, investments
+1999, Fu Kwan, 1100.0, real estate, diversified
+1999, Sheela Gautam, 1100.0, mattresses
+1999, Drew Houston, 1100.0, file hosting service
+1999, Huang Shilin, 1100.0, storage batteries
+1999, Huang Wen Tsai, 1100.0, real estate
+1999, Mohammed Ibrahim, 1100.0, communications
+1999, Hiroshi Ishibashi, 1100.0, tires
+1999, Bent Jensen, 1100.0, electric linear systems
+1999, Chatchai Kaewbootta, 1100.0, auto loans
+1999, Jonas Kamprad, 1100.0, IKEA
+1999, Mathias Kamprad, 1100.0, IKEA
+1999, Peter Kamprad, 1100.0, IKEA
+1999, Madhu Kapur, 1100.0, banking
+1999, Richard Kayne, 1100.0, investments
+1999, Vladimir Kogan, 1100.0, banking
+1999, Koh Wee Meng, 1100.0, real estate, hotels
+1999, Koo Bon-Joon, 1100.0, electronics, household products
+1999, Lam Lung On, 1100.0, real estate
+1999, Isaac Larian, 1100.0, toys
+1999, Frank Laukien, 1100.0, scientific equipment
+1999, Lee Joon-Ho, 1100.0, online games
+1999, Lee Sang-Hyuk, 1100.0, investments
+1999, Nancy Lerner, 1100.0, banking, credit cards
+1999, Norma Lerner, 1100.0, banking
+1999, Randolph Lerner, 1100.0, banking, credit cards
+1999, David Xueling Li, 1100.0, live streaming service
+1999, Li Tan, 1100.0, pharmaceuticals
+1999, Li Weiguo, 1100.0, construction materials
+1999, Liang Feng, 1100.0, manufacturing
+1999, Liang Guangwei, 1100.0, conglomerate
+1999, Liang Shezeng, 1100.0, real estate
+1999, Liao Chang, 1100.0, wine
+1999, Jenny Lindén Urnes, 1100.0, powdered metal
+1999, Liu Zhendong, 1100.0, industrial parks
+1999, Liu Zhiqiang, 1100.0, conglomerate
+1999, Jonathan Lu, 1100.0, e-commerce
+1999, William Macaulay, 1100.0, energy investments
+1999, John Martin, 1100.0, pharmaceuticals
+1999, Yves-Loic Martin, 1100.0, laboratory services
+1999, Satish Mehta, 1100.0, pharmaceuticals
+1999, Nikita Mishin, 1100.0, ports, railway transport
+1999, Konstantin Nikolaev, 1100.0, ports, railway transport
+1999, Simon Nixon, 1100.0, price comparison website
+1999, Michael O'Leary, 1100.0, Ryanair
+1999, Liora Ofer, 1100.0, investments
+1999, Roberto Ongpin, 1100.0, diversified
+1999, Niti Osathanugrah, 1100.0, investments
+1999, Frank Otto, 1100.0, retail
+1999, Gretel Packer, 1100.0, casinos
+1999, Alberto Palatchi, 1100.0, wedding dresses
+1999, Peng Jianhu, 1100.0, tourism
+1999, Lucy Peng, 1100.0, e-commerce
+1999, Andrei Rappoport, 1100.0, investments
+1999, Andrea Reimann-Ciardelli, 1100.0, consumer goods
+1999, Igor Rotenberg, 1100.0, construction, real estate
+1999, Alan Rydge, 1100.0, entertainment
+1999, Chris Sacca, 1100.0, venture capital investing
+1999, Alexander Samwer, 1100.0, tech investments
+1999, Marc Samwer, 1100.0, tech investments
+1999, Oliver Samwer, 1100.0, tech investments
+1999, Neil Shen, 1100.0, venture capital
+1999, Albert Shigaboutdinov, 1100.0, refinery, chemicals
+1999, Shin Dong-Joo, 1100.0, retail
+1999, Yoshiko Shinohara, 1100.0, staffing
+1999, Analjit Singh, 1100.0, healthcare
+1999, Stephen Smith, 1100.0, finance and investments
+1999, Michael Steinhardt, 1100.0, finance
+1999, Svein Stole, 1100.0, investments
+1999, Rustem Sulteev, 1100.0, refinery, chemicals
+1999, Julio Patricio Supervielle, 1100.0, banking
+1999, Min-Liang Tan, 1100.0, gaming
+1999, Hary Tanoesoedibjo, 1100.0, media
+1999, Sukanto Tanoto, 1100.0, diversified
+1999, Tiong Hiew King, 1100.0, timber, media
+1999, Laurie Tisch, 1100.0, insurance, NFL team
+1999, Steven Tisch, 1100.0, insurance
+1999, James Truchard, 1100.0, software
+1999, Vardis Vardinoyannis, 1100.0, oil and gas
+1999, Murat Vargi, 1100.0, telecom
+1999, Wan Lianbu, 1100.0, fertilizers
+1999, Wang Miaotong, 1100.0, auto parts
+1999, Wang Zhenghua, 1100.0, budget airline
+1999, Wen Jianping, 1100.0, sewage treatment
+1999, Myron Wentz, 1100.0, health products
+1999, Xia Zuoquan, 1100.0, automobiles
+1999, Swift Xie, 1100.0, drones
+1999, Yao Jinbo, 1100.0, online marketplace
+1999, Fatma Tuba Yazici, 1100.0, diversified
+1999, Zhang Zhirong, 1100.0, real estate, shipbuilding
+1999, Zhao Yan, 1100.0, real estate, finance
+1999, Zhou Zongwen, 1100.0, jewelry
+2124, Raamdeo Agrawal, 1000.0, financial services
+2124, Maurizio Billi, 1000.0, generic drugs
+2124, Sara Blakely, 1000.0, Spanx
+2124, Pete Bodharamik, 1000.0, telecom
+2124, Cao Kejian, 1000.0, air compressors
+2124, Morris Chang, 1000.0, semiconductors
+2124, Richard Chang, 1000.0, real estate, electronics
+2124, Chen Jianming, 1000.0, real estate
+2124, Cho Yang-Rai, 1000.0, tire manufacturing
+2124, Yvon Chouinard, 1000.0, Patagonia
+2124, Eduard Chukhlebov, 1000.0, metallurgy
+2124, Jack Cockwell, 1000.0, Real Estate, Private Equity
+2124, John Collison, 1000.0, Stripe
+2124, Patrick Collison, 1000.0, Stripe
+2124, Henry Davis, 1000.0, beef processing
+2124, Francois Feuillet, 1000.0, motorhomes, RVs
+2124, Susumu Fujita, 1000.0, internet media
+2124, Filaret Galchev, 1000.0, construction materials
+2124, Yuri Gushchin, 1000.0, candy, real estate
+2124, David Hall, 1000.0, automotive technology
+2124, He Simo, 1000.0, power supply manufacturer
+2124, Hon Kwok Lung, 1000.0, real estate
+2124, Elie Horn, 1000.0, real estate
+2124, Huang Bingwen, 1000.0, packaging
+2124, Huang Xiaofen, 1000.0, printed circuit boards
+2124, Masayuki Ishihara, 1000.0, pachinko machines
+2124, Tarang Jain, 1000.0, auto components
+2124, Jiang Wei, 1000.0, pharmaceuticals
+2124, Jiang Xuefei, 1000.0, printed circuit boards
+2124, David Kabiller, 1000.0, investment management
+2124, Morris Kahn, 1000.0, software
+2124, Anton Kathrein, Jr., 1000.0, antennas
+2124, Kim Dae-Il, 1000.0, mobile gaming
+2124, Michael Kim, 1000.0, Investment
+2124, Ihor Kolomoyskyy, 1000.0, banking, investments
+2124, Koo Bon-Sik, 1000.0, electronics/household products
+2124, Igor Kudryashkin, 1000.0, metallurgy
+2124, Lev Kvetnoi, 1000.0, cement
+2124, Theodore Leonsis, 1000.0, sports teams
+2124, Lev Leviev, 1000.0, diamonds
+2124, Liang Zhaoxian, 1000.0, appliances
+2124, John Liew, 1000.0, Investment Management
+2124, Paul Little, 1000.0, logistics, real estate
+2124, Liu Fuhai, 1000.0, textiles, energy
+2124, Liu Jincheng, 1000.0, lithium batteries
+2124, Liu Shaoxi, 1000.0, real estate
+2124, Lu Weiding, 1000.0, diversified
+2124, Duncan MacMillan, 1000.0, Bloomberg LP
+2124, George Marcus, 1000.0, real estate
+2124, Bernardo Matte, 1000.0, paper
+2124, Eliodoro Matte, 1000.0, paper
+2124, Mi Enhua, 1000.0, retail
+2124, Lowell Milken, 1000.0, investments
+2124, Nirmal Minda, 1000.0, auto parts
+2124, Martin Naughton, 1000.0, heating equipment
+2124, Vadim Novinsky, 1000.0, steel
+2124, Sergei Petrov, 1000.0, auto import and dealerships
+2124, Carolyn Rafaelian, 1000.0, jewelry
+2124, Lawrence Rossy, 1000.0, dollar stores
+2124, Alice Schwartz, 1000.0, biotech
+2124, Martin Selig, 1000.0, real estate
+2124, Sathien Setthasit, 1000.0, energy drinks
+2124, Evan Sharp, 1000.0, Pinterest
+2124, Ravindra Kishore Sinha, 1000.0, security services
+2124, Axel Stawski, 1000.0, real estate
+2124, Beny Steinmetz, 1000.0, mining, diamonds, real estate
+2124, Dirk Stroeer, 1000.0, advertising
+2124, Sun Shangchuan, 1000.0, electronics components
+2124, Sam Tarascio, 1000.0, real estate
+2124, Robert Toll, 1000.0, home building
+2124, Surin Upatkoon, 1000.0, telecom, lotteries, insurance
+2124, Alexander Vik, 1000.0, investments
+2124, Peter-Alexander Wacker, 1000.0, chemicals
+2124, Wang Jianyi, 1000.0, fiber optic cables
+2124, V. Prem Watsa, 1000.0, insurance, investments
+2124, Sandy Weill, 1000.0, Citigroup
+2124, Wen Pengcheng, 1000.0, agribusiness
+2124, Wu Chung-yi, 1000.0, manufacturing
+2124, Yang Jianxin, 1000.0, apparel
+2124, Yao Xinyi, 1000.0, air conditioning
+2124, Zhao Xiaoqiang, 1000.0, fashion, entertainment
+2124, Zhou Liangzhang, 1000.0, electrical equipment
+2124, Zhu Xingming, 1000.0, electrical equipment
+2124, Zhuo Jun, 1000.0, printed circuit boards
+2124, Olgun Zorlu, 1000.0, diversified
